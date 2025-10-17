@@ -5,7 +5,7 @@ Name: Emily Despres
 
 Github Account name: zembug
 
-Link to Assignment on Github: ([copy and paste the link to your assignment repo here](https://github.com/CS5008Fall2025/homework-speed-comparison-zembug))
+Link to Assignment on Github: ([https://github.com/CS5008Fall2025/homework-speed-comparison-zembug](https://github.com/CS5008Fall2025/homework-speed-comparison-zembug))
 
 How many hours did it take you to complete this assignment (estimate)? 
 
