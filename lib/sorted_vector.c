@@ -1,9 +1,9 @@
 /**
  * Contains functions for the sorted vector struct
  *
- * @author: STUDENT ADD YOUR NAME
+ * @author: Emily Despres
  * @class: CS 5008
- * @term: UPDATE WITH CURRENT SEMESTER
+ * @term: Fall 2025
 **/
 
 #include "vector.h"
@@ -24,7 +24,21 @@
  * @param movie the movie to add
 */
 void add_to_sorted_vector(SortedMovieVector * vector, Movie * movie) {
-    // STUDENT TODO: implement this function
+    int i = 0; // start at beginning of vector
+
+    // loop through vector to find correct index to insert movie
+    while (i < vector->size) {
+        // get title currently at index i
+        Movie * current_movie = vector->movies[i];
+        int cmp = strcasecmp(movie->title, current_movie->title); // compare titles
+        // if new title is alphabetically after current title
+        if (cmp > 0) {
+            i++; // move to next index
+        } else {
+            break; // found correct index
+        }
+    }
+    vector_insert(vector, movie, i); // insert movie at correct index
 }
 
 /**
@@ -44,6 +58,8 @@ void add_to_sorted_vector(SortedMovieVector * vector, Movie * movie) {
  */
 Movie * find_in_sorted_vector(SortedMovieVector * vector, const char * title) {
     // STUDENT TODO: implement this function
+
+    int cmp = strcasecmp(title, movie->title);
 
     // if the movie is not found, return NULL
     return NULL;
