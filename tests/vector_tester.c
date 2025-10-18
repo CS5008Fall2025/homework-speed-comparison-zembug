@@ -52,6 +52,7 @@ void __debug_print_vector(MovieVector *vector) {
 
 /** 
  * Tests vector_insert to make sure a basic insert is
+ * 
  * correct across various sizes.
  * 
  * @return true if the test passed, false otherwise
