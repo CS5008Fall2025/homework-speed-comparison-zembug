@@ -85,6 +85,13 @@ void clear_and_free_linked_list(LinkedList *list) {
  */
 void ll_add_front(LinkedList *list, Movie *movie) {
     // STUDENT TODO: Implement
+    node *new_node = __ll__new_node(movie);
+    new_node->next = list->head;
+    if (list->tail == NULL) {
+        list->tail = new_node;
+    }
+    list->head = new_node;
+    list->size++;
 }
 
 /**
