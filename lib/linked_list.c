@@ -85,13 +85,13 @@ void clear_and_free_linked_list(LinkedList *list) {
  */
 void ll_add_front(LinkedList *list, Movie *movie) {
     // STUDENT TODO: Implement
-    node *new_node = __ll__new_node(movie);
-    new_node->next = list->head;
-    if (list->tail == NULL) {
-        list->tail = new_node;
+    node *new_node = __ll__new_node(movie); // create new node
+    new_node->next = list->head; // point new node to current head
+    if (list->tail == NULL) { // if list was empty
+        list->tail = new_node; // update tail to new node
     }
-    list->head = new_node;
-    list->size++;
+    list->head = new_node; // update head to new node
+    list->size++; // increment size of list
 }
 
 /**
@@ -106,6 +106,15 @@ void ll_add_front(LinkedList *list, Movie *movie) {
  */
 void ll_add_back(LinkedList *list, Movie *movie) {
     // STUDENT TODO: Implement
+    node *new_node = __ll__new_node(movie); // create new node
+    new_node->next = NULL;
+    if (list->tail != NULL) { 
+        list->tail->next = new_node;
+    } else {
+        list->head = new_node;
+    }
+    list->tail = new_node;
+    list->size++; // increment size of list
 }
 
 
@@ -122,6 +131,24 @@ void ll_add_back(LinkedList *list, Movie *movie) {
  */
 void ll_insert(LinkedList *list, Movie *movie, int n) {
    // STUDENT TODO: Implement
+    if (n < 0 || n > list->size)
+        return;
+    if (n == 0) {
+        ll_add_front(list, movie);
+        return;
+    }
+    if (n == list-> size) {
+        ll_add_back(list, movie);
+        return;
+    }
+    node *new_node = __ll__new_node(movie);
+    node *curr = list->head;
+    for (int i = 0; i < n - 1; i++) {
+        curr = curr->next;
+    }
+    new_node->next = curr->next;
+    curr->next = new_node;
+    list->size++;
 }
 
 
