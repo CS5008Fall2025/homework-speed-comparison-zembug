@@ -19,9 +19,9 @@ Don't forget to use latex math notation (example in the table).
 | Vector                    | $O(n)$     |  $O(n)$|     $O(n)$  |$O(nlogn)$|$O(n)$     |   $O(1)$ | $O(n)$       |   $O(1)$    |    $O(1)$    |
 | Single Linked List        |  $O(1)$    |  $O(n)$|     $O(n)$  |$O(nlogn)$|$O(1)$     |   $O(1)$ | $O(1)$       |   $O(n)$    |    $O(n)$    |
 | Double Linked List        |   $O(1)$   |  $O(n)$|     $O(n)$  |$O(nlogn)$|$O(1)$     |   $O(1)$ | $O(1)$       |   $O(1)$    |    $O(n)$    |
-| Sorted Vector             |     $O(n)$       |  $O(n)$      |   $O(logn)$          | $O(1)$   | ---       | ---      | ---          | ---         | ---          |
-| Sorted Single Linked List |    $O(n)$         |   $O(n)$      |   $O(n)$           | $O(1)$   | ---       | ---      | ---          | ---         | ---          |
-| Sorted Double Linked List |     $O(n)$       |  $O(n)$       |    $O(n)$          | $O(1)$   | ---       | ---      | ---          | ---         | ---          |
+| Sorted Vector             |     $O(n)$ | $O(n)$ |   $O(logn)$ | $O(1)$   | ---       | ---      | ---          | ---         | ---          |
+| Sorted Single Linked List |    $O(n)$  |   $O(n)$|   $O(n)$   | $O(1)$   | ---       | ---      | ---          | ---         | ---          |
+| Sorted Double Linked List |     $O(n)$ |  $O(n)$|    $O(n)$   | $O(1)$   | ---       | ---      | ---          | ---         | ---          |
 | Binary Search Tree        |$O(logn)$   |$O(logn)$| $O(logn)$  |  $O(n)$  | ---       | ---      | ---          | ---         | ---          |
 
 For Sort, we are asking for the Big $O$ for taking the current data structure and writing it 'sorted' to a file. However, not the file writes. For example, if you have a vector of 1000 elements, and you want to write it to a file, you would need to sort it first. So, the Big $O$ for this would be the Big $O$ for sorting. For BST, you have to convert the tree to a sequential structure, so the cost of doing that.  
@@ -30,13 +30,13 @@ For Sort, we are asking for the Big $O$ for taking the current data structure an
 
 Since the worst case can change considerably based on what sort you use for sorting (if any), list each algorithm below, and specify the algorithm used in your assumption.  For BST, write which  method of traversal you would use to sort it.  
 
-* Vector
-* Single Linked List
-* Double Linked List
-* Sorted Vector - already sorted
-* Sorted Single Linked List - already sorted
-* Sorted Double Linked List - already sorted
-* Binary Search Tree 
+* Vector - $O(nlogn)$ - mergesort
+* Single Linked List - $O(nlogn)$ - mergesort
+* Double Linked List - $O(nlogn)$ - mergesort
+* Sorted Vector - already sorted - $O(1)$
+* Sorted Single Linked List - already sorted - $O(1)$
+* Sorted Double Linked List - already sorted - $O(1)$
+* Binary Search Tree - $O(n)$ - inorder traversal
 
 ### Worst Case vs. Average Case
 
