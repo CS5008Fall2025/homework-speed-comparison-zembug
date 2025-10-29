@@ -149,11 +149,11 @@ Fill out the table below. This is a common technical interview topic!
 
 | Structure          | Good to use when                                                                 | Bad to use when                                                                  |
 | ------------------ | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
-| Vector             |                                                                                  |                                                                                  |
-| Linked List        | Good for stacks with frequent front only access                                  |                                                                                  |
+| Vector             | Need quick random access and frequent adds at end                                | Need to insert or delete in the middle often                                   |
+| Linked List        | Good for stacks with frequent front only access                                  | Need quick random access                                                |
 | Sorted Vector      | When values coming in are already mostly sorted and we need quick search access. | When space is limited and the dataset is extremely large causing memory to swap. |
-| Sorted Linked List |                                                                                  |                                                                                  |
-| BST                |                                                                                  | data is presorted                                                                |
+| Sorted Linked List | Need to keep items sorted with lots of adds or deletes                           | Need fast searching or random access                                       |
+| BST                | Need quick search/insert/delete with balanced branches                           | data is presorted                                                                |
 
 ## Conclusion
 
