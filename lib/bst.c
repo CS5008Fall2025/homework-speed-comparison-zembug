@@ -276,7 +276,7 @@ char * __bst__to_str_postorder(BSTNode * curr, char * str) {
     }
     str = __bst__to_str_postorder(curr->left, str); // traverse left subtree
     str = __bst__to_str_postorder(curr->right, str); // traverse right subtree
-    str = __bst__update_str(str, curr->movie); // visit current node, update string
+    str = __bst__update_str(curr->movie, str); // visit current node, update string
     return str; // return updated string
 }
 
@@ -297,7 +297,7 @@ char * __bst__to_str_preorder(BSTNode * curr, char * str) {
     if (curr == NULL) { // if current node is null return string as-is
         return str;
     }
-    str = __bst__update_str(str, curr->movie); // visit current node, update string
+    str = __bst__update_str(curr->movie, str); // visit current node, update string
     str = __bst__to_str_preorder(curr->left, str); // traverse left subtree
     str = __bst__to_str_preorder(curr->right, str); // traverse right subtree
     return str; // return updated string
@@ -321,7 +321,7 @@ char * __bst__to_str_inorder(BSTNode * curr, char * str) {
         return str;
     }
     str = __bst__to_str_inorder(curr->left, str); // traverse left subtree
-    str = __bst__update_str(str, curr->movie); // visit current node, update string
+    str = __bst__update_str(curr->movie, str); // visit current node, update string
     str = __bst__to_str_inorder(curr->right, str); // traverse right
     return str; // return updated string
 }
