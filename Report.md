@@ -19,10 +19,10 @@ Don't forget to use latex math notation (example in the table).
 | Vector                    | $O(n)$     |  $O(n)$|     $O(n)$  |$O(nlogn)$|$O(n)$     |   $O(1)$ | $O(n)$       |   $O(1)$    |    $O(n)$    |
 | Single Linked List        |  $O(1)$    |  $O(n)$|     $O(n)$  |$O(nlogn)$|$O(1)$     |   $O(1)$ | $O(1)$       |   $O(n)$    |    $O(n)$    |
 | Double Linked List        |   $O(1)$   |  $O(n)$|     $O(n)$  |$O(nlogn)$|$O(1)$     |   $O(1)$ | $O(1)$       |   $O(1)$    |    $O(n)$    |
-| Sorted Vector             |            |        |             | $O(1)$   | ---       | ---      | ---          | ---         | ---          |
-| Sorted Single Linked List |            |        |             | $O(1)$   | ---       | ---      | ---          | ---         | ---          |
-| Sorted Double Linked List |            |        |             | $O(1)$   | ---       | ---      | ---          | ---         | ---          |
-| Binary Search Tree        |$O(nlogn)$  |$O(nlogn)$        | $O(nlogn)$            |  $O(n)$        | ---       | ---      | ---          | ---         | ---          |
+| Sorted Vector             |     $O(n)$       |  $O(n)$      |   $O(logn)$          | $O(1)$   | ---       | ---      | ---          | ---         | ---          |
+| Sorted Single Linked List |    $O(n)$         |   $O(n)$      |   $O(n)$           | $O(1)$   | ---       | ---      | ---          | ---         | ---          |
+| Sorted Double Linked List |     $O(n)$       |  $O(n)$       |    $O(n)$          | $O(1)$   | ---       | ---      | ---          | ---         | ---          |
+| Binary Search Tree        |$O(logn)$   |$O(logn)$| $O(logn)$  |  $O(n)$  | ---       | ---      | ---          | ---         | ---          |
 
 For Sort, we are asking for the Big $O$ for taking the current data structure and writing it 'sorted' to a file. However, not the file writes. For example, if you have a vector of 1000 elements, and you want to write it to a file, you would need to sort it first. So, the Big $O$ for this would be the Big $O$ for sorting. For BST, you have to convert the tree to a sequential structure, so the cost of doing that.  
 
