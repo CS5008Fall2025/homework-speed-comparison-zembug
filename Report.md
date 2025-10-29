@@ -16,7 +16,7 @@ Don't forget to use latex math notation (example in the table).
 
 | -                         | Add/Insert | Remove | Search/Find | Sort     | Add Front | Add Back | Remove Front | Remove Back | Get by Index |
 | ------------------------- |:----------:|:------:|:-----------:|:--------:|:---------:|:--------:|:------------:|:-----------:|:------------:|
-| Vector                    | $O(n)$     |  $O(n)$|     $O(n)$  |$O(nlogn)$|$O(n)$     |   $O(1)$ | $O(n)$       |   $O(1)$    |    $O(n)$    |
+| Vector                    | $O(n)$     |  $O(n)$|     $O(n)$  |$O(nlogn)$|$O(n)$     |   $O(1)$ | $O(n)$       |   $O(1)$    |    $O(1)$    |
 | Single Linked List        |  $O(1)$    |  $O(n)$|     $O(n)$  |$O(nlogn)$|$O(1)$     |   $O(1)$ | $O(1)$       |   $O(n)$    |    $O(n)$    |
 | Double Linked List        |   $O(1)$   |  $O(n)$|     $O(n)$  |$O(nlogn)$|$O(1)$     |   $O(1)$ | $O(1)$       |   $O(1)$    |    $O(n)$    |
 | Sorted Vector             |     $O(n)$       |  $O(n)$      |   $O(logn)$          | $O(1)$   | ---       | ---      | ---          | ---         | ---          |
