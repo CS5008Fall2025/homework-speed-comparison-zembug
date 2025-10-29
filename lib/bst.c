@@ -1,9 +1,9 @@
 /**
  * Basic BST implementation.
  *
- * @author: STUDENT ADD YOUR NAME
+ * @author: Emily Despres
  * @class: CS 5008
- * @term: UPDATE WITH CURRENT SEMESTER
+ * @term: Fall 2025
  */
 
 #include <stdbool.h>
@@ -51,7 +51,7 @@ void __bst__free_node(BSTNode * node, bool clear) {
     if (node == NULL) {
         return;
     }
-    // STUDENT TODO: update this comment - is this, pre, post, or in order traversal?
+    // post-order traversal: left -> right -> node
     __bst__free_node(node->left, clear);
     __bst__free_node(node->right, clear);
     if (clear) {
@@ -92,7 +92,17 @@ void clear_and_free_bst(BST * bst) {
 */
 void __bst__add(BSTNode * curr, Movie * movie) {
    // STUDENT TODO: implement this function
+
+    // compare movies to decide to go left or right
+    if (compare_movies(movie, curr->movie) < 0) { // go left
+        if (curr->left == NULL) curr->left = __bst__new_node(movie); // found spot to add   
+        else __bst__add(curr->left, movie); // keep going left
+    } else if (compare_movies(movie, curr->movie) > 0) { // go right
+        if (curr->right == NULL) curr->right = __bst__new_node(movie); // found spot to add
+        else __bst__add(curr->right, movie); // keep going right
+    }
 }
+
 /**
  * Adds the given movie into the BST. 
  * Handles the root case, but then calls the recursive helper
@@ -187,7 +197,16 @@ void bst_remove(BST * bst, Movie * movie) {
 BSTNode * __bst__find(BSTNode * curr, const char * title) {
    // STUDENT TODO: implement this function
 
-   return NULL; // STUDENT TODO: update this return statement if needed
+    if (curr == NULL) { // reached null node, movie not found
+       return NULL;
+    }
+    if (strcasecmp(title, curr->movie->title) == 0) { // if titles match
+       return curr;
+    }
+    if (strcasecmp(title, curr->movie->title) < 0) { // if title comes before current movie title
+         return __bst__find(curr->left, title); // go left
+    }
+    return __bst__find(curr->right, title); // go right if title comes after current movie title
 }
 
 /**
@@ -251,7 +270,14 @@ char * __bst__update_str(Movie * movie, char * str) {
 */
 char * __bst__to_str_postorder(BSTNode * curr, char * str) {
     // STUDENT TODO: implement this function
-    return str;
+
+    if (curr == NULL) { // if current node is null return string as-is
+        return str;
+    }
+    str = __bst__to_str_postorder(curr->left, str); // traverse left subtree
+    str = __bst__to_str_postorder(curr->right, str); // traverse right subtree
+    str = __bst__update_str(str, curr->movie); // visit current node, update string
+    return str; // return updated string
 }
 
 /**
@@ -267,7 +293,14 @@ char * __bst__to_str_postorder(BSTNode * curr, char * str) {
  */
 char * __bst__to_str_preorder(BSTNode * curr, char * str) {
     // STUDENT TODO: implement this function
-    return str;
+
+    if (curr == NULL) { // if current node is null return string as-is
+        return str;
+    }
+    str = __bst__update_str(str, curr->movie); // visit current node, update string
+    str = __bst__to_str_preorder(curr->left, str); // traverse left subtree
+    str = __bst__to_str_preorder(curr->right, str); // traverse right subtree
+    return str; // return updated string
 }
 
 /**
@@ -283,7 +316,14 @@ char * __bst__to_str_preorder(BSTNode * curr, char * str) {
 */
 char * __bst__to_str_inorder(BSTNode * curr, char * str) {
     // STUDENT TODO: implement this function
-    return str;
+
+    if (curr == NULL) { // if current node is null return string as-is
+        return str;
+    }
+    str = __bst__to_str_inorder(curr->left, str); // traverse left subtree
+    str = __bst__update_str(str, curr->movie); // visit current node, update string
+    str = __bst__to_str_inorder(curr->right, str); // traverse right
+    return str; // return updated string
 }
 
 
@@ -365,6 +405,14 @@ char * bst_to_str(BST * tree, int traversal) {
 */
 void __bst__to_sorted_array(BSTNode * curr, Movie ** array, int * index) {
     // STUDENT TODO: implement this function
+
+    if (curr == NULL) { // base case: if current node is null, return
+        return;
+    }
+    __bst__to_sorted_array(curr->left, array, index); // traverse left subtree (smaller values)
+    array[*index] = curr->movie; // visit current node, store movie in array
+    (*index)++; // move to next index
+    __bst__to_sorted_array(curr->right, array, index); // traverse right subtree (larger values)
 }
 
 /**

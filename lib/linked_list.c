@@ -1,9 +1,9 @@
 /**
  * Singly linked list implementation.
  *
- * @author: STUDENT ADD YOUR NAME
+ * @author: Emily Despres
  * @class: CS 5008
- * @term: UPDATE WITH CURRENT SEMESTER
+ * @term: Fall 2025
  */
 
 #include <stdlib.h>
