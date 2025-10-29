@@ -24,6 +24,8 @@ Don't forget to use latex math notation (example in the table).
 | Sorted Double Linked List |     $O(n)$ |  $O(n)$|    $O(n)$   | $O(1)$   | ---       | ---      | ---          | ---         | ---          |
 | Binary Search Tree        |$O(logn)$   |$O(logn)$| $O(logn)$  |  $O(n)$  | ---       | ---      | ---          | ---         | ---          |
 
+[1]
+
 For Sort, we are asking for the Big $O$ for taking the current data structure and writing it 'sorted' to a file. However, not the file writes. For example, if you have a vector of 1000 elements, and you want to write it to a file, you would need to sort it first. So, the Big $O$ for this would be the Big $O$ for sorting. For BST, you have to convert the tree to a sequential structure, so the cost of doing that.  
 
 ### Assumptions with Sort
@@ -42,7 +44,9 @@ Since the worst case can change considerably based on what sort you use for sort
 
 There are a few functions whose worse case is very different than the average case. Name at least two of them, and explain why the worse case is so much worse than the average case. 
 
-1. 
+1. Binary Seatch Tree: Seach/Insert/Remove
+   Average case: $O(logn)$, Worst case: $O(n)$ 
+   When the tree is balanced, each level splits the data in half. This means you only need to go down a few levels to find, insert, or remove something. But if you add values in order, the tree grows in a straight line instead of branching out. It starts acting like a linked list, and you have to check each node one by one. That makes it much slower.
 2. 
 
 ## Empirical Analysis - Speed Comparison
@@ -171,7 +175,7 @@ For both these questions, are you are free to use what you did as the last secti
 
 Add your references here. A good reference includes an inline citation, such as [1] , and then down in your references section, you include the full details of the reference. Computer Science research often uses [IEEE] or [ACM Reference format].
 
-[1] Reference info, date, etc.
+[1] La Vivien Post. 2025. Big O Notation Cheat Sheet – Leetcode Big O Notebook. (June 7, 2025). Retrieved October 29, 2025 from https://www.lavivienpost.com/big-o-notation-cheat-sheet-leetcode-big-o/
 
 [^1^]: Implementing a BST with a self-balancing algorithm, such as AVL or Red-Black Trees is a great research paper topic!
 
