@@ -55,7 +55,7 @@ There are a few functions whose worse case is very different than the average ca
 2. Quick Sort: Sort
 
    Average case: $O(nlogn)$, Worst case: $O(n^2)$
-   
+
    Quick Sort works by choosing a pivot and dividing the array into two parts. One part has values less than the pivot and the other part has values greater than the pivot. If the pivot splits the array evenly, sorting is fast. But in the worst case, like when the pivot is always the smallest or largest value, the array splits into one large part and one tiny part. This causes many extra recursive calls and comparisons, which makes the algorithm much slower. [4]
 
 ## Empirical Analysis - Speed Comparison
@@ -177,6 +177,13 @@ Summarize your findings. Where there any surprises?  What did you end up learnin
 For both these questions, are you are free to use what you did as the last section on the team activities/answered as a group, or you can use a different question.
 
 1. Select one technical interview question (this module or previous) from the [technical interview list](https://github.com/CS5008-khoury/Resources/blob/main/TechInterviewQuestions.md) below and answer it in a few sentences. You can use any resource you like to answer the question.
+
+Recursion
+What is recursion? How does a recursive algorithm exit?
+
+Describe a scenario when you would want to use recursion and a scenario where you wouldn't.
+
+Recursion is when a function calls itself to solve a smaller part of a problem. Each time it calls itself, it works on a simpler version until it reaches a base case. Without a base case, the function would keep calling itself forever and crash. You might want to use recursion when solving problems that naturally break into smaller pieces, like calculating factorials or searching through a tree. But you wouldn’t use recursion for tasks that need lots of memory or very deep loops, like sorting huge arrays, because it can be slower and use too much stack space.
 
 2. Select one coding question (this module or previous) from the [coding practice repository](https://github.com/CS5008-khoury/Resources/blob/main/LeetCodePractice.md) and include a c file with that code with your submission. Make sure to add comments on what you learned, and if you compared your solution with others. 
 
