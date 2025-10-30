@@ -95,18 +95,20 @@ Create *at least three* graphics that each visually explain an aspect of your da
 > 
 > Make sure you can see the image embedded in the Report.md using [image markdown] when you upload it to github, and get help if it doesn't show! 
 
-#### Graphic 1 (Replace with a descriptive title)
+#### Graphic 1 (Add Operation Runtime: SortedVector vs LinkedList vs BST)
 
 > Insert your comments/observations about the graphic here
+This highlights how each structure handles adding elements as $N$ increases.
 
-#### Graphic 2 (Replace with a descriptive title)
-
-> Insert your comments/observations about the graphic here
-
-#### Graphic 3 (Replace with a descriptive title)
+#### Graphic 2 (Search Performance: SortedVector vs LinkedList vs BST)
 
 > Insert your comments/observations about the graphic here
+This compares lookup efficiency across the three structures, showing how structure impacts search speed.
 
+#### Graphic 3 (Remove Operation Comparison: SortedVector vs SortedList vs BST)
+
+> Insert your comments/observations about the graphic here
+This shows how each structure scales when removing elements, showing how each structure handles removal as the dataset grows.
 ## Critical Thought
 
 ### Data Evaluation

@@ -57,14 +57,14 @@ void print_help() {
  * @return true if -h or --help is in the arguments, false otherwise
 */
 bool check_for_help(const int argc, const char** argv) {
-    for (int i = 0; i < argc; i++)
+    for (int i = 0; i < argc; i++) // loop through arguments
     {
-        if (strcmp(argv[i], "-h") == 0 || strcmp(argv[i], "--help") == 0)
+        if (strcmp(argv[i], "-h") == 0 || strcmp(argv[i], "--help") == 0) // check for help flags
         {
-            return true;
+            return true; // found help flag
         }
     }
-    return false;
+    return false; // no help flag found
 }
 
 /**
@@ -74,17 +74,17 @@ bool check_for_help(const int argc, const char** argv) {
  * @param str the string to check
  * @return true if the string is an int, false otherwise
  */
-int is_int(const char *str)
+int is_int(const char *str) // helper function to check if a string is an int
 {
-    while (*str)
+    while (*str) // loop through each character in the string
     {
-        if (!isdigit(*str))
+        if (!isdigit(*str)) // check if each character is a digit
         {
-            return false;
+            return false; // if any character is not a digit, return false
         }
-        str++;
+        str++; // move to the next character
     }
-    return true;
+    return true; // all characters are digits, return true
 }
 
 /**
@@ -97,39 +97,39 @@ int is_int(const char *str)
  * @return the input file if found, NULL otherwise
  * 
 */
-const char * process_args(const int argc, const char** argv) {
-    const char * input_file = NULL;
-    for (int i = 0; i < argc; i++) {
-        if (strcmp(argv[i], "-d") == 0 || strcmp(argv[i], "--debug") == 0) {
-            LOG_LEVEL = LOG_LEVEL_DEBUG;
-            LOG_DEBUG("Logging level set to Debug\n");
-        } else if ((strcmp(argv[i], "-v") == 0 || strcmp(argv[i], "--verbose") == 0) 
-                    && LOG_LEVEL != LOG_LEVEL_DEBUG){
-            LOG_LEVEL = LOG_LEVEL_INFO;
-            LOG_DEBUG("Logging level set to info (verbose).\n");
-        } else if (strcmp(argv[i], "-o") == 0 || strcmp(argv[i], "--output") == 0) {
-            if(i + 1 < argc  && argv[i + 1][0] != '-') {
+const char * process_args(const int argc, const char** argv) { // process command line arguments
+    const char * input_file = NULL; // default to NULL
+    for (int i = 0; i < argc; i++) { // loop through arguments
+        if (strcmp(argv[i], "-d") == 0 || strcmp(argv[i], "--debug") == 0) { // check for debug flag
+            LOG_LEVEL = LOG_LEVEL_DEBUG; // set log level to debug
+            LOG_DEBUG("Logging level set to Debug\n"); // debug message
+        } else if ((strcmp(argv[i], "-v") == 0 || strcmp(argv[i], "--verbose") == 0) // check for verbose flag
+                    && LOG_LEVEL != LOG_LEVEL_DEBUG){ // only set to verbose if not already debug
+            LOG_LEVEL = LOG_LEVEL_INFO; // set log level to info
+            LOG_DEBUG("Logging level set to info (verbose).\n"); // debug message
+        } else if (strcmp(argv[i], "-o") == 0 || strcmp(argv[i], "--output") == 0) { // check for output file flag
+            if(i + 1 < argc  && argv[i + 1][0] != '-') { // ensure there is another argument and it's not another flag
                 OUTPUT_FILE = argv[++i]; // force increment to get the next argument
-                LOG_DEBUG("Output file set to %s\n", OUTPUT_FILE);
+                LOG_DEBUG("Output file set to %s\n", OUTPUT_FILE); // debug message
             } else {
-                LOG_WARN("No output file provided, keeping default.\n");
+                LOG_WARN("No output file provided, keeping default.\n"); // warning message
             }
-        } else if (strcmp(argv[i], "-i") == 0 || strcmp(argv[i], "--increment") == 0) {
-            if(i + 1 < argc) {
-                if (is_int(argv[i+1])) {
+        } else if (strcmp(argv[i], "-i") == 0 || strcmp(argv[i], "--increment") == 0) { // check for increment flag
+            if(i + 1 < argc) { // ensure there is another argument
+                if (is_int(argv[i+1])) { // check if the next argument is an int
                     INCREMENT = atoi(argv[++i]); // force increment to get the next argument
-                    LOG_DEBUG("Increment set to %d\n", INCREMENT);
+                    LOG_DEBUG("Increment set to %d\n", INCREMENT); // debug message
                 } else {
-                    LOG_WARN("Increment must be an integer, keeping default.\n");
+                    LOG_WARN("Increment must be an integer, keeping default.\n"); // warning message
                 }
             } else {
-                LOG_WARN("No increment provided, keeping default.\n");
+                LOG_WARN("No increment provided, keeping default.\n"); // warning message
             }
         } else {
-            input_file = argv[i];
+            input_file = argv[i]; // assume any other argument is the input file
         }
     }
-    return input_file;
+    return input_file; // return the input file (may be NULL)
 }
 
 
