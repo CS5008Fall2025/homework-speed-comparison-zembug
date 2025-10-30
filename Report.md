@@ -178,7 +178,8 @@ For both these questions, are you are free to use what you did as the last secti
 
 1. Select one technical interview question (this module or previous) from the [technical interview list](https://github.com/CS5008-khoury/Resources/blob/main/TechInterviewQuestions.md) below and answer it in a few sentences. You can use any resource you like to answer the question.
 
-```Recursion
+```markdown
+Recursion
 What is recursion? How does a recursive algorithm exit?
 
 Describe a scenario when you would want to use recursion and a scenario where you wouldn't.
