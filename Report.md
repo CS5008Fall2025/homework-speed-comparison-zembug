@@ -40,14 +40,18 @@ Since the worst case can change considerably based on what sort you use for sort
 * Sorted Double Linked List - already sorted - $O(1)$
 * Binary Search Tree - $O(n)$ - inorder traversal
 
+[2]
+
 ### Worst Case vs. Average Case
 
 There are a few functions whose worse case is very different than the average case. Name at least two of them, and explain why the worse case is so much worse than the average case. 
 
 1. Binary Seatch Tree: Seach/Insert/Remove
    Average case: $O(logn)$, Worst case: $O(n)$ 
-   When the tree is balanced, each level splits the data in half. This means you only need to go down a few levels to find, insert, or remove something. But if you add values in order, the tree grows in a straight line instead of branching out. It starts acting like a linked list, and you have to check each node one by one. That makes it much slower.
-2. 
+   When the tree is balanced, each level splits the data in half. This means you only need to go down a few levels to find, insert, or remove something. But if you add values in order, the tree grows in a straight line instead of branching out. It starts acting like a linked list, and you have to check each node one by one. That makes it much slower. [3]
+2. Quick Sort: Sort
+   Average case: $O(nlogn)$, Worst case: $O(n^2)$
+   Quick Sort works by choosing a pivot and dividing the array into two parts. One part has values less than the pivot and the other part has values greater than the pivot. If the pivot splits the array evenly, sorting is fast. But in the worst case, like when the pivot is always the smallest or largest value, the array splits into one large part and one tiny part. This causes many extra recursive calls and comparisons, which makes the algorithm much slower.[4]
 
 ## Empirical Analysis - Speed Comparison
 
@@ -176,6 +180,12 @@ For both these questions, are you are free to use what you did as the last secti
 Add your references here. A good reference includes an inline citation, such as [1] , and then down in your references section, you include the full details of the reference. Computer Science research often uses [IEEE] or [ACM Reference format].
 
 [1] La Vivien Post. 2025. Big O Notation Cheat Sheet – Leetcode Big O Notebook. (June 7, 2025). Retrieved October 29, 2025 from https://www.lavivienpost.com/big-o-notation-cheat-sheet-leetcode-big-o/
+
+[2] GeekforGeeks. 2025. Big O Notation Tutorial - A Guide to Big O Analysis. (August 27, 2025). Retrieved October 29, 2025 from https://www.geeksforgeeks.org/dsa/analysis-algorithms-big-o-analysis/
+
+[3] Expert Beacon. 2024. Binary Search Trees: An Expert Guide for Developers. (August 16, 2024). Retrieved October 29, 2025 from https://expertbeacon.com/binary-search-trees-an-expert-guide-for-developers/
+
+[4] GeeksforGeeks. 2025. Time and Space Complexity Analysis of Quick Sort. (July 223, 2025). Retrieved October 29, 2025 from https://www.geeksforgeeks.org/dsa/time-and-space-complexity-analysis-of-quick-sort/
 
 [^1^]: Implementing a BST with a self-balancing algorithm, such as AVL or Red-Black Trees is a great research paper topic!
 
