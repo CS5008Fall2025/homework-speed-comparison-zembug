@@ -51,7 +51,7 @@ There are a few functions whose worse case is very different than the average ca
    When the tree is balanced, each level splits the data in half. This means you only need to go down a few levels to find, insert, or remove something. But if you add values in order, the tree grows in a straight line instead of branching out. It starts acting like a linked list, and you have to check each node one by one. That makes it much slower. [3]
 2. Quick Sort: Sort
    Average case: $O(nlogn)$, Worst case: $O(n^2)$
-   Quick Sort works by choosing a pivot and dividing the array into two parts. One part has values less than the pivot and the other part has values greater than the pivot. If the pivot splits the array evenly, sorting is fast. But in the worst case, like when the pivot is always the smallest or largest value, the array splits into one large part and one tiny part. This causes many extra recursive calls and comparisons, which makes the algorithm much slower.[4]
+   Quick Sort works by choosing a pivot and dividing the array into two parts. One part has values less than the pivot and the other part has values greater than the pivot. If the pivot splits the array evenly, sorting is fast. But in the worst case, like when the pivot is always the smallest or largest value, the array splits into one large part and one tiny part. This causes many extra recursive calls and comparisons, which makes the algorithm much slower. [4]
 
 ## Empirical Analysis - Speed Comparison
 

@@ -1,0 +1,2 @@
+N,SortedVector Add,LinkedList Add,BST Add,SortedVector Search,LinkedList Search,BST Search,SortedVector Save,SortedList Save, BST Save,SortedVector Remove,SortedList Remove,BST Remove,Vector Add Front,LinkedList Add Front,Vector Add Back,LinkedList Add Back,Vector Remove Front,LinkedList Remove Front,Vector Remove Back,LinkedList Remove Back,Vector Get,LinkedList Get
+4.000000,0.000014,0.000001,0.000001,0.000001,0.000000,0.000001,0.000030,0.000036,0.000015,0.000002,0.000001,0.000001,0.000000,0.000001,0.000000,0.000001,0.000001,0.000000,0.000001,0.000000,0.000000,0.000001
