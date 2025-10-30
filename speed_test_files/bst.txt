@@ -37,10 +37,12 @@ $50, 000 Reward
 'Twas the Night Before Christmas
 'Tween Two Loves
 'Way Out
+*batteries not included
 -30-
 ...All the Marbles
 ...And Give Us Our Daily Sex
 ...and Millions Die!
+...and the Pursuit of Happiness
 ...and Your Name Is Jonah
 ...Maybe This Time
 ...One Third of a Nation...
@@ -59,6 +61,7 @@ $50, 000 Reward
 10,000 Dollars
 10,000 Dollars for a Massacre
 100 Rifles
+100 Ways to Murder Your Wife
 100% Service
 1001 Arabian Nights
 1001 Danish Delights
@@ -97,6 +100,7 @@ $50, 000 Reward
 1990: The Bronx Warriors
 1st & Ten
 2 - I, a Woman, Part II
+2 Friends
 2 or 3 Things I Know About Her
 2 RRRingos no Texas
 20 Million Miles to Earth
@@ -115,6 +119,7 @@ $50, 000 Reward
 21 Beacon Street
 21 Days in Europe
 21 Hours at Munich
+21 Jump Street
 226-1690
 227
 23 1/2 Hours Leave
@@ -225,6 +230,7 @@ $50, 000 Reward
 99 and 44/100% Dead!
 99 River Street
 99 Women
+9½ Weeks
 A 'Model' Wife
 A 44-Calibre Mystery
 A Baby's Shoe
@@ -250,6 +256,7 @@ A Beast at Bay
 A Bedroom Blunder
 A Bedtime Story
 A Bell for Adano
+A Better Tomorrow
 A Big Family
 A Big Hand for the Little Lady
 A Bigger Splash
@@ -282,6 +289,7 @@ A Bowery Cinderella
 A Boy and His Dog
 A Boy and His Dog
 A Boy and the Law
+A Boy from Calabria
 A Boy Named Charlie Brown
 A Boy of Flanders
 A Boy of the Revolution
@@ -423,6 +431,7 @@ A Connecticut Yankee
 A Connecticut Yankee in King Arthur's Court
 A Connecticut Yankee in King Arthur's Court
 A Conspiracy Against the King
+A Conspiracy of Love
 A Continental Girl
 A Convict's Sacrifice
 A Coorial on the Orinoco
@@ -543,8 +552,10 @@ A Desperate Lover
 A Desperate Moment
 A Devil with Women
 A Diamond in the Rough
+A Different Affair
 A Different Approach
 A Different Story
+A Different World
 A Difficult Life
 A Dip Into Society
 A Diplomatic Mission
@@ -629,6 +640,7 @@ A Field of Honor
 A Fig Leaf for Eve
 A Fight for Freedom; or, Exiled to Siberia
 A Fight for Honor
+A Fight for Jenny
 A Fight for Love
 A Fight for Millions
 A Fight to the Finish
@@ -639,6 +651,7 @@ A Fighting Heart
 A Film Johnnie
 A Film Like Any Other
 A Fine Madness
+A Fine Mess
 A Fine Romance
 A Fire Has Been Arranged
 A Fire in the Sky
@@ -703,6 +716,7 @@ A Garibaldian in the Convent
 A Gasoline Engagement
 A Gasoline Wedding
 A Gathering of Eagles
+A Gathering of Old Men
 A Gay Old Dog
 A Geisha
 A Gem of a Jam
@@ -722,9 +736,11 @@ A Gentleman's Gentleman
 A Ghost of a Chance
 A Ghostly Wallop
 A Gift for Heidi
+A Gift from Heaven
 A Gilded Fool
 A Girl at Bay
 A Girl Called Jules
+A Girl from Hunan
 A Girl in Black
 A Girl in Bohemia
 A Girl in Every Port
@@ -762,6 +778,7 @@ A Gorgeous Girl Like Me
 A Grateful Outcast
 A Great American Tragedy
 A Great Big Bunch of You
+A Greek Tragedy
 A Grin Without A Cat
 A Grocery Clerk's Romance
 A Gruesome Twosome
@@ -795,6 +812,7 @@ A Haunting We Will Go
 A Heart in Pawn
 A Heart to Let
 A Heart's Revenge
+A Hearty Response
 A Helpful Sisterhood
 A Hen in the Wind
 A Herb Alpert & the Tijuana Brass Double Feature
@@ -843,6 +861,7 @@ A Jewel in Pawn
 A Jitney Elopement
 A Joke of Destiny, Lying in Wait Around the Corner Like a Bandit
 A Journey to the Beginning of Time
+A Judgment in Stone
 A Jungle Book of Regulations
 A Jury of Her Peers
 A Juvenile Love Affair
@@ -948,6 +967,7 @@ A Lucky Leap
 A Lucky Strike
 A Lucky Toothache
 A Lust to Kill
+A Lustful Mind
 A Made-to-Order Hero
 A Madonna of the Poor
 A Maid of Belgium
@@ -981,6 +1001,7 @@ A Man for All Seasons
 A Man for All That
 A Man for Sale
 A Man Four-Square
+A Man from Boulevard des Capucines
 A Man from Nowhere
 A Man from Wyoming
 A Man in the Open
@@ -1031,6 +1052,7 @@ A Married Couple
 A Married Couple
 A Master of Craft
 A Master Stroke
+A Masterpiece of Murder
 A Matinee Mix-Up
 A Matrimonial Boomerang
 A Matrimonial Mixup
@@ -1208,6 +1230,7 @@ A Perfect Crime
 A Perfect Gentleman
 A Perfect Lady
 A Perfect Match
+A Perfect Spy
 A Perilous Cargo
 A Perilous Journey
 A Pest in the House
@@ -1328,6 +1351,7 @@ A Romance of the Rio Grande
 A Romance of the Underworld
 A Romance of the Western Hills
 A Romany Tragedy
+A Room with a View
 A Rose by Any Other Name
 A Rose of the Tenderloin
 A Rough Night on the Bridge
@@ -1418,6 +1442,7 @@ A Small Town Idol
 A Small Town in Texas
 A Small Town Princess
 A Smoked Husband
+A Smoky Mountain Christmas
 A Snitch in Time
 A Social Celebrity
 A Social Cub
@@ -1472,6 +1497,7 @@ A Star Is Born
 A Star Is Born
 A Star Is Hatched
 A Star Over Night
+A State of Emergency
 A Steel Rolling Mill
 A Step Out of Line
 A Steven Wright Special
@@ -1603,6 +1629,7 @@ A Time to Live, a Time to Die
 A Time to Love and a Time to Die
 A Time to Remember
 A Time to Sing
+A Time to Triumph
 A Timely Interception
 A Tiny Tour of the USA
 A Toast to Portugal
@@ -1732,6 +1759,7 @@ A Wild Ride
 A Wild Roomer
 A Will and a Way
 A Will of Her Own
+A Winner Never Quits
 A Wise Fool
 A Wise Old Elephant
 A Witch of Salem Town
@@ -1814,6 +1842,7 @@ A Yankee Go-Getter
 A Yankee Princess
 A Year at the Top
 A Year in the Life
+A Year in the Life
 A Year of the Quiet Sun
 A Year Toward Tomorrow
 A Yellow Streak
@@ -1883,6 +1912,7 @@ Above the Clouds
 Above the Limit
 Above the Speedway
 Above Us the Waves
+Abracadabra
 Abraham Lincoln
 Abraham Lincoln's Clemency
 Abroad with Two Yanks
@@ -2046,6 +2076,8 @@ Adventure in Washington
 Adventure Island
 Adventure Isle
 Adventure's End
+Adventures Beyond Belief
+Adventures in Babysitting
 Adventures in Jazz
 Adventures in Paradise
 Adventures in Perception
@@ -2070,6 +2102,7 @@ Adventures of Popeye
 Adventures of Red Ryder
 Adventures of Rusty
 Adventures of Sherlock Holmes
+Adventures of Sherlock Holmes and Dr. Watson: The Twentieth Century Approaches
 Adventures of Superman
 Adventures of Tarzan
 Adventures of the Blue Knight
@@ -2087,6 +2120,7 @@ Advice to the Lovelorn
 Advise & Consent
 Adémaï at the border post
 Aelita, the Queen of Mars
+Aenigma
 Aerial Gunner
 Aerobics Girls Club
 Affair in Havana
@@ -2133,6 +2167,7 @@ After Midnight
 After Midnight
 After Midnight with Boston Blackie
 After Office Hours
+After Rubicon
 After the Ball
 After the Ball
 After the Ball
@@ -2142,6 +2177,7 @@ After the Curfew
 After the Dance
 After the Fall
 After the Fog
+After the Promise
 After the Rain, on Thursday
 After the Rehearsal
 After the Show
@@ -2249,6 +2285,7 @@ Alakazam the Great
 Alambrista!
 Alamo Bay
 Alarm in the Delta
+Alarming Trends
 Alas and Alack
 Alas Smith & Jones
 Alas! Poor Yorick!
@@ -2409,6 +2446,9 @@ Alice's Wild West Show
 Alice's Wonderland
 Alice, Sweet Alice
 Alien
+Alien from L.A.
+Alien Predator
+Alien Private Eye
 Alien Souls
 Alien Warrior
 Aliens
@@ -2420,6 +2460,7 @@ Alimony
 Alimony Aches
 Alimony Madness
 Alison's Birthday
+Alison's Demise
 Alive in the Deep
 Alive or Preferably Dead
 Alkali Ike
@@ -2564,6 +2605,7 @@ All's Well That Ends Well
 All's Well That Ends Well
 All-American Co-Ed
 Alladin from Manhattan
+Allan Quatermain and the Lost City of Gold
 Allegheny Uprising
 Allegretto
 Allegro
@@ -2596,6 +2638,7 @@ Almost King
 Almost Married
 Almost Married
 Almost Married
+Almost Partners
 Almost Summer
 Almost Transparent Blue
 Almost You
@@ -2606,6 +2649,7 @@ Aloha Means Goodbye
 Aloha Oe
 Aloha Oe
 Aloha Paradise
+Aloha, the Little Vampire
 Aloma of the South Seas
 Aloma of the South Seas
 Alone
@@ -2691,8 +2735,10 @@ Amateur Night
 Amateur Night at the Dixie Bar and Grill
 Amature Nite
 Amazing Grace
+Amazing Grace and Chuck
 Amazing Stories
 Amazon Quest
+Amazon Women on the Moon
 Amazons
 Amazons
 Amazons of Rome
@@ -2758,6 +2804,7 @@ American Geisha
 American Gigolo
 American Graffiti
 American Guerrilla in the Philippines
+American Harvest
 American Horse and Horseman
 American Hot Wax
 American Inventory
@@ -2770,6 +2817,7 @@ American Methods
 American Minstrels of 1949
 American Nightmare
 American Ninja
+American Ninja 2: The Confrontation
 American Pluck
 American Pop
 American Reunion
@@ -2781,6 +2829,7 @@ Americana
 Americana
 Americas in Transition
 Americathon
+Amerika
 Amici miei
 Amid the Pyramids
 Amigos
@@ -2817,6 +2866,7 @@ An Affair of the Follies
 An Affair of the Skin
 An Affair of Three Nations
 An Affair to Remember
+An African Dream
 An African Hunt
 An Alabaster Box
 An All American Toothache
@@ -2867,6 +2917,7 @@ An Enemy to Society
 An Enemy to the King
 An Even Break
 An Evening in Paris
+An Evening with Bobcat Goldthwait: Share the Warmth
 An Evening with Chris Jangaard
 An Event
 An Eventful Evening
@@ -2961,6 +3012,7 @@ And Baby Makes Six
 And Baby Makes Three
 And Baby Makes Two
 And Everything Nice
+And God Created Woman
 And God Said to Cain...
 And Here's the Show
 And His Wife Came Back
@@ -3013,9 +3065,11 @@ Angel City
 Angel Dusted
 Angel Eyes
 Angel Face
+Angel Heart
 Angel in Distress
 Angel in Exile
 Angel in My Pocket
+Angel in the Wardrobe
 Angel Number 9
 Angel of Crooked Street
 Angel of Death
@@ -3055,6 +3109,7 @@ Angora Love
 Angry Harvest
 Angélique
 Animal
+Animal Crack-Ups
 Animal Crackers
 Animal Farm
 Animal Treasure Island
@@ -3065,12 +3120,14 @@ Animalympics
 Animato
 Anita
 Anita's Butterfly
+Anita: Dances of Vice
 Ankles Preferred
 Ankur: The Seedling
 Ann
 Ann Carver's Profession
 Ann Vickers
 Ann's Finish
+Anna
 Anna
 Anna and the King
 Anna and the King of Siam
@@ -3214,6 +3271,7 @@ Apache Warrior
 Apache Woman
 Aparajito
 Apart from You
+Apartment Eight
 Apartment for Peggy
 Ape
 Ape Suzette
@@ -3240,6 +3298,7 @@ Appointment with a Shadow
 Appointment with Adventure
 Appointment with Crime
 Appointment with Danger
+Appointment with Fear
 Appointment with Murder
 Apprenticeship of the Inventor Polz
 April
@@ -3304,6 +3363,7 @@ Arena
 Argentine Love
 Argentine Nights
 Argoman the Fantastic Superman
+Aria
 Arise, My Love
 Aristocracy
 Arizona
@@ -3348,6 +3408,7 @@ Armored Car
 Armored Car Robbery
 Armored Command
 Armored Trooper VOTOMS
+Armour of God
 Arms and the Girl
 Arms and the Gringo
 Arms and the Man
@@ -3484,10 +3545,13 @@ Asphalt
 Assassin
 Assassin
 Assassin of Youth
+Assassination
 Assassination Attempt
 Assassination on the Tiber
+Assault and Matrimony
 Assault and Peppered
 Assault in Paradise
+Assault of the Killer Bimbos
 Assault on a Queen
 Assault on Agathon
 Assault on Precinct 13
@@ -3504,11 +3568,13 @@ Assignment: Outer Space
 Assignment: Paris
 Assignment: Underwater
 Assignment: Vienna
+Association of Wrongdoers
 Assunta Spina
 Asterix and Cleopatra
 Asterix in Britain
 Asterix the Gaul
 Asterix Versus Caesar
+Astonished
 Astray from the Steerage
 Astronomeous
 Asylum
@@ -3527,6 +3593,7 @@ At Ease
 At Ease
 At First Sight
 At Gunpoint
+At Home
 At Issue
 At It Again
 At It Again
@@ -3535,6 +3602,7 @@ At Last the 1948 Show
 At Liberty Club
 At Long Last Love
 At Midnight I'll Take Your Soul
+At Mother's Request
 At Piney Ridge
 At Scrogginses' Corner
 At Sea Ashore
@@ -3570,6 +3638,7 @@ At War as at War
 At War with the Army
 At Your Service Madame
 Athena
+Athens, Ga. - Inside/Out
 Athletes of the Saddle
 Athletic Ambitions
 Athletic Daze
@@ -3701,6 +3770,7 @@ Babes in Toyland
 Babes on Broadway
 Babes on Swing Street
 Babette
+Babette's Feast
 Babies for Sale
 Babies Galore
 Babs
@@ -3709,6 +3779,7 @@ Baby
 Baby Be Good
 Baby Blue Marine
 Baby Blues
+Baby Boom
 Baby Bottleneck
 Baby Buggy Bunny
 Baby Butch
@@ -3720,6 +3791,7 @@ Baby Face
 Baby Face Harrington
 Baby Face Morgan
 Baby Face Nelson
+Baby Girl Scott
 Baby It's You
 Baby Love
 Baby Love
@@ -3796,6 +3868,7 @@ Back to Nature
 Back to Old Virginia
 Back to School
 Back to the Balkans
+Back to the Beach
 Back to the Farm
 Back to the Future
 Back to the Kitchen
@@ -3809,6 +3882,7 @@ Back to Yellow Jacket
 Back Trail
 Backbone
 Backbone
+Backfire
 Backfire
 Backfire
 Background
@@ -3826,6 +3900,7 @@ Backwoods Bunny
 Bacon Grabbers
 Bad
 Bad Bascomb
+Bad Blood
 Bad Blood
 Bad Boy
 Bad Boy
@@ -3872,6 +3947,7 @@ Bad Penny
 Bad Ronald
 Bad Seed
 Bad Sister
+Bad Taste
 Bad Timing: A Sensual Obsession
 Badge 373
 Badge of Honor
@@ -3919,6 +3995,7 @@ Balloons
 Ballot Box Bunny
 Bambi
 Bambi's Childhood
+Bambi's Youth
 Banacek
 Banana Cop
 Banana Joe
@@ -4001,6 +4078,7 @@ Barefoot Gen
 Barefoot in the Park
 Barefoot in the Park
 Baretta
+Barfly
 Bargain Day
 Barn Burning
 Barnaby Jones
@@ -4056,6 +4134,7 @@ Bassmasters
 Bat Masterson
 Bat Men of Africa
 Bataan
+Bates Motel
 Bath Day
 Bath Tub Perils
 Bathing Beauty
@@ -4124,6 +4203,7 @@ Batula
 Bavu
 Baxter, Vera Baxter
 Bay City Blues
+Bay Cove
 Bay of Angels
 Bayan Ko
 Bayou
@@ -4150,6 +4230,7 @@ Be Your Age
 Be Yourself!
 Beach Ball
 Beach Blanket Bingo
+Beach Fever
 Beach Guard in Winter
 Beach House
 Beach House
@@ -4220,6 +4301,7 @@ Beauty and the Bandit
 Beauty and the Bandit
 Beauty and the Beach
 Beauty and the Beach
+Beauty and the Beast
 Beauty and the Beast
 Beauty and the Beast
 Beauty and the Beast
@@ -4392,6 +4474,7 @@ Belle Starr
 Belle Starr
 Belle Starr's Daughter
 Belles on Their Toes
+Bellman and True
 Bells Are Ringing
 Bells of Capistrano
 Bells of Coronado
@@ -4442,6 +4525,7 @@ Bengazi
 Benilde or the Virgin Mother
 Benjamin Franklin, Jr.
 Benji
+Benji the Hunted
 Benjy
 Benny and Barney: Las Vegas Undercover
 Benny's Place
@@ -4459,6 +4543,7 @@ Berlin-Alexanderplatz: The Story of Franz Biberkopf
 Berlin: Symphony of a Great City
 Bermuda Cockleshells
 Bermuda Mystery
+Bernadette
 Bernardine
 Bernice Bobs Her Hair
 Berrenger's
@@ -4475,6 +4560,7 @@ Best Defense
 Best Foot Forward
 Best Friends
 Best Friends
+Best Friends II
 Best Kept Secrets
 Best Man Wins
 Best of Cinerama
@@ -4482,6 +4568,7 @@ Best of Enemies
 Best of the Badmen
 Best of the West
 Best Revenge
+Best Seller
 Betaville
 Betrayal
 Betrayal
@@ -4643,10 +4730,13 @@ Between Wroclaw and Zielona Góra
 Beulah
 Beulah
 Beulah Land
+Beverly Hills Buntz
 Beverly Hills Cop
+Beverly Hills Cop II
 Beverly Hills Cowgirl Blues
 Beverly Hills Girls
 Beverly Hills Madam
+Beverly Hills Teens
 Beverly of Graustark
 Beware
 Beware of a Holy Whore
@@ -4693,6 +4783,7 @@ Beyond the Crossroads
 Beyond the Curtain
 Beyond the Darkness
 Beyond the Door
+Beyond the Edge
 Beyond the Forest
 Beyond the Great Wall
 Beyond the Last Frontier
@@ -4707,6 +4798,7 @@ Beyond the Purple Hills
 Beyond the Rainbow
 Beyond the Reef
 Beyond the Rio Grande
+Beyond the Rising Moon
 Beyond the Rockies
 Beyond the Rockies
 Beyond the Rocks
@@ -4719,6 +4811,7 @@ Beyond the Trail
 Beyond the Valley of the Dolls
 Beyond the Walls
 Beyond the Walls
+Beyond Therapy
 Beyond Tomorrow
 Beyond Victory
 Beyond Westworld
@@ -4734,6 +4827,7 @@ Biff Baker, U.S.A.
 Biff Bang Buddy
 Big Apple Birthday
 Big Bad Mama
+Big Bad Mama II
 Big Ball
 Big Bob Johnson and His Fantastic Speed Circus
 Big Boy
@@ -4782,6 +4876,7 @@ Big Rose: Double Trouble
 Big Shamus, Little Shamus
 Big Shar
 Big Shots
+Big Shots
 Big Shots in America
 Big Stakes
 Big Stakes
@@ -4819,6 +4914,7 @@ Bill
 Bill and Coo
 Bill Apperson's Boy
 Bill Bumper's Bargain
+Bill Cosby: 49
 Bill Cosby: Himself
 Bill Cracks Down
 Bill Haywood, Producer
@@ -4832,6 +4928,7 @@ Billie Gets Her Man
 Billie's Baby
 Billion Dollar Brain
 Billion Dollar Limited
+Billionaire Boys Club
 Billions
 Billposters
 Billy
@@ -4877,8 +4974,10 @@ Bing Bang Boom
 Bingo Crosbyana
 Biography
 Biography
+Biography
 Biography of a Bachelor Girl
 Biohazard
+Bionic Six
 Birch Interval
 Bird Island
 Bird of Paradise
@@ -4996,6 +5095,7 @@ Black Magic
 Black Magic
 Black Magic
 Black Magic 2
+Black Magic M-66
 Black Magic with Buddha
 Black Mama White Mama
 Black Market Babies
@@ -5130,6 +5230,7 @@ Blind Chance
 Blind Circumstances
 Blind Date
 Blind Date
+Blind Date
 Blind Folly
 Blind Hearts
 Blind Husbands
@@ -5140,6 +5241,7 @@ Blind Man's Bluff
 Blind Man's Luck
 Blind Rage
 Blind Spot
+Blind Trust
 Blind Wives
 Blind Woman's Curse
 Blind Youth
@@ -5230,11 +5332,14 @@ Blood Bath
 Blood Beach
 Blood Beat
 Blood Circus
+Blood Diner
 Blood Feast
 Blood Feud
 Blood Feud
 Blood for Dracula
+Blood Frenzy
 Blood from the Mummy's Tomb
+Blood Harvest
 Blood Hook
 Blood Link
 Blood Mania
@@ -5254,15 +5359,19 @@ Blood on the Sun
 Blood Orgy of the She-Devils
 Blood Rage
 Blood Red
+Blood Relations
 Blood Sabbath
 Blood Shack
 Blood Simple
+Blood Sisters
 Blood Song
+Blood Sorcery
 Blood Sport
 Blood Stalkers
 Blood Suckers from Outer Space
 Blood Sucking Freaks
 Blood Test
+Blood Theatre
 Blood Thirst
 Blood Tracks
 Blood Wedding
@@ -5278,11 +5387,13 @@ Bloodline
 Bloodlust
 Bloodlust!
 Bloodrage
+Bloodsport
 Bloodthirsty Butchers
 Bloody Birthday
 Bloody Friday
 Bloody Mama
 Bloody Moon
+Bloody New Year
 Bloody Sect
 Bloody Sex
 Bloody Spear at Mount Fuji
@@ -5474,6 +5585,7 @@ Body Heat
 Body of My Enemy
 Body Rock
 Body Shop
+Body Slam
 Bodyguard
 Bodyhold
 Boeing, Boeing
@@ -5634,11 +5746,14 @@ Bored of Education
 Borinage
 Born Again
 Born Again
+Born American
 Born Beautiful
 Born Free
 Born Free
+Born in East L.A.
 Born in Flames
 Born Innocent
+Born of Fire
 Born Reckless
 Born Reckless
 Born Reckless
@@ -5649,6 +5764,7 @@ Born to Be Bad
 Born to Be Bad
 Born to Be Loved
 Born to Be Sold
+Born to Be Wild
 Born to Be Wild
 Born to Boogie
 Born to Dance
@@ -5995,6 +6111,7 @@ British Agent
 British Intelligence
 Briton and Boer
 Broad Daylight
+Broadcast News
 Broadcasting
 Broadminded
 Broadside
@@ -6042,6 +6159,7 @@ Broadway's Like That
 Broadway's Queen of Jazz
 Brock's Last Case
 Broke in China
+Broken April
 Broken Arrow
 Broken Arrow
 Broken Barriers
@@ -6066,6 +6184,7 @@ Broken Rainbow
 Broken Sabre
 Broken Toys
 Broken Treaty at Battle Mountain
+Broken Vows
 Broken Ways
 Broncho Billy and the Baby
 Broncho Billy and the Bad Man
@@ -6156,6 +6275,7 @@ Brother Orchid
 Brother Rat
 Brother Rat and a Baby
 Brother Sun, Sister Moon
+Brotherhood
 Brotherly Love
 Brotherly Love
 Brothers
@@ -6168,6 +6288,7 @@ Brothers and Sisters
 Brothers and Sisters
 Brothers Blue
 Brothers Five
+Brothers in Blood
 Brothers in Law
 Brothers in the Saddle
 Brothers of the West
@@ -6211,6 +6332,7 @@ Buchanan's Wife
 Bucharest Memories
 Buck and the Preacher
 Buck Benny Rides Again
+Buck James
 Buck Parvin in the Movies
 Buck Privates
 Buck Privates
@@ -6245,6 +6367,7 @@ Bud and Tommy Take a Day Off
 Bud Takes the Cake
 Budd Doble Comes Back
 Buddha
+Buddha's Lock
 Buddha's Palm
 Buddies
 Buddies
@@ -6293,6 +6416,7 @@ Buffet Froid
 Buford and the Galloping Ghost
 Bug
 Bugged by a Bee
+Bugging Mania: Friday Girl
 Bughouse Bellhops
 Bugles in the Afternoon
 Bugs and Thugs
@@ -6346,6 +6470,7 @@ Bullies
 Bulling the Bolshevik
 Bullitt
 Bulls and Bears
+Bullseye
 Bullwhip
 Bully for Bugs
 Bully for Pink
@@ -6381,6 +6506,7 @@ Burden of Dreams
 Burden of Life
 Bureau of Missing Persons
 Burebista
+Burglar
 Burglar and Umbrella
 Burglar by Proxy
 Burglar Proof
@@ -6411,6 +6537,7 @@ Burning Daylight
 Burning Flowers
 Burning Gold
 Burning Gold
+Burning Hearts
 Burning Hearts
 Burning Love
 Burning of the Imperial Palace
@@ -6512,6 +6639,7 @@ By the Sea
 By the Sea
 By the Steep Ravine
 By the Sun's Rays
+By the Sword Divided
 By Whose Hand?
 By Whose Hand?
 By Word of Mouse
@@ -6725,6 +6853,7 @@ Campus Confessions
 Campus Crushes
 Campus Honeymoon
 Campus Knights
+Campus Man
 Campus Pussycats
 Campus Rhythm
 Campus Sleuth
@@ -6744,6 +6873,7 @@ Can You Keep It Up for a Week?
 Can You Take It
 Can You Top This
 Can You Top This
+Can't Buy Me Love
 Can't Help Singing
 Can't Stop the Music
 Can-Can
@@ -6762,6 +6892,7 @@ Candid Camera
 Candide or The Optimism in the 20th Century
 Candleshoe
 Candy
+Candy Mountain
 Candy Stripe Nurses
 Candy Stripers
 Canine Caddy
@@ -6809,6 +6940,7 @@ Capone
 Capone Cries a Lot
 Cappy Ricks
 Cappy Ricks Returns
+Capriccio
 Caprice
 Caprice
 Caprice Italian Style
@@ -6869,6 +7001,7 @@ Captain Nice
 Captain of the Gray Horse Troop
 Captain of the Guard
 Captain Pirate
+Captain Power and the Soldiers of the Future
 Captain Roughneck from St. Pauli
 Captain Salvation
 Captain Scarface
@@ -6944,6 +7077,7 @@ Carioca Carnival
 Carl Hoff and His Orchestra
 Carl Peters
 Carlo Collodi's Pinocchio
+Carly's Web
 Carmela
 Carmen
 Carmen
@@ -7051,6 +7185,7 @@ Casanova in Burlesque
 Casanova's Big Night
 Casbah
 Case #1, Case #2
+Case Closed
 Case of the Full Moon Murders
 Case of the Missing Hare
 Case of the Missing Man
@@ -7079,6 +7214,7 @@ Cassino to Korea
 Cast a Dark Shadow
 Cast a Giant Shadow
 Cast a Long Shadow
+Castaway
 Castle in the Air
 Castle in the Desert
 Castle Keep
@@ -7119,6 +7255,7 @@ Catch Me a Spy
 Catch My Smoke
 Catch My Soul
 Catch the Black Sunshine
+Catch the Heat
 Catch Your Dreams
 Catch-22
 Catch-As Catch-Can
@@ -7139,6 +7276,7 @@ Cattle Stampede
 Cattle Town
 Catty Cornered
 Catty-Cornered
+Caught
 Caught
 Caught
 Caught Bluffing
@@ -7186,6 +7324,7 @@ Cecilia of the Pink Roses
 Ceiling Hero
 Ceiling Zero
 Celanese Theatre
+Celebration Family
 Celebrity
 Celebrity
 Celeste
@@ -7396,6 +7535,7 @@ Cheer Up!
 Cheerful Givers
 Cheerful Wind
 Cheering Section
+Cheerleader Camp
 Cheers
 Cheers for Miss Bishop
 Cheers of the Crowd
@@ -7410,6 +7550,7 @@ Cherche le phantom
 Cherie
 Cherokee Strip
 Cherokee Uprising
+Cherry 2000
 Cherry Blossoms in Spring
 Cherry Hill High
 Cherry Town
@@ -7508,6 +7649,7 @@ Chili Corn Corny
 Chili Weather
 Chilkat Cubs
 Chiller
+Chillers
 Chimera
 Chimes at Midnight
 Chimmie Fadden
@@ -7525,6 +7667,7 @@ China de Sade
 China Doll
 China Express
 China Gate
+China Girl
 China Girl
 China Is Near
 China Jones
@@ -7581,12 +7724,14 @@ Chris and Bernie
 Christ Stopped at Eboli
 Christiane F.
 Christina
+Christina
 Christine
 Christine
 Christine of the Big Tops
 Christine of the Hungry Heart
 Christmas
 Christmas Comes But Once a Year
+Christmas Comes to Willow Creek
 Christmas Eve
 Christmas Eve
 Christmas Holiday
@@ -7606,9 +7751,11 @@ Chrome and Hot Leather
 Chronicle of a Boy Alone
 Chronicle of a Homicide
 Chronicle of a Summer
+Chronicle of Amorous Accidents
 Chronos
 Chu Chu and the Philly Flash
 Chubasco
+Chuck Berry: Hail! Hail! Rock 'n' Roll
 Chuka
 Chulas Fronteras
 Chumps
@@ -7744,6 +7891,7 @@ Clash of the Wolves
 Class
 Class of '44
 Class of '63
+Class of '86
 Class of 1984
 Class of Nuke 'Em High
 Class Relations
@@ -7931,6 +8079,7 @@ Cold Fury
 Cold Nerve
 Cold River
 Cold Steel
+Cold Steel
 Cold Storage
 Cold Tea
 Cold Turkey
@@ -8073,6 +8222,7 @@ Come Across
 Come Again Smith
 Come and Get It
 Come and Get It!
+Come and See
 Come Back Charleston Blue
 Come Back to the 5 & Dime Jimmy Dean, Jimmy Dean
 Come Back, Africa
@@ -8140,6 +8290,7 @@ Command Performance
 Commando
 Commando Cody: Sky Marshal of the Universe
 Commando Duck
+Commando Squad
 Commandos
 Commandos Strike at Dawn
 Common Beasts of Africa
@@ -8169,6 +8320,7 @@ Comrade John
 Comrade X
 Comrades
 Comrades
+Comrades
 Comradeship
 Comradeship
 Conan the Barbarian
@@ -8176,6 +8328,7 @@ Conan the Destroyer
 Concealing a Burglar
 Conceit
 Concerning Miss Marlowe
+Concrete Angels
 Concrete Beat
 Condemned
 Condemned to Live
@@ -8203,6 +8356,7 @@ Confessions of a Nazi Spy
 Confessions of a Police Captain
 Confessions of a Pop Performer
 Confessions of a Queen
+Confessions of a Serial Killer
 Confessions of a Telephone Girl
 Confessions of a Wife
 Confessions of a Window Cleaner
@@ -8277,6 +8431,8 @@ Contraband Spain
 Contract on Cherry Street
 Contrary Condor
 Contre-enquête
+Control
+Convent of Sinners
 Convention City
 Convention Girl
 Convention Girls
@@ -8291,6 +8447,7 @@ Convicted
 Convicted
 Convicted
 Convicted Woman
+Convicted: A Mother's Story
 Convicts 4
 Convoy
 Convoy
@@ -8307,6 +8464,7 @@ Cool McCool
 Cool Million
 Cooley High
 Coonskin
+Cop
 Cop Au Vin
 Cop Hater
 Cop on the Beat
@@ -8437,12 +8595,15 @@ Courage of the North
 Courage of the West
 Courage of Wolfheart
 Courageous Mr. Penn
+Courier
+Course Completed
 Court House Crooks
 Court Plastered
 Court-Martial
 Courtin' Trouble
 Courtin' Wildcats
 Courtmartialed
+Courtship
 Cousin Kate
 Cousin Wilbur
 Covenant
@@ -8482,6 +8643,7 @@ Cowboy in Manhattan
 Cowboy in the Clouds
 Cowboy Serenade
 Cowboys Cry for It
+Cowboys Don't Cry
 Cowboys from Texas
 Cows and Caws
 Cowtown Rodeo
@@ -8499,6 +8661,7 @@ Cracked Ice
 Cracked Nuts
 Cracked Nuts
 Cracked Quack
+Cracked Up
 Crackers
 Cracking Up
 Cradle Song
@@ -8532,6 +8695,7 @@ Crawford Mystery Theatre
 Crawlspace
 Crawlspace
 Craze
+Crazy Boys
 Crazy Cruise
 Crazy Desire
 Crazy Feet
@@ -8568,8 +8732,10 @@ Creature of Destruction
 Creature with the Atom Brain
 Creatures the World Forgot
 Creeping Death
+Creepozoids
 Creeps
 Creepshow
+Creepshow 2
 Crescendo
 Crest of the Wave
 Cries & Whispers
@@ -8637,9 +8803,11 @@ Criss Cross
 Criss Cross Cruise
 Cristina Guzmán
 Critic's Choice
+Critical Condition
 Critters
 Crockett-Doodle-Do
 Crocodile Dundee
+Crocodile Dundee II
 Crocodile Fangs
 Cromwell
 Crook's Tour
@@ -8663,6 +8831,7 @@ Cross Creek
 Cross Current
 Cross Currents
 Cross Fire
+Cross My Heart
 Cross My Heart
 Cross of Iron
 Cross Purposes
@@ -8700,6 +8869,7 @@ Crowhaven Farm
 Crowing Pains
 Crown Theatre with Gloria Swanson
 Crown v. Stevens
+Crows
 Crows and Scarecrows
 Crows and Sparrows
 Crows' Feat
@@ -8720,6 +8890,7 @@ Cry Danger
 Cry for Happy
 Cry for Me, Billy
 Cry for the Strangers
+Cry Freedom
 Cry Freedom
 Cry from the Mountain
 Cry Murder
@@ -8746,6 +8917,7 @@ Cuban Fireball
 Cuban Pete
 Cuban Rebel Girls
 Cuban Rhythm
+Cuckoo in a Dark Forest
 Cuckoo Murder Case
 Cuckoo on a Choo Choo
 Cue Ball Cat
@@ -8822,8 +8994,10 @@ Cutting California Redwoods
 Cutting it Short
 Cutting Loose
 Cutting Out His Nonsense
+Cv
 Cyborg 2087
 Cycle Vixens
+Cyclone
 Cyclone Bliss
 Cyclone Bob
 Cyclone Buddy
@@ -8858,6 +9032,7 @@ D.A.: Conspiracy to Kill
 D.A.: Murder One
 D.A.R.Y.L.
 D.C. Cab
+D.C. Follies
 D.O.A.
 D.O.A.
 Dad for a Day
@@ -8866,6 +9041,7 @@ Dad's Army
 Dad's Girls
 Dada
 Daddies
+Daddy
 Daddy
 Daddy Boy
 Daddy Dearest
@@ -8926,6 +9102,7 @@ Damn Citizen
 Damn the Defiant!
 Damn Yankees
 Damnation Alley
+Damned If You Don't
 Damon and Pythias
 Damon Runyon Theater
 Damsels and Dandies
@@ -8950,6 +9127,7 @@ Dance Magic
 Dance of Death
 Dance of the Dwarfs
 Dance of the Weed
+Dance or Die
 Dance Pretty Lady
 Dance Team
 Dance with a Stranger
@@ -8957,6 +9135,7 @@ Dance with Me, Henry
 Dance, Fools, Dance
 Dance, Girl, Dance
 Dance, Girl, Dance
+Dancers
 Dancers in the Dark
 Dances Sacred and Profane
 Dancin' to the Hits
@@ -9107,6 +9286,7 @@ Daring Hearts
 Daring Love
 Daring Youth
 Dario Argento's World of Horror
+Dark Age
 Dark Alibi
 Dark August
 Dark City
@@ -9137,6 +9317,7 @@ Dark Stairways
 Dark Star
 Dark Streets
 Dark Streets of Cairo
+Dark Tower
 Dark Venture
 Dark Victory
 Dark Victory
@@ -9163,6 +9344,7 @@ Dastardly and Muttley in Their Flying Machines
 Date Bait
 Date with a Dream
 Date with a Kidnapper
+Date with an Angel
 Date with Duke
 Date with the Angels
 Dateline Diamonds
@@ -9199,6 +9381,7 @@ David and Bathsheba
 David and Goliath
 David and Lisa
 David Cassidy - Man Undercover
+David Copperfield
 David Copperfield
 David Garrick
 David Golder
@@ -9262,6 +9445,7 @@ Daze of the West
 De Luxe Annie
 De Sade
 Dead & Buried
+Dead Aim
 Dead Angle
 Dead Birds
 Dead Body on Broadway
@@ -9274,12 +9458,14 @@ Dead Game
 Dead Game
 Dead Heat on a Merry-Go-Round
 Dead Man on the Run
+Dead Man Walking
 Dead Man's Curve
 Dead Man's Evidence
 Dead Man's Eyes
 Dead Man's Folly
 Dead Man's Gold
 Dead Man's Gulch
+Dead Man's Letters
 Dead Man's Shoes
 Dead Man's Shoes
 Dead Man's Trail
@@ -9292,6 +9478,7 @@ Dead Men Walk
 Dead of Night
 Dead of Night
 Dead of Summer
+Dead of Winter
 Dead or Alive
 Dead Reckoning
 Dead Ringer
@@ -9310,7 +9497,9 @@ Deadline Auto Theft
 Deadline for Murder
 Deadlock
 Deadly Blessing
+Deadly Care
 Deadly Circuit
+Deadly Deception
 Deadly Decision
 Deadly Encounter
 Deadly Eyes
@@ -9321,15 +9510,18 @@ Deadly Games
 Deadly Harvest
 Deadly Harvest
 Deadly Hero
+Deadly Illusion
 Deadly Inheritance
 Deadly Intentions
 Deadly Lessons
 Deadly Messages
+Deadly Prey
 Deadly Ray from Mars
 Deadly Strangers
 Deadly Vengeance
 Deadly Weapons
 Deadman's Curve
+Deadtime Stories
 Deadwood '76
 Deadwood Dick
 Deadwood Pass
@@ -9339,14 +9531,17 @@ Deal of the Century
 Dealer's Choice
 Dealing: Or the Berkeley-to-Boston Forty-Brick Lost-Bag Blues
 Dean Martin Presents the Golddiggers
+Dear America: Letters Home from Vietnam
 Dear Boys
 Dear Brat
 Dear Brigitte
+Dear Cardholder
 Dear Dead Delilah
 Dear Detective
 Dear Father
 Dear Heart
 Dear Irena
+Dear John
 Dear Karl
 Dear Mr. Wonderful
 Dear Murderer
@@ -9361,6 +9556,7 @@ Death Among Friends
 Death at Dawn
 Death at Love House
 Death Be Not Proud
+Death Before Dishonor
 Death Car on the Freeway
 Death Cell
 Death Cruise
@@ -9385,6 +9581,7 @@ Death Machines
 Death Magazine: or How to Be a Flowerpot
 Death Mask
 Death Mills
+Death Nurse
 Death of a Bureaucrat
 Death of a Champion
 Death of a Corrupt Man
@@ -9394,6 +9591,7 @@ Death of a Jew
 Death of a Salesman
 Death of a Salesman
 Death of a Scoundrel
+Death of a Soldier
 Death of an Angel
 Death of Yazdgerd
 Death on the Diamond
@@ -9434,17 +9632,21 @@ Death Watch
 Death Will Have Your Eyes
 Death Wish
 Death Wish 3
+Death Wish 4: The Crackdown
 Death Wish II
 Death's Marathon
 Deathdream
 Deathmaster
 Deathmoon
+Deathrow Gameshow
 Deathsport
 Deathstalker
+Deathstalker II
 Deathtrap
 Deathwatch
 Debbie Does Dallas
 Debbie Does Dallas Part II
+Debbie Does the Devil in Dallas
 Debbie Duz Dishes
 Decameron Nights
 Deceit
@@ -9464,6 +9666,7 @@ Deduce, You Say
 Deed of Daring-Do
 Deeds of Daring
 Deep and Light
+Deep Dark Secrets
 Deep End
 Deep in My Heart
 Deep in the Heart of Texas
@@ -9472,6 +9675,7 @@ Deep Inside Annie Sprinkle
 Deep Red
 Deep Sea Fishing
 Deep South
+Deep Space
 Deep Throat
 Deep Throat Part II
 Deep Valley
@@ -9489,6 +9693,7 @@ Defying the Law
 Degas in the Metropolitan
 Degrassi High
 Deja View
+Dekalog
 Del mero corazón
 Delayed Proposals
 Delicious
@@ -9500,6 +9705,7 @@ Delinquent File: Juvenile Prostitution
 Delinquent Parents
 Delinquent School Girls
 Delirium
+Delirium
 Deliver Us from Evil
 Deliverance
 Deliverance
@@ -9509,6 +9715,7 @@ Delivery Boys
 Della
 Della
 Delta County, U.S.A.
+Delta Fever
 Delta Fox
 Delta House
 Delta Pi
@@ -9522,6 +9729,7 @@ Dementia 13
 Demetrius and the Gladiators
 Demolishing and Building Up the Star Theatre
 Demolition of a Wall
+Demon of Paradise
 Demon Pond
 Demon Rage
 Demon Seed
@@ -9532,6 +9740,7 @@ Demons of the Mind
 Dempsey
 Dempsey and Makepeace
 Den farliga leken
+Dennis the Menace
 Dennis the Menace
 Denshi Sentai Denziman
 Dentist in the Chair
@@ -9551,6 +9760,7 @@ Der Kommissar
 Der Leone Have Sept Cabeças
 Der Tanz geht weiter
 Derailed
+Deranged
 Derby Day
 Derby Decade
 Derelict
@@ -9612,10 +9822,12 @@ Desistfilm
 Desk Set
 Despair
 Desperado
+Desperado
 Desperado City
 Desperadoes of Dodge City
 Desperadoes of the West
 Desperadoes' Outpost
+Desperate
 Desperate
 Desperate Cargo
 Desperate Characters
@@ -9634,6 +9846,7 @@ Desperate Youth
 Desperately Seeking Susan
 Desperation
 Destination 60, 000
+Destination America
 Destination Big House
 Destination Gobi
 Destination Inner Space
@@ -9685,6 +9898,7 @@ Devil Dogs
 Devil Dogs of the Air
 Devil Doll
 Devil Fetus
+Devil Fetus 2: The Rape After
 Devil Fish
 Devil Girl from Mars
 Devil Goddess
@@ -9761,6 +9975,7 @@ Diary for My Children
 Diary of a Bachelor
 Diary of a Country Priest
 Diary of a Mad Housewife
+Diary of a Mad Old Man
 Diary of a Madman
 Diary of a Nudist
 Diary of a Teenage Hitchhiker
@@ -9857,6 +10072,7 @@ Directed by John Ford
 Dirigible
 Dirt
 Dirty Angel
+Dirty Dancing
 Dirty Dingus Magee
 Dirty Duck
 Dirty Fingers
@@ -9864,6 +10080,7 @@ Dirty Game in Casablanca
 Dirty Gertie from Harlem U.S.A.
 Dirty Harry
 Dirty Ho
+Dirty Laundry
 Dirty Lily
 Dirty Little Billy
 Dirty Looks
@@ -9894,13 +10111,17 @@ Dishonored Lady
 Dishonour Bright
 Disorder
 Disorder in the Court
+Disorderlies
 Disorderly Conduct
 Disputed Passage
 Disraeli
 Disraeli
 Distance
+Distance
 Distant Drums
+Distant Harmony
 Distant Thunder
+Distortions
 Distracted
 Distributing a War Extra
 Ditte, Child of Man
@@ -9922,6 +10143,7 @@ Divorce a la Mode
 Divorce American Style
 Divorce Among Friends
 Divorce Coupons
+Divorce Court Expose
 Divorce His - Divorce Hers
 Divorce in the Family
 Divorce Italian Style
@@ -10061,6 +10283,7 @@ Doggone Cats
 Doggone Tired
 Dogpound Shuffle
 Dogs
+Dogs in Space
 Dogs Is Dogs
 Dogs of War!
 Doi barbati pentru o moarte
@@ -10079,6 +10302,8 @@ Dollars and Sense
 Dollars and the Woman
 Dollars for a Fast Gun
 Dollars of Dross
+Dolls
+Dolly
 Dolly
 Dolly's Scoop
 Dolphin
@@ -10222,10 +10447,12 @@ Dondi
 Done in Oil
 Donkey Business
 Donkey in a Brahmin Village
+Donna Donna!!
 Donny and Marie
 Donovan's Brain
 Donovan's Kid
 Donovan's Reef
+Doom Asylum
 Doomed at Sundown
 Doomed Caravan
 Doomed to Die
@@ -10238,11 +10465,14 @@ Dopey Dicks
 Dora Nelson
 Dora Thorne
 Doraemon
+Dorf on Golf
+Dorf's Golf Bible
 Dorian Gray in the Mirror of the Yellow Press
 Doris Day's Best Friends
 Dorothy
 Dorothy and the Scarecrow in Oz
 Dorothy in the Land of Oz
+Dorothy Meets Ozma of Oz
 Dorothy Vernon of Haddon Hall
 Dorothy Whitmore
 Dos más uno dos
@@ -10250,6 +10480,7 @@ Dostoevskiy
 Dot and Keeto
 Dot and the Whale
 Dot Dot comma Dash
+Dot Goes to Hollywood
 Double Adventure
 Double Agent 73
 Double Alibi
@@ -10296,6 +10527,7 @@ Double Suicide
 Double Suicide at Nishijin
 Double Suicide of Sonezaki
 Double Talk
+Double Target
 Double Trouble
 Double Trouble
 Double Trouble
@@ -10323,6 +10555,7 @@ Down Among the Sheltering Palms
 Down Among the Sugar Cane
 Down Among the Z Men
 Down and Out in America
+Down and Out in Beverly Hills
 Down and Out in Beverly Hills
 Down and Outing
 Down Argentine Way
@@ -10363,10 +10596,12 @@ Down to the Sea
 Down to the Sea in Ships
 Down to the Sea in Ships
 Down to Their Last Yacht
+Down Twisted
 Down Under
 Down with Husbands
 Downhearted Duckling
 Downhill Racer
+Downpayment on Murder
 Downpour
 Downstairs
 Downstairs and Up
@@ -10461,6 +10696,7 @@ Drag-A-Long Droopy
 Dragnet
 Dragnet
 Dragnet
+Dragnet
 Dragnet 1966
 Dragnet 1967
 Dragnet Girl
@@ -10468,6 +10704,7 @@ Dragnet Patrol
 Dragon Around
 Dragon Ball
 Dragon Fist
+Dragon Hunt
 Dragon Inn
 Dragon Lord
 Dragon Seed
@@ -10475,6 +10712,7 @@ Dragon's Lair
 Dragonfly
 Dragonfly Squadron
 Dragons Die Hard
+Dragons Forever
 Dragonslayer
 Dragonwyck
 Dragoon Wells Massacre
@@ -10494,7 +10732,9 @@ Dream Girl
 Dream Girl, U.S.A.
 Dream House
 Dream House
+Dream Jeans
 Dream Lover
+Dream Lovers
 Dream No More
 Dream of a Racetrack Fiend
 Dream of a Rarebit Fiend
@@ -10512,10 +10752,12 @@ Dreamer
 Dreaming
 Dreaming Lips
 Dreaming Out Loud
+Dreaming the Rose
 Dreams
 Dreams
 Dreams Come True
 Dreams Don't Die
+Dreams Lost, Dreams Found
 Dreams of Glass
 Dreams of Youth
 Dreams That Money Can Buy
@@ -10578,6 +10820,7 @@ Drop-Out Father
 Dropped from the Clouds
 Droppington's Devilish Deed
 Droppington's Family Tree
+Drowning by Numbers
 Drugged Waters
 Drum
 Drum Beat
@@ -10628,9 +10871,11 @@ Ducking a Discord
 Ducking the Devil
 Duckling Duty
 Ducks and Drakes
+DuckTales
 Dude Cowboy
 Dude Duck
 Dude Ranch
+Dudes
 Dudes Are Pretty People
 Duds
 Duel
@@ -10647,7 +10892,9 @@ Duel Personality
 Duel to the Death
 Duel Without Honor
 Duelle
+Duet
 Duet for Cannibals
+Duet for One
 Duffy
 Duffy of San Quentin
 Duffy's Tavern
@@ -10682,7 +10929,9 @@ Durkh Trern
 Dusk to Dawn
 Dust
 Dust Be My Destiny
+Dust Devil
 Dust Flower
+Dust in the Wind
 Dusty and Sweets McGee
 Dusty's Trail
 Dutch Gold Mine
@@ -10821,6 +11070,7 @@ Easy Virtue
 Eat and Run
 Eat It
 Eat My Dust
+Eat the Rich
 Eat Your Makeup
 Eaten Alive
 Eaten Alive!
@@ -10835,12 +11085,15 @@ Ebony, Ivory and Jade
 Ecce Homo!
 Echo Park
 Echoes
+Echoes in the Darkness
+Echoes in the Wilderness
 Echoes of a Summer
 Ecstasy in Blue
 Ecstasy of the Angels
 Eddie and the Cruisers
 Eddie Macon's Run
 Eddie Murphy: Delirious
+Eddie Murphy: Raw
 Eddie's Little Love Affair
 Eden and Return
 Edgar Allan Poe
@@ -10879,6 +11132,7 @@ Eight Hours Don't Make a Day
 Eight Hours of Terror
 Eight Iron Men
 Eight Is Enough
+Eight Is Enough: A Family Reunion
 Eight Minutes to Midnight: A Portrait of Dr. Helen Caldicott
 Eight O'Clock Walk
 Eight on the Lam
@@ -11008,6 +11262,7 @@ Emma
 Emma
 Emma Mae
 Emma's War
+Emmanuelle 5
 Emmanuelle Goes to Cannes
 Emmanuelle IV
 Emmanuelle on Taboo Island
@@ -11020,6 +11275,8 @@ Emperor of the North
 Empire
 Empire
 Empire of the Ants
+Empire of the Sun
+Empire State
 Employees Only
 Employees' Entrance
 Empress Wu
@@ -11040,6 +11297,7 @@ Enchantment
 Encounter of the Spooky Kind
 Encounter of the Spooky Kind II
 Encounter with the Unknown
+End of the Line
 End of the Road
 End of the Road
 End of the Rope
@@ -11060,8 +11318,10 @@ Enemy Agents Meet Ellery Queen
 Enemy Mine
 Enemy of the Law
 Enemy of Women
+Enemy Territory
 Energetic 21
 Energy! Energy!
+Engagements of the Heart
 England Made Me
 Enigma
 Enlighten Thy Daughter
@@ -11094,6 +11354,7 @@ Entranced Earth
 Environment
 Environment
 Envy
+Epidemic
 Episode
 Epitome
 Equalizer 2000
@@ -11108,6 +11369,7 @@ Eric
 Erik, the Viking
 Erika's Hot Summer
 Ermine and Rhinestones
+Ernest Goes to Camp
 Ernie in Kovacsland
 Ernie Kovacs: Between the Laughter
 Ernie Kovacs: Television's Original Genius
@@ -11138,6 +11400,7 @@ Escape by Night
 Escape from Alcatraz
 Escape from Angola
 Escape from Bogen County
+Escape from Coral Cove
 Escape from Crime
 Escape from Devil's Island
 Escape from East Berlin
@@ -11148,6 +11411,7 @@ Escape from New York
 Escape from Prison
 Escape from Red Rock
 Escape from San Quentin
+Escape from Sobibor
 Escape from the Planet of the Apes
 Escape from Women's Prison
 Escape from Zahrain
@@ -11225,6 +11489,7 @@ Even the Wind Is afraid
 Even Unto Death
 Evening - Night - Morning
 Evening at Abdon's
+Evening Bell
 Evening Class
 Evening Clothes
 Evening in Byzantium
@@ -11296,6 +11561,7 @@ Everything You Always Wanted to Know About Sex * But Were Afraid to Ask
 Everything's Ducky
 Everything's on Ice
 Everything's Relative
+Everything's Relative
 Everything's Rosie
 Everywhere with Prizma
 Everywoman
@@ -11303,7 +11569,12 @@ Everywoman's Husband
 Evidence
 Evidence
 Evidence
+Evil Cat
+Evil Dead II
+Evil in the Woods
 Evil Roy Slade
+Evil Senses
+Evil Spawn
 Evil Town
 Evil Under the Sun
 Evils of the Night
@@ -11381,14 +11652,19 @@ Extravagance
 Extravagance
 Extreme Close-Up
 Extreme Close-Up
+Extreme Prejudice
+Extremities
 Extremities
 Eye for Eye
 Eye in the Labyrinth
 Eye Myth
 Eye of the Cat
 Eye of the Devil
+Eye of the Eagle
 Eye of the Needle
 Eye of the Night
+Eye of the Tiger
+Eye on the Sparrow
 Eye Spy
 Eye to Eye
 Eye Witness
@@ -11408,6 +11684,7 @@ Eyes of the Soul
 Eyes of the Underworld
 Eyes of the Underworld
 Eyes of Youth
+Eyes on the Prize
 Eyes Without a Face
 Eyewitness
 Eyewitness
@@ -11528,10 +11805,12 @@ Family Portrait Sittings
 Family Relations
 Family Reunion
 Family Secrets
+Family Sins
 Family Ties
 Family Ties Vacation
 Family Troubles
 Family Troubles
+Family Viewing
 Famous Love Affairs
 Famous Men
 Fan Fan
@@ -11646,6 +11925,7 @@ Fast Fightin'
 Fast Forward
 Fast Freight
 Fast Friends
+Fast Gun
 Fast Lane Blues
 Fast Life
 Fast Life
@@ -11662,6 +11942,9 @@ Fat Albert and the Cosby Kids
 Fat City
 Fat Wives for Thin
 Fata Morgana
+Fatal Attraction
+Fatal Beauty
+Fatal Confession: A Father Dowling Mystery
 Fatal Encounter
 Fatal Footsteps
 Fatal Games
@@ -11809,6 +12092,7 @@ Felicia
 Felicity
 Feline Frame-Up
 Felix
+Felix
 Felix in Fairyland
 Felix in Hollywood
 Felix O'Day
@@ -11841,9 +12125,11 @@ Fer-de-Lance
 Ferat Vampire
 Ferdinand the Bull
 Ferestadeh
+Ferris Bueller's Day Off
 Ferry Cross the Mersey
 Ferry to Hong Kong
 Festival
+Festival of Claymation
 Feud of the Range
 Feud of the West
 Feud with a Dude
@@ -11868,6 +12154,7 @@ Fiddlin' Around
 Fiddling Around
 Fido's Fate
 Field and Scream
+Field of Honor
 Fiend
 Fiend Without a Face
 Fiery Fireman
@@ -11892,6 +12179,8 @@ Figaro
 Figaro and Cleo
 Figaro and Frankie
 Fight and Win
+Fight Back with David Horowitz
+Fight for Life
 Fight for Survival
 Fight for Your Lady
 Fight for Your Life
@@ -11988,6 +12277,7 @@ Final Exam
 Final Exams
 Final Jeopardy
 Final Justice
+Final Mission
 Finale
 Finances of the Grand Duke
 Find the Blackmailer
@@ -12013,6 +12303,7 @@ Finger Man
 Finger Prints
 Finger Prints
 Finger Prints
+Fingered
 Fingerprints Don't Lie
 Fingers
 Fingers at the Window
@@ -12039,6 +12330,7 @@ Fire on the Mountain
 Fire One
 Fire Over England
 Fire Sale
+Fire with Fire
 Fireball 500
 Fireball Forward
 Fireball Jungle
@@ -12049,7 +12341,9 @@ Firebrands of Arizona
 Firecracker
 Firecreek
 Fired Wife
+Firefighter
 Firefox
+Firehouse
 Firehouse
 Firehouse
 Firelight
@@ -12068,6 +12362,7 @@ Fires on the Plain
 Fires Were Started
 Fireside Theatre
 Firestarter
+Firewalker
 Fireworks
 Fireworks
 First a Girl
@@ -12125,6 +12420,7 @@ Fishing for Tarpon
 Fishke Goes to War
 Fishy Tales
 Fist of Fury
+Fist of the North Star
 Fist of Unicorn
 Fistfull of Talons
 Fistic Mystic
@@ -12277,6 +12573,7 @@ Fleshburn
 Fleshpot on 42nd Street
 Fletch
 Flickering Youth
+Flicks
 Fliers of the Open Skies
 Flies
 Flies Ain't Human
@@ -12295,6 +12592,7 @@ Flight Into Nowhere
 Flight Lieutenant
 Flight Nurse
 Flight of the Lost Balloon
+Flight of the Navigator
 Flight That Disappeared
 Flight to Berlin
 Flight to Fame
@@ -12324,18 +12622,21 @@ Flo
 Flo's Discipline
 Floating Clouds
 Floating Free
+Flodder
 Flood
 Flood Tide
 Flood Tide
 Flood Tide
 Floodgates
 Floods of Fear
+Floodstage
 Floor Show
 Flop Goes the Weasel
 Florentine
 Florian
 Florida Historic Scenes and Florida in Mid-Winter
 Florida Special
+Florida Straits
 Flossie
 Flower Drum Song
 Flower of Night
@@ -12343,6 +12644,7 @@ Flower of the Dusk
 Flower on the Stone
 Flowers and Trees
 Flowers for Madame
+Flowers in the Attic
 Flowers of Reverie
 Flowing
 Flowing Gold
@@ -12512,6 +12814,7 @@ For Ladies Only
 For Ladies Only
 For Liberty
 For Lizzie's Sake
+For Love Alone
 For Love and Honor
 For Love and Honor
 For Love of Gold
@@ -12619,6 +12922,7 @@ Ford Star Jubilee
 Ford Star Revue
 Fords on Water
 Foreign Agent
+Foreign Body
 Foreign Correspondent
 Foreign Devils
 Foreign Intrigue
@@ -12626,6 +12930,7 @@ Foreign Intrigue
 Foreign Intrigue: Jeannie
 Foreman of Bar Z Ranch
 Foreplay
+Forest of Bliss
 Forest of the Hanged
 Forest Rivals
 Forever
@@ -12634,12 +12939,14 @@ Forever After
 Forever Amber
 Forever and a Day
 Forever and Beyond
+Forever Evil
 Forever Female
 Forever Fernwood
 Forever Young
 Forever Young, Forever Free
 Forever Yours
 Forever, Darling
+Forever, Lulu
 Forged Passport
 Forget Me Not
 Forget-Me-Not
@@ -12681,6 +12988,7 @@ Fort Vengeance
 Fort Worth
 Fort Yuma
 Fort Yuma Gold
+Fortress
 Fortress of Peace
 Fortress of the Dead
 Fortune and Men's Eyes
@@ -12688,6 +12996,7 @@ Fortune Dane
 Fortune's Mask
 Fortunes of a Composer
 Fortunes of Captain Blood
+Fortunes of War
 Forty Boys and a Song
 Forty Deuce
 Forty Guns
@@ -12758,6 +13067,7 @@ Fox Trot Finesse
 Fox-Terror
 Foxes
 Foxfire
+Foxfire
 Foxfire Light
 Foxhunting
 Foxtrot
@@ -12781,6 +13091,8 @@ Framing Youth
 Fran
 Frances
 Frances Langford Presents
+Frances Steloff: Memoirs of a Bookseller
+Francesca
 Francis
 Francis Covers the Big Town
 Francis Goes to the Races
@@ -12795,6 +13107,7 @@ Frank and Ollie: Four Decades of Disney Animation
 Frank Duck Brings 'em Back Alive
 Frank Film
 Frank Orth and Ann Codee in 'Imagine My Embarrassment'
+Frank's Place
 Frankenstein
 Frankenstein
 Frankenstein '80
@@ -12836,6 +13149,7 @@ Fred Astaire: Puttin' on His Top Hat
 Freddie Steps Out
 Freddy the Freshman
 Frederick the Great
+Free Admittance
 Free Air
 Free and Easy
 Free and Easy
@@ -12848,6 +13162,7 @@ Free Lips
 Free Love
 Free Love Confidential
 Free Radicals
+Free Ride
 Free to Love
 Free to Talk
 Free Wheeling
@@ -12866,6 +13181,7 @@ Frei Luís de Sousa
 Freight Investigation
 Freighters of Destiny
 Freiheit
+French and Saunders
 French Cancan
 French Connection II
 French Dressing
@@ -12873,6 +13189,7 @@ French Dressing
 French Freud
 French Fried Vacation 2
 French Heels
+French in Action
 French Kiss
 French Kisses
 French Leave
@@ -12886,6 +13203,7 @@ French Tapestries Visit America
 French Without Tears
 Frenchie
 Frenchman's Creek
+Frenchman's Farm
 Frente Al Mar
 Frenzied Finance
 Frenzy
@@ -12910,6 +13228,7 @@ Friday the 13th
 Friday the 13th
 Friday the 13th Part 2
 Friday the 13th Part III
+Friday the 13th Part VI: Jason Lives
 Friday the 13th: A New Beginning
 Friday the Thirteenth
 Friday the Thirteenth
@@ -12929,9 +13248,11 @@ Friends
 Friends and Foes
 Friends and Lovers
 Friends and Neighbours
+Friends Forever
 Friends of Man
 Friends of Mr. Sweeney
 Friendship
+Friendship's Death
 Friendships, Secrets and Lies
 Fright
 Fright Before Christmas
@@ -12955,8 +13276,10 @@ From a Far Country
 From a Night Porter's Point of View
 From A to Z thru Filmdom
 From A to Z-Z-Z-Z
+From a Whisper to a Scream
 From Bad to Worse
 From Bed to Worse
+From Beyond
 From Beyond the Grave
 From Broadway to a Throne
 From China with Death
@@ -12975,6 +13298,7 @@ From Hell to Victory
 From Here to Eternity
 From Here to Eternity
 From Here to Eternity
+From Here to Prosperity
 From Here to There
 From Holly with Love
 From Italy's Shores
@@ -12993,6 +13317,7 @@ From the City of Lodz
 From the Cloud to the Resistance
 From the Earth to the Moon
 From the Ground Up
+From the Hip
 From the Life of the Marionettes
 From the Manger to the Cross
 From the Mixed-Up Files of Mrs. Basil E. Frankweiler
@@ -13044,6 +13369,7 @@ Frontier Vengeance
 Frontier Woman
 Frontiers of '49
 Frosty
+Frosty Roads
 Frosty the Snowman
 Frou Frou
 Frozen Assets
@@ -13072,9 +13398,11 @@ Fugitive of the Plains
 Fugitive Road
 Fugitive Valley
 Fugitives
+Fugitives
 Fugitives for a Night
 Full Circle
 Full Confession
+Full Metal Jacket
 Full Moon High
 Full Moon in Paris
 Full of Life
@@ -13095,6 +13423,8 @@ Funeral for an Assassin
 Funeral in Berlin
 Funeral of Hiram Cronk
 Funeral Parade of Roses
+Funkytown
+Funland
 Funny Business
 Funny Face
 Funny Face
@@ -13143,14 +13473,18 @@ G.I. Blues
 G.I. Honeymoon
 G.I. Jane
 G.I. Joe
+G.I. Joe: Arise, Serpentor, Arise!
+G.I. Joe: The Movie
 G.I. Pink
 G.I. Wanna Home
 G.I. War Brides
+Ga-ga: Glory to the Heroes
 Gabby Goes Fishing
 Gable and Lombard
 Gabriel Over the White House
 Gabrielle
 Gaby
+Gaby: A True Story
 Gadgets Galore
 Gaily, Gaily
 Gal Young Un
@@ -13244,6 +13578,7 @@ Garden of Evil
 Garden of Lies
 Garden of the Dead
 Garden of the Moon
+Gardens of Stone
 Gargoyles
 Garlic Is as Good as Ten Mothers
 Garments of Truth
@@ -13403,6 +13738,7 @@ Getting Ahead
 Getting Away from It All
 Getting Even
 Getting Even
+Getting Even
 Getting Gertie's Garter
 Getting Gertie's Garter
 Getting Her Man
@@ -13412,6 +13748,7 @@ Getting Mary Married
 Getting Over
 Getting Physical
 Getting Reuben Back
+Getting Straight
 Getting Straight
 Getting the Cassiar's Goat
 Getting the Evidence
@@ -13427,8 +13764,10 @@ Ghost City
 Ghost City
 Ghost Dancing
 Ghost Diver
+Ghost Fever
 Ghost Guns
 Ghost in the Noonday Sun
+Ghost of a Chance
 Ghost of Dragstrip Hollow
 Ghost of Hidden Valley
 Ghost of the China Sea
@@ -13449,6 +13788,7 @@ Ghost Town Riders
 Ghost Valley
 Ghost Valley Raiders
 Ghost Wanted
+Ghost Warrior
 Ghost-Town Gold
 Ghostbusters
 Ghosts
@@ -13457,6 +13797,7 @@ Ghosts on the Loose
 Ghosts That Still Walk
 Ghosts, Italian Style
 Ghoulies
+Ghoulies II
 Giacomo Casanova: Childhood and Adolescence
 Giallo in Venice
 Giant
@@ -13499,9 +13840,11 @@ Gimme
 Gimme a Break!
 Gimme an 'F'
 Gimme Shelter
+Gimme Shelter
 Ginger
 Ginger
 Ginger
+Ginger & Fred
 Ginger in the Morning
 Ginsberg the Great
 Giordano Bruno
@@ -13568,6 +13911,7 @@ Girls of the White Orchid
 Girls on Girls
 Girls on Probation
 Girls on the Loose
+Girls School Screamers
 Girls Town
 Girls U.S.A.
 Girls Under 21
@@ -13631,8 +13975,10 @@ Glorious Youth
 Glory
 Glory
 Glory Alley
+Glory Years
 Glory, Glory, Halleluja
 Glove Taps
+Gloves
 Glow of the Firefly
 Glumov's Diary
 Glynis
@@ -13668,6 +14014,7 @@ Go West, Young Man
 Go West, Young Man
 Go, Go Second Time Virgin
 Go, Johnny, Go!
+GoBots: Battle of the Rock Lords
 Gobs and Gals
 God Bless You
 God Forgives... I Don't!
@@ -13676,6 +14023,7 @@ God Is My Co-Pilot
 God Is My Partner
 God Needs Men
 God Respects Us When We Work, But Loves Us When We Dance
+God's Country
 God's Country
 God's Country and the Man
 God's Country and the Man
@@ -13723,6 +14071,7 @@ Goin' to Town
 Goin' to Town
 Going Ape!
 Going Back
+Going Bananas
 Going Bye-Bye!
 Going Crooked
 Going Highbrow
@@ -13735,6 +14084,7 @@ Going on Two
 Going Places
 Going Places
 Going Places
+Going Sane
 Going Some
 Going Some
 Going Spanish
@@ -13800,6 +14150,7 @@ Golden Harvest
 Golden Hoofs
 Golden Horses
 Golden Needles
+Golden Ninja Warrior
 Golden Rule Kate
 Golden Salamander
 Golden Shackles
@@ -13842,6 +14193,7 @@ Gone with the West
 Gone with the Wind
 Gong with the Pink
 Gonks Go Beat
+Gonza the Spearman
 Gonzales' Tamales
 Goo Goo Goliath
 Good Against Evil
@@ -13869,6 +14221,7 @@ Good Morning World
 Good Morning, Eve!
 Good Morning, Judge
 Good Morning, Judge
+Good Morning, Miss Bliss
 Good Morning, Miss Dove
 Good Morning... and Goodbye!
 Good Neighbor Sam
@@ -13887,6 +14240,7 @@ Good Time Charley
 Good Time Harry
 Good Times
 Good Times
+Good to Go
 Good to See You Again, Alice Cooper
 Good Will to Men
 Good Women
@@ -13897,6 +14251,7 @@ Good-bye, My Lady
 Good-for-Nothing
 Good-Time Girl
 Goodbye & Amen
+Goodbye 42nd Street
 Goodbye Again
 Goodbye Broadway
 Goodbye Charlie
@@ -13905,10 +14260,12 @@ Goodbye Gemini
 Goodbye Girls
 Goodbye Legs
 Goodbye Mammie
+Goodbye My Love
 Goodbye Paradise
 Goodbye Paradise
 Goodbye Pork Pie
 Goodbye Summer
+Goodbye, Children
 Goodbye, Columbus
 Goodbye, Franklin High
 Goodbye, Miss Turlock
@@ -13954,6 +14311,7 @@ Gorp
 Gospel Road: A Story of Jesus
 Gossip
 Gotcha!
+Gothic
 Government Agents vs Phantom Legion
 Government Girl
 Government Story
@@ -13996,6 +14354,7 @@ Grand Slam Opera
 Grand Theft Auto
 Grandad of Races
 Granddad
+Grandfather
 Grandfather's Clock
 Grandma Moses
 Grandma's Boy
@@ -14107,6 +14466,7 @@ Grunt!
 Guadalcanal Diary
 Guaglio
 Guard That Girl
+Guardian of the Night
 Guardian of the Wilderness
 Guardians of the Wild
 Guarding Old Glory
@@ -14194,6 +14554,7 @@ Gunfire
 Gunfire at Indian Gap
 Gung buk
 Gung Ho
+Gung Ho
 Gunga Din
 Gunga Jumna
 Gunman in the Streets
@@ -14262,6 +14623,7 @@ Gypsy Night
 Gypsy of the North
 Gypsy Wildcat
 H-Bomb
+H.M. Deserters
 H.M. Pulham, Esq.
 H.O.T.S.
 H.R. Pufnstuf
@@ -14305,6 +14667,7 @@ Half Angel
 Half Angel
 Half Holiday
 Half Marriage
+Half Moon Street
 Half Nelson
 Half Nelson
 Half Past Midnight
@@ -14342,6 +14705,7 @@ Ham at the Garbage Gentleman's Ball
 Ham, the Piano Mover
 Hamateur Night
 Hambone and Hillie
+Hamburger: The Motion Picture
 Hamlet
 Hamlet
 Hamlet
@@ -14369,6 +14733,7 @@ Hands Across the Border
 Hands Across the Table
 Hands Down
 Hands of a Stranger
+Hands of Steel
 Hands of the Ripper
 Hands Off
 Hands Off!
@@ -14394,6 +14759,7 @@ Hangup
 Hank
 Hanky Panky
 Hanna K.
+Hannah and Her Sisters
 Hannibal Brooks
 Hannie Caulder
 Hanover Street
@@ -14425,16 +14791,19 @@ Happy Days
 Happy Days
 Happy Days
 Happy Days
+Happy Din Don
 Happy Easter
 Happy End
 Happy Endings
 Happy Endings
 Happy Ghost II
+Happy Ghost III
 Happy Go Ducky
 Happy Go Lovely
 Happy Go Lucky
 Happy Hoboes
 Happy Hooligan
+Happy Hour
 Happy Land
 Happy Landing
 Happy Landing
@@ -14457,7 +14826,9 @@ Hard Boiled Killers
 Hard Boiled Mahoney
 Hard Cash
 Hard Cash
+Hard Choices
 Hard Contract
+Hard Copy
 Hard Country
 Hard Fists
 Hard Guy
@@ -14480,6 +14851,7 @@ Hard, Fast and Beautiful!
 Hard-Boiled Haggerty
 Hard-Hittin' Hamilton
 Hardbodies
+Hardbodies 2
 Hardboiled Rose
 Hardcase
 Hardcastle and McCormick
@@ -14505,6 +14877,7 @@ Hare-Less Wolf
 Hare-um Scare-um
 Hare-Way to the Stars
 Haredevil Hare
+Harem
 Harem
 Harem Girl
 Harem Scarem
@@ -14541,6 +14914,7 @@ Harrigan and Son
 Harrigan's Kid
 Harris Against the World
 Harris and Company
+Harry
 Harry & Son
 Harry and the Butler
 Harry and Tonto
@@ -14589,6 +14963,7 @@ Haunted
 Haunted by Her Past
 Haunted Gold
 Haunted Harbor
+Haunted Honeymoon
 Haunted Honeymoon
 Haunted House
 Haunted Island
@@ -14709,6 +15084,7 @@ He's Worse Than Me
 He's Your Dog, Charlie Brown
 Head
 Head of the Class
+Head Office
 Head Over Heels
 Head Winds
 Headin' East
@@ -14744,6 +15120,7 @@ Hear Me Good
 Hear No Evil
 Hear Ye, Israel
 Heart and Soul
+Heart and Soul
 Heart Beat
 Heart Beats of Long Ago
 Heart Like a Wheel
@@ -14751,6 +15128,7 @@ Heart o' the Hills
 Heart of a Child
 Heart of Alaska
 Heart of Arizona
+Heart of Dragon
 Heart of Gold
 Heart of Paris
 Heart of Steel
@@ -14779,8 +15157,10 @@ Heartaches
 Heartbeat
 Heartbeeps
 Heartbreak
+Heartbreak Ridge
 Heartbreaker
 Heartbreakers
+Heartburn
 Heartland
 Hearts Adrift
 Hearts Aflame
@@ -14913,7 +15293,9 @@ Hell Canyon Outlaws
 Hell Divers
 Hell Drivers
 Hell Harbor
+Hell High
 Hell Hole
+Hell Hunters
 Hell in Heaven
 Hell in the Aegean
 Hell in the Heavens
@@ -14985,6 +15367,7 @@ Hello Down There
 Hello Frisco, Hello
 Hello God
 Hello How Am I
+Hello Kitty's Furry Tale Theater
 Hello Out There
 Hello Pop
 Hello Russia
@@ -15227,6 +15610,7 @@ Her Two Sons
 Her Unborn Child
 Her Unwilling Husband
 Her Venetian Name in Deserted Calcutta
+Her Vengeance
 Her Visitor
 Her Way
 Her Wedding Night
@@ -15322,6 +15706,7 @@ Hers to Hold
 Hester Street
 Heterosexualis
 Hex
+Hey Babu Riba
 Hey Boy! Hey Girl!
 Hey Good Lookin'
 Hey Rube!
@@ -15466,6 +15851,7 @@ High, Wide and Handsome
 Highcliffe Manor
 Higher and Higher
 Higher Than a Kite
+Highlander
 Highly Dangerous
 Highpoint
 Highway 13
@@ -15897,6 +16283,7 @@ Hollywood Thrill-Makers
 Hollywood Today
 Hollywood Today No. 4
 Hollywood Varieties
+Hollywood Vice Squad
 Hollywood Wives
 Holmes and Yoyo
 Holocaust
@@ -15904,6 +16291,7 @@ Holt of the Secret Service
 Holy Flame of the Martial World
 Holy Matrimony
 Holy Robe of the Shaolin Temple
+Homage to Steve
 Hombre
 Hombres de mi vida
 Home
@@ -15931,6 +16319,7 @@ Home Movie
 Home Movies
 Home Movies
 Home of the Brave
+Home of the Brave: A Film by Laurie Anderson
 Home on the Prairie
 Home on the Range
 Home on the Range
@@ -16067,11 +16456,13 @@ Hooked
 Hooked Bear
 Hooks and Jabs
 Hooper
+Hooperman
 Hoopla
 Hooray for Hollywood
 Hooray for Love
 Hoosier Holiday
 Hoosier Schoolboy
+Hoosiers
 Hoot Mon
 Hoot Mon!
 Hootenanny Hoot
@@ -16199,6 +16590,7 @@ Hotel
 Hotel
 Hotel Anchovy
 Hotel Berlin
+Hotel California
 Hotel Continental
 Hotel Cosmopolitan
 Hotel De Mutt
@@ -16214,6 +16606,7 @@ Hotel Paradise
 Hotel Paradiso
 Hotel Reserve
 Hotel Sahara
+Hotel St. Pauli
 Hotel Variety
 Hothead
 Hothead
@@ -16229,6 +16622,7 @@ Hounds of Notre Dame
 Hour of Reckoning
 Hour of the Gun
 Hour of the Star
+House
 House
 House by the River
 House Calls
@@ -16268,7 +16662,9 @@ Houseboat
 Housemaster
 Houses in That Alley
 Housewife
+Houston Knights
 Houston, We've Got a Problem
+Hovering Over the Water
 How a Horseshoe Upset a Happy Family
 How a Mosquito Operates
 How About a Plate of Spinach?
@@ -16320,6 +16716,7 @@ How to Be a Detective
 How to Be a Sailor
 How to Be Very, Very Popular
 How to Beat the High Cost of Living
+How to Become a Star
 How to Behave
 How to Break Up a Happy Divorce
 How to Catch Men
@@ -16377,8 +16774,10 @@ How Women Love
 How's About It?
 How's My Baby?
 How've You Bean?
+Howard the Duck
 Howdy Broadway
 Howdy Duke
+Howl of the Devil
 Howrah Bridge
 Hubby's Job
 Hubby's Latest Alibi
@@ -16395,6 +16794,7 @@ Hud
 Huddle
 Hudson's Bay
 Hue and Cry
+Huey Lewis and the News: Be-FORE!
 Huey Long
 Hughes and Harlow: Angels in Hell
 Hugon, the Mighty
@@ -16508,6 +16908,7 @@ I Am a Fugitive from a Chain Gang
 I Am a Thief
 I Am Blushing
 I Am Guilty
+I Am Joe's Ear
 I Am Joe's Eye
 I Am Joe's Kidney
 I Am Joe's Liver
@@ -16576,6 +16977,7 @@ I Got Plenty of Mutton
 I Graduated, But...
 I guerrieri dell'anno 2072
 I Had Three Wives
+I Hate Actors
 I Hate Women
 I Hate You Now
 I Have Lived
@@ -16593,6 +16995,7 @@ I Know Why the Caged Bird Sings
 I kongens klær
 I Learned It from Father
 I Led 3 Lives
+I Like Bats
 I Like It That Way
 I Like Mountain Music
 I Like the Girls Who Do
@@ -16618,6 +17021,7 @@ I Love to Singa
 I Love Trouble
 I Love You
 I Love You
+I Love You
 I Love You Again
 I Love You All
 I Love You, Alice B. Toklas!
@@ -16637,6 +17041,7 @@ I Married a Vampire
 I Married a Witch
 I Married a Woman
 I Married an Angel
+I Married Dora
 I Married Joan
 I Married Wyatt Earp
 I Met Him in Paris
@@ -16752,6 +17157,7 @@ I'll See You in My Dreams
 I'll Sell My Life
 I'll Show You the Town
 I'll Stick to You
+I'll Take Manhattan
 I'll Take Romance
 I'll Take Sweden
 I'll Take Vanilla
@@ -16856,6 +17262,7 @@ If I Were Single
 If I Were Young Again
 If I'm Lucky
 If It's Tuesday, This Must Be Belgium
+If Looks Could Kill
 If Marriage Fails
 If My Country Should Call
 If Only They Ain't Had Them Bands
@@ -17114,6 +17521,7 @@ In the Season of Buds
 In the Shade of the Old Applesauce
 In the Shadow
 In the Shadow of Death
+In the Shadow of Kilimanjaro
 In the Shadows
 In the Silver Country
 In the Spotlight
@@ -17244,6 +17652,7 @@ Inside Marilyn Chambers
 Inside Moves
 Inside O.U.T.
 Inside Out
+Inside Out
 Inside Story
 Inside Straight
 Inside the Law
@@ -17257,9 +17666,12 @@ Insight
 Insignificance
 Insinuation
 Inspector Blunder
+Inspector Chocolate
 Inspector Clouseau
 Inspector Gadget
 Inspector Hornleigh
+Inspector Lavardin
+Inspector Morse
 Inspector Palmu's Error
 Inspector Palmu's Mistake
 Inspiration
@@ -17295,8 +17707,10 @@ Interview
 Interviews with My Lai Veterans
 Intimacy
 Intimate Agony
+Intimate Encounters
 Intimate Games
 Intimate Playmates
+Intimate Strangers
 Intimate Strangers
 Into Her Kingdom
 Into No Man's Land
@@ -17320,6 +17734,7 @@ Introduction to Marriage
 Introduction to the Enemy
 Introduction to the P-39
 Intruder in the Dust
+Invaders from Mars
 Invaders from Mars
 Invasion
 Invasion
@@ -17368,6 +17783,8 @@ Irish Luck
 Irish Luck
 Irma la Douce
 Iron Chain Assassin
+Iron Eagle
+Iron Earth, Copper Sky
 Iron Fisted Monk
 Iron Horse
 Iron Man
@@ -17528,6 +17945,8 @@ It's a Joke, Son!
 It's a Living
 It's a Long Long Way to Tipperary
 It's a Mad Mad Mad Mad World
+It's a Mad, Mad, Mad World
+It's a Mad, Mad, Mad World II
 It's a Man's World
 It's a Mystery, Charlie Brown
 It's a Pleasure
@@ -17613,6 +18032,7 @@ J-Men Forever
 J.A.K.Q. Blitzkrieg Squad
 J.C.
 J.D.'s Revenge
+J.J. Starbuck
 J.O.E. and the Colonel
 J.S. Bach - Fantasy in G Minor
 Jaane Bhi Do Yaaro
@@ -17653,6 +18073,7 @@ Jack the Ripper
 Jack's Pals
 Jack+Jill
 Jack-Wabbit and the Beanstalk
+Jackals
 Jackass Mail
 Jackie
 Jackie Cooper's Birthday Party
@@ -17680,6 +18101,8 @@ Jailbirds of Paradise
 Jailbreak
 Jailed
 Jailhouse Rock
+Jake and the Fatman
+Jake Speed
 Jake the Plumber
 Jakoman and Tetsu
 Jalna
@@ -17751,6 +18174,7 @@ Jealousy
 Jealousy
 Jealousy and Medicine
 Jealousy and the Man
+Jean de Florette
 Jean Intervenes
 Jeanne Dielman, 23, quai du commerce, 1080 Bruxelles
 Jeanne Eagels
@@ -17777,6 +18201,7 @@ Jenny
 Jenny and the Soldier
 Jenny Be Good
 Jenny Is a Good Thing
+Jenny Kissed Me
 Jenny's War
 Jeopardy
 Jeopardy!
@@ -17876,6 +18301,7 @@ Jivaro
 Jive Junction
 Jivin' in Be-Bop
 Jo
+Jo Jo Dancer, Your Life Is Calling
 Joan of Arc
 Joan of Arc at the Stake
 Joan of Ozark
@@ -17920,6 +18346,7 @@ Joey
 Joey & Dad
 Joey Faye's Frolics
 Johann Mouse
+Johann Strauss: The King Without a Crown
 Johann the Coffinmaker
 Johanna Enlists
 Johannes Kepler
@@ -17945,11 +18372,13 @@ John Rance, Gentleman
 John Smith
 John Tobin's Sweetheart
 Johnnie Fedora and Alice Bluebonnet
+Johnnie Mae Gibson: FBI
 Johnny Allegro
 Johnny Angel
 Johnny Apollo
 Johnny Belinda
 Johnny Belinda
+Johnny Bull
 Johnny Cash and Friends
 Johnny Come Lately
 Johnny Comes Flying Home
@@ -18118,6 +18547,7 @@ Julius Caesar
 Julius Caesar
 Jump Into Hell
 Jump, Chump, Jump
+Jumpin' Jack Flash
 Jumpin' Jupiter
 Jumping Ash
 Jumping Beans
@@ -18191,6 +18621,7 @@ Just Another Blonde
 Just Around the Corner
 Just Before Dawn
 Just Before Dawn
+Just Between Friends
 Just Brown's Luck
 Just Crazy About Horses
 Just Dogs
@@ -18205,6 +18636,7 @@ Just Like a Woman
 Just Like a Woman
 Just Like a Woman
 Just Like Heaven
+Just Like Weather
 Just Married
 Just Me and You
 Just My Luck
@@ -18258,8 +18690,10 @@ Kaintuck
 Kaiser's Finish
 Kala
 Kaleidoscope
+Kamikaze Hearts
 Kanal
 Kane & Abel
+Kangaroo
 Kangaroo
 Kansas City Bomber
 Kansas City Confidential
@@ -18274,14 +18708,18 @@ Kaos
 Kapo
 Karen
 Karen
+Karen's Song
+Karin's Face
 Karl Hess: Toward Liberty
 Karl May
 Karla
+Karma
 Katchem Kate
 Kate & Allie
 Kate & Leopold
 Kate Bliss and the Ticker Tape Kid
 Kate McShane
+Kate's Secret
 Katherine
 Kathleen
 Kathleen Mavourneen
@@ -18364,6 +18802,7 @@ Keoma
 Kept Husbands
 Kerouac, the Movie
 Kes
+Keshin
 Key Exchange
 Key Largo
 Key to the City
@@ -18410,11 +18849,13 @@ Kidnapped
 Kidnapped
 Kidnapped
 Kidnapped
+Kidnapped
 Kidnapping, Caucasian Style
 Kids
 Kids Don't Tell
 Kids from Shaolin
 Kids Incorporated
+Kids Incorporated: Rock in the New Year
 Kids Is Kids
 Kierion
 Kiki
@@ -18446,12 +18887,15 @@ Killer Dill
 Killer Diller
 Killer Fish
 Killer Force
+Killer in the Mirror
 Killer Leopard
 Killer McCoy
 Killer of Sheep
 Killer on Board
+Killer Party
 Killer Shark
 Killer Whale
+Killer Workout
 Killer's Delight
 Killer's Kiss
 Killer's Moon
@@ -18470,7 +18914,9 @@ Kilma, Queen of the Jungle
 Kilmeny
 Kilroy Was Here
 Kim
+Kimagure Orange Road
 Kimberley Jim
+Kin-dza-dza!
 Kind Hearts and Coronets
 Kind Lady
 Kind Lady
@@ -18492,6 +18938,7 @@ King Frat
 King Kelly of the U.S.A.
 King Kong
 King Kong
+King Kong Lives
 King Kong vs. Godzilla
 King Kongs Faust
 King Lavra
@@ -18509,6 +18956,7 @@ King of Gamblers
 King of Hockey
 King of Jazz
 King of Kings
+King of Sex
 King of the Arena
 King of the Bandits
 King of the Bullwhip
@@ -18664,6 +19112,7 @@ Knight-Mare Hare
 Knightriders
 Knights and Ladies
 Knights Must Fall
+Knights of the City
 Knights of the Range
 Knights of the Round Table
 Knights of the Teutonic Order
@@ -18744,11 +19193,13 @@ Krull
 Krush Groove
 Ku Fu? From Sicily with Fury
 Kudzu
+Kuei-mei, a Woman
 Kuhle Wampe or Who Owns the World?
 Kultur
 Kung Fu
 Kung Fu Master - Bruce Lee Style
 Kung Fu of 8 Drunkards
+Kung Fu: The Movie
 Kung Hei Fat Choy
 Kuni Leml in Tel Aviv
 Kustom Kar Kommandos
@@ -18772,6 +19223,7 @@ L'Innocente
 L'uomo del colpo perfetto
 L'énigmatique Monsieur Parkes
 L.A. Law
+L.A. Streetfighters
 La Belle Russe
 La belle Russe
 La Bohème
@@ -18809,6 +19261,7 @@ La inmaculada
 La jaula de los leones
 La Jetée
 La La Lucille
+La machine à découdre
 La Notte
 La pantera nera
 La piovra
@@ -18833,6 +19286,7 @@ La Vérité
 Labrador
 Labrador and Newfoundland
 Laburnum Grove
+Labyrinth
 Labyrinth
 Lace
 Lace II
@@ -18868,7 +19322,9 @@ Ladies of Leisure
 Ladies of Leisure
 Ladies of the Big House
 Ladies of the Chorus
+Ladies of the Corridor
 Ladies of the Jury
+Ladies of the Lotus
 Ladies of the Mob
 Ladies of the Night Club
 Ladies of Washington
@@ -18918,12 +19374,14 @@ Lady Helen's Escapade
 Lady Ice
 Lady in a Cage
 Lady in a Jam
+Lady in Black
 Lady in Cement
 Lady in Danger
 Lady in the Dark
 Lady in the Death House
 Lady in the Iron Mask
 Lady in the Lake
+Lady Jane
 Lady Killer
 Lady L
 Lady Luck
@@ -18961,6 +19419,7 @@ Lafayette Escadrille
 Lafayette, We Come
 Lake of the Dead
 Lake Placid Serenade
+Lamb
 Lambert the Sheepish Lion
 Lana, Queen of the Amazons
 Lancelot Link: Secret Chimp
@@ -18991,6 +19450,7 @@ Landing a Spy
 Landing an Heiress
 Landing Stripling
 Landrush
+Landscape with Waitress
 Langdon's Legacy
 Langlois
 Lanigan's Rabbi
@@ -19017,7 +19477,9 @@ Las Vegas Free-for-All
 Las Vegas Hillbillys
 Las Vegas Lady
 Las Vegas Nights
+Las Vegas Serial Killer
 Las Vegas Shakedown
+Las Vegas Weekend
 Lasca
 Lasca of the Rio Grande
 Laserblast
@@ -19062,6 +19524,7 @@ Last of the Warrens
 Last of the Wild Horses
 Last Pair Out
 Last Plane Out
+Last Resort
 Last Space Voyage of Wallace Ramsel
 Last Stagecoach West
 Last Stop on the Night Train
@@ -19076,6 +19539,7 @@ Late Night America
 Late Night with David Letterman
 Late Season
 Late Spring
+Late Summer Blues
 Latin Lovers
 Latin Lovers
 Latino
@@ -19097,6 +19561,7 @@ Laughing Boy
 Laughing Gas
 Laughing Gas
 Laughing Gravy
+Laughing Horse
 Laughing Irish Eyes
 Laughing Sinners
 Laughs in the Law
@@ -19270,9 +19735,12 @@ Left Over Ladies
 Leftovers from the North
 Lefty
 Lefty, the Dingaling Lynx
+Leg Work
 Legacy
 Legacy of Blood
+Legacy of Rage
 Legal Advice
+Legal Eagles
 Legally Dead
 Legend
 Legend of a Duel to the Death
@@ -19394,6 +19862,7 @@ Let's Elope
 Let's Face It
 Let's Fall in Love
 Let's Get a Divorce
+Let's Get Harry
 Let's Get Laid
 Let's Get Married
 Let's Get Married
@@ -19446,6 +19915,7 @@ Letter of Introduction
 Letter to a Hero
 Letter to Brezhnev
 Letters
+Letters from a Dead Man
 Letters from Frank
 Letters from Marusia
 Letters from Three Lovers
@@ -19467,6 +19937,7 @@ Libel
 Libeled Lady
 Libera, My Love
 Liberated Land
+Liberty
 Liberty
 Liberty
 Liberty Belles
@@ -19503,6 +19974,7 @@ Life in Hollywood No. 4
 Life in Kajzar
 Life in the Raw
 Life Is a Circus
+Life Is a Dream
 Life Is Beautiful
 Life Is Beautiful
 Life Is Ours
@@ -19561,6 +20033,7 @@ Light Fingers
 Light in the Piazza
 Light in the Window
 Light Out of Nowhere
+Light Squadron Maskman
 Light the Fuse... Sartana Is Coming
 Lighter Than Hare
 Lighthouse
@@ -19590,6 +20063,7 @@ Lightning Speed
 Lightning Strikes Twice
 Lightning Strikes Twice
 Lightning Strikes West
+Lightning, the White Stallion
 Lights and Shadows
 Lights Fantastic
 Lights of New York
@@ -19605,6 +20079,7 @@ Like a Bird on a Wire
 Like a Hair in the Soup
 Like Father, Like Son
 Like Knights of Old
+Like Men
 Like Mom, Like Me
 Like Normal People
 Like Wildfire
@@ -19644,6 +20119,7 @@ Linda, Be Good
 Line of Demarcation
 Lines of White on a Sullen Sea
 Lingerie
+Link
 Lion Around
 Lion Down
 Lion Hunting
@@ -19800,6 +20276,7 @@ Little Runaway
 Little Rural Riding Hood
 Little School Mouse
 Little Shepherds
+Little Shop of Horrors
 Little Sunset
 Little Swee'pea
 Little Tokyo, U.S.A.
@@ -19885,6 +20362,7 @@ London Blackout Murders
 London by Night
 London Can Take It!
 London Clouds
+London Clouds
 London Derrière
 London Moods
 London Pride
@@ -19947,6 +20425,7 @@ Long Lost Father
 Long Pants
 Long Shot
 Long Shot
+Long Time Gone
 Long Weekend
 Long-Haired Hare
 Longing for a Mother
@@ -20013,6 +20492,7 @@ Los aristogatos
 Los calaveras
 Los hombres las prefieren viudas
 Los jóvenes amantes
+Los verduleros
 Loser Takes All
 Loser's End
 Losin' It
@@ -20077,8 +20557,10 @@ Lottery!
 Lotus Blossom
 Lotus Lady
 Lou Grant
+Loud Visual Noises
 Louie Bluie
 Louis Armstrong - Chicago Style
+Louis L'Amour's Down the Long Hills
 Louisa
 Louisa
 Louisiana
@@ -20145,6 +20627,7 @@ Love Before Ten
 Love Begins at 20
 Love Between the Raindrops
 Love Birds
+Love Boat
 Love Bound
 Love Business
 Love Camp
@@ -20262,6 +20745,7 @@ Love Past Thirty
 Love Play
 Love Scenes
 Love Sickness at Sea
+Love Sins
 Love Slaves of the Amazons
 Love Song Over the Sea
 Love Stopped the Runaway Train
@@ -20269,6 +20753,7 @@ Love Story
 Love Story
 Love Strange Love
 Love Streams
+Love Struck
 Love Takes Flight
 Love That Brute
 Love That Jill
@@ -20375,11 +20860,13 @@ Loving
 Loving Couples
 Loving Lies
 Loving You
+Low Blow
 Loyal Lives
 Loyalty
 LSD: Insight or Insanity?
 Lt. Robin Crusoe, U.S.N.
 Lucan
+Lucas
 Lucas Tanner
 Lucia
 Lucifer Rising
@@ -20422,6 +20909,7 @@ Lucky Pink
 Lucky Star
 Lucky Star
 Lucky Stars
+Lucky Stars Go Places
 Lucky Terror
 Lucky to Me
 Lucretia Lombard
@@ -20509,6 +20997,7 @@ Luther Metke at 94
 Luv
 Lux Playhouse
 Lux Video Theatre
+Luxo Jr.
 Luxury Liner
 Luxury Liner
 Lydia
@@ -20613,6 +21102,7 @@ Mad Masquerade
 Mad Max
 Mad Max Beyond Thunderdome
 Mad Mission 3: Our Man from Bond Street
+Mad Mission 4: You Never Die Twice
 Mad Monkey Kung Fu
 Mad Monster Party?
 Mad Youth
@@ -20698,9 +21188,11 @@ Madsong
 Mae West
 Maeva
 Mafia
+Mafia Princess
 Mag Wheels
 Magazine Specials
 Magda
+Magdalena Viraga
 Maggie
 Maggie and Her
 Maggie Pepper
@@ -20710,6 +21202,7 @@ Magic Bullets
 Magic Carpet
 Magic Carpet
 Magic Carpet 'Round the World
+Magic Crystal
 Magic Fire
 Magic Journeys
 Magic Movie Moments
@@ -20761,6 +21254,7 @@ Main Street Lawyer
 Main Street on the March!
 Main Street to Broadway
 Main Street Today
+Maine Ocean
 Maisie
 Maisie Gets Her Man
 Maisie Goes to Reno
@@ -20809,6 +21303,7 @@ Malaga
 Malar Pirates
 Malay Nights
 Malaya
+Malcolm
 Malcolm X
 Male and Female
 Male Generation
@@ -20912,6 +21407,7 @@ Man of a Thousand Faces
 Man of Action
 Man of Africa
 Man of Aran
+Man of Ashes
 Man of Conflict
 Man of Conquest
 Man of Courage
@@ -20945,6 +21441,7 @@ Man on the Flying Trapeze
 Man on the Prowl
 Man on the Spying Trapeze
 Man or Gun
+Man Outside
 Man Power
 Man Rustlin'
 Man to Man
@@ -21019,9 +21516,11 @@ Manhattan Showcase
 Manhattan Tower
 Manhattan Transfer
 Manhunt
+Manhunt for Claude Dallas
 Manhunt in Space
 Manhunt in the Jungle
 Manhunt of Mystery Island
+Manhunter
 Manhunter
 Maniac
 Maniac
@@ -21051,6 +21550,7 @@ Many a Slip
 Many Happy Returns
 Many Happy Returns
 Many Happy Returns
+Many Happy Returns
 Many Rivers to Cross
 Many Sappy Returns
 Many Tanks
@@ -21062,6 +21562,7 @@ Maraschino Cherry
 Marat/Sade
 Marathon
 Marathon Man
+Marblehead Manor
 March of the Wooden Soldiers
 March on, America!
 March or Die
@@ -21095,6 +21596,7 @@ Maria Papoila
 Maria Rosa
 Maria's Lovers
 Maria's Sacrifice
+Mariah
 Marian Rose White
 Marianne
 Marianne
@@ -21178,6 +21680,7 @@ Married Life
 Married on the Wing
 Married People
 Married Too Young
+Married... with Children
 Married?
 Marry in Haste
 Marry Me
@@ -21206,6 +21709,7 @@ Marta
 Marta of the Lowlands
 Martha
 Martha's Vindication
+Martial Arts of Shaolin
 Martial Club
 Martian Through Georgia
 Martin
@@ -21216,6 +21720,7 @@ Martin Luther
 Martin Luther
 Martin of the Mounted
 Martin's Day
+Martina's Playhouse
 Martinelli, Outside Man
 Marty
 Martyrs of the Alamo
@@ -21309,6 +21814,7 @@ Masterson of Kansas
 Masterworks of Terror
 Mata Hari
 Mata Hari
+Matador
 Matalo! (Kill Him)
 Match Game PM
 Match Game/Hollywood Squares Hour
@@ -21319,6 +21825,7 @@ Matching Wits
 Matchmaking Mamma
 Mateo Falcone
 Maternity
+Mathnet
 Matilda
 Matilda's Legacy
 Matinee Ladies
@@ -21342,9 +21849,12 @@ Max and the Junkmen
 Max and the Purse
 Max Comes Across
 Max Dugan Returns
+Max Headroom
+Max My Love
 Max, the Heartbreaker
 Maxie
 Maxie
+Maximum Overdrive
 May and December
 May Blossom
 May God Forgive Me
@@ -21361,6 +21871,7 @@ Mayday at 40, 000 Feet!
 Mayerling
 Mayerling
 Mayfair Melody
+Mayhem
 Mayor of the Town
 Maytime
 Maytime
@@ -21507,6 +22018,7 @@ Melvin and Howard
 Melvin Purvis G-MAN
 Memed My Hawk
 Memo for Joe
+Memoirs of a Sinner
 Memoirs of a Survivor
 Memorandum for a Spy
 Memorial Day
@@ -21611,7 +22123,9 @@ Merrily We Live
 Merry Andrew
 Merry Christmas
 Merry Christmas Mr. Lawrence
+Merry Christmas Octopus
 Merry Comes to Town
+Merry Go Round
 Merry Mavericks
 Merry Wives of Reno
 Merry-Go-Round
@@ -21621,6 +22135,7 @@ Merton of the Movies
 Mes Petites Amoureuses
 Mesa of Lost Women
 Meshes of the Afternoon
+Mesmerized
 Mesquite Buckaroo
 Message from Across the Sea
 Message from Space
@@ -21634,6 +22149,7 @@ Meteor & Shadow
 Methadone: An American Way of Dealing
 Metropolis
 Metropolitan
+Metropolitan Avenue
 Metropolitan Overview
 Mexicali Rose
 Mexicali Rose
@@ -21661,7 +22177,9 @@ Mezhdu vami i mnoy
 MGM Parade
 Mi faccio la barca
 Miami
+Miami Connection
 Miami Exposé
+Miami Spice II
 Miami Supercops
 Miami Undercover
 Miami Vice
@@ -21800,6 +22318,7 @@ Mike's Hero
 Mike's Murder
 Mike, the Miser
 Mikey and Nicky
+Miko: From the Gutter to the Stars
 Milady o' the Beanstalk
 Mildred Pierce
 Mile a Minute Love
@@ -21828,6 +22347,7 @@ Million Dollar Infield
 Million Dollar Kid
 Million Dollar Legs
 Million Dollar Legs
+Million Dollar Madness
 Million Dollar Mermaid
 Million Dollar Mystery
 Million Dollar Pursuit
@@ -21842,6 +22362,7 @@ Millionaire Playboy
 Millionaires
 Millionaires for One Day
 Millionaires in Prison
+Millionaires' Express
 Millions
 Millions for Defence
 Millions in the Air
@@ -21873,11 +22394,13 @@ Miracle in Harlem
 Miracle in Milan
 Miracle in the Rain
 Miracle Money
+Miracle of the Heart: A Boys Town Story
 Miracle of the White Stallions
 Miracle on 34th Street
 Miracle on 34th Street
 Miracle on Ice
 Miracle on Main Street
+Miracles
 Miracles for Sale
 Miracles of the Jungle
 Miracles Still Happen
@@ -21930,6 +22453,8 @@ Miss Lulu Bett
 Miss Mala
 Miss Marple: A Murder Is Announced
 Miss Marple: At Bertram's Hotel
+Miss Marple: Nemesis
+Miss Marple: Sleeping Murder
 Miss Marple: The Body in the Library
 Miss Marple: The Moving Finger
 Miss Melody Jones
@@ -22076,6 +22601,7 @@ Models in Mud
 Models Inc.
 Modern Daughters
 Modern Fishing
+Modern Girls
 Modern Husbands
 Modern Inventions
 Modern Love
@@ -22120,6 +22646,7 @@ Mommie Dearest
 Mommy Loves Puppy
 Mon Oncle
 Mon Oncle Antoine
+Mona Lisa
 Mona McCluskey
 Monaco Forever
 Monaco Franze - Der ewige Stenz
@@ -22180,6 +22707,7 @@ Monster a Go-Go
 Monster Dog
 Monster from Green Hell
 Monster from the Ocean Floor
+Monster in the Closet
 Monster on the Campus
 Monsters Crash the Pajama Party
 Monstroid
@@ -22192,6 +22720,7 @@ Montana Incident
 Montana Moon
 Montana Mountain Adventures
 Montana Territory
+Monte Carlo
 Monte Carlo
 Monte Carlo
 Monte Carlo Nights
@@ -22337,6 +22866,7 @@ Mother Eternal
 Mother Ganges
 Mother Goose Goes Hollywood
 Mother Goose Melodies
+Mother Goose Stories
 Mother Goose's Movies
 Mother Gooseland
 Mother India
@@ -22353,6 +22883,7 @@ Mother Never Dies
 Mother o' Mine
 Mother o' Mine
 Mother Pluto
+Mother Teresa
 Mother Was a Rooster
 Mother Wore Tights
 Mother's Boy
@@ -22369,6 +22900,7 @@ Mother, Jugs & Speed
 Mother-in-Law's Day
 Motherhood
 Motherhood: Life's Greatest Miracle
+Motherland Hotel
 Mothers Cry
 Mothers of France
 Mothers of Men
@@ -22405,6 +22937,7 @@ Mountain of Fear
 Mountain Rhythm
 Mountain Rhythm
 Mountains of Manhattan
+Mountaintop Motel Massacre
 Mounted Fury
 Mourning Becomes Electra
 Mouse and Garden
@@ -22457,6 +22990,7 @@ Mr. Barnes of New York
 Mr. Belvedere
 Mr. Belvedere Goes to College
 Mr. Belvedere Rings the Bell
+Mr. Bill's Real Life Adventures
 Mr. Billings Spends His Dime
 Mr. Billion
 Mr. Bingle
@@ -22538,6 +23072,7 @@ Mr. Perrin and Mr. Traill
 Mr. Peters' Pets
 Mr. Pickwick's Predicament
 Mr. Potter of Texas
+Mr. President
 Mr. Reckless
 Mr. Ricco
 Mr. Robinson Crusoe
@@ -22556,6 +23091,7 @@ Mr. Terrific
 Mr. Thank You
 Mr. Too Little
 Mr. Vampire
+Mr. Vampire II
 Mr. Washington Goes to Town
 Mr. What's-His-Name?
 Mr. Winkle Goes to War
@@ -22572,6 +23108,7 @@ Mrs. Brown, You've Got a Lovely Daughter
 Mrs. Columbo
 Mrs. Dane's Confession
 Mrs. Dane's Defense
+Mrs. Delafield Wants to Marry
 Mrs. Gibbons' Boys
 Mrs. Hippo
 Mrs. Jones Entertains
@@ -22619,6 +23156,7 @@ Mule Feathers
 Mule Train
 Mulhall's Greatest Catch
 Mulligan's Stew
+Multi-Handicapped
 Multiple Maniacs
 Mum's the Word
 Mumbo Jumbo
@@ -22666,12 +23204,14 @@ Murder in the Air
 Murder in the Big House
 Murder in the Blue Room
 Murder in the Clouds
+Murder in the Dark
 Murder in the Family
 Murder in the First Person Singular
 Murder in the Fleet
 Murder in the Music Hall
 Murder in the Night
 Murder in the Private Car
+Murder in Three Acts
 Murder in Times Square
 Murder in Trinidad
 Murder Is Easy
@@ -22710,8 +23250,10 @@ Murdock's Gang
 Muriel
 Murph the Surf
 Murphy's I.O.U.
+Murphy's Law
 Murphy's Romance
 Murphy's War
+Murrow
 Muscle Beach Party
 Muscle Beach Tom
 Muscle Tussle
@@ -22797,6 +23339,7 @@ My American Wife
 My Artistical Temperature
 My Baby
 My Baby Just Cares for Me
+My Beautiful Laundrette
 My Best Gal
 My Best Girl
 My Best Girl
@@ -22821,16 +23364,19 @@ My Brother's Keeper
 My Brother's Wedding
 My Buddy
 My Bunny Lies Over the Sea
+My Chauffeur
 My Country 'Tis of Thee
 My Country First
 My Cousin
 My Cousin Rachel
+My Cousin, the Ghost
 My Dad
 My Darling Clementine
 My Darling Daughters' Anniversary
 My Dear Killer
 My Dear Miss Aldrich
 My Dear Secretary
+My Dearest Son
 My Death Is a Mockery
 My Dinner with Andre
 My Dog Rusty
@@ -22904,6 +23450,7 @@ My Lady's Past
 My Lady's Slipper
 My Learned Friend
 My Life as a Dog
+My Life for Zarah Leander
 My Life with Caroline
 My Lips Betray
 My Little Boy
@@ -22911,7 +23458,9 @@ My Little Buckeroo
 My Little Chickadee
 My Little Duckaroo
 My Little Feller
+My Little Girl
 My Little Margie
+My Little Pony: The Movie
 My Little Sentimental Friend
 My Little Sister
 My Living Doll
@@ -22994,6 +23543,8 @@ My Three Sons
 My Tomato
 My True Story
 My Tutor
+My Two Dads
+My Two Loves
 My Uncle Napoleon
 My Unmarried Wife
 My Valet
@@ -23014,6 +23565,7 @@ My Wife, the Adventuress
 My Wife, the Movie Star
 My Wild Irish Rose
 My Wild Irish Rose
+My Will, I Will
 My Woman
 My Wonderful Yellow Car
 My World and Welcome to It
@@ -23049,6 +23601,7 @@ Mystery Junction
 Mystery Lake
 Mystery Liner
 Mystery Man
+Mystery Mansion
 Mystery Mountain
 Mystery of Edwin Drood
 Mystery of Marie Roget
@@ -23071,11 +23624,14 @@ MysteryDisc: Murder, Anyone?
 Mystic Faces
 Mystique
 Mädchen in Uniform
+Mélo
+Ménage
 Méphisto
 N. Took the Dice
 N.Y. Babes
 N.Y. Fire Department Returning
 N.Y.P.D.
+Naam
 Nabonga
 Nach meinem letzten Umzug...
 Nad ozerom Balaton
@@ -23105,6 +23661,7 @@ Naked Interlude
 Naked Paradise
 Naked Spaces: Living Is Round
 Naked Terror
+Naked Vengeance
 Naked Yoga
 Nakia
 Name That Tune
@@ -23143,6 +23700,7 @@ Naples... The Camorra Challenges, the City Hits Back
 Napoleon
 Napoleon
 Napoleon
+Napoleon and Josephine: A Love Story
 Napoleon and Samantha
 Napoleon Blown-Aparte
 Napoleon Bunny-Part
@@ -23172,6 +23730,7 @@ Native Land
 Native Land
 Native Life in the Philippines
 Native Son
+Native Son
 Natural Enemies
 Nature
 Nature in the Wrong
@@ -23182,6 +23741,7 @@ Nature's Revenge
 Naughty
 Naughty Baby
 Naughty Boy
+Naughty Boys
 Naughty But Mice
 Naughty But Nice
 Naughty But Nice
@@ -23231,6 +23791,7 @@ Nearly Married
 Neck 'n' Neck
 Neck and Neck
 Necromancy
+Necropolis
 Ned Kelly
 Ned McCobb's Daughter
 Nedra
@@ -23310,6 +23871,7 @@ Never Too Late
 Never Too Late
 Never Too Late
 Never Too Young
+Never Too Young to Die
 Never Touched Me
 Never Trust a Gambler
 Never Wave at a WAC
@@ -23329,6 +23891,7 @@ New Love for Old
 New Magic
 New Mexico
 New Mischief by Emil
+New Monkees
 New Moon
 New Moon
 New Morals for Old
@@ -23339,6 +23902,7 @@ New Orleans After Dark
 New Orleans Uncensored
 New Prison Walls of Abashiri Stormy Cape
 New Toys
+New Wave Comedy
 New Wave Hookers
 New Wine
 New Year Sacrifice
@@ -23355,10 +23919,12 @@ New York, New York bis
 Newhart
 Newly Rich
 Newman's Law
+News at Eleven
 News from Home
 News Hounds
 News Is Made at Night
 News Parade
+News Report on a Journey to a Bright Future
 Newsboys' Home
 Newsfront
 Next Aisle Over
@@ -23376,6 +23942,7 @@ Niagara
 Niagara Falls
 Niagara Falls
 Niagara Falls
+Niagara: Miracles, Myths and Magic
 Nice Dreams
 Nice Girl?
 Nice People
@@ -23437,6 +24004,7 @@ Night Life of the Gods
 Night Magic
 Night Monster
 Night Moves
+Night Music
 Night Must Fall
 Night Must Fall
 Night Nurse
@@ -23454,6 +24022,7 @@ Night of the Blood Beast
 Night of the Bloody Transplant
 Night of the Cobra Woman
 Night of the Comet
+Night of the Creeps
 Night of the Demon
 Night of the Eagle
 Night of the Garter
@@ -23519,6 +24088,7 @@ Nightmare in Blood
 Nightmare in Chicago
 Nightmare in the Sun
 Nightmare in Wax
+Nightmare Weekend
 Nightmares
 Nightmares
 Nightmares Come at Night
@@ -23603,6 +24173,7 @@ No Man's Woman
 No Maps on My Taps
 No Margin for Error
 No Marriage Ties
+No Mercy
 No Mercy, No Future
 No Minor Vices
 No More Bridge!
@@ -23627,6 +24198,7 @@ No Other Woman
 No Other Woman
 No Parking
 No Parking Hare
+No Picnic
 No Place for a Lady
 No Place for Father
 No Place Like Jail
@@ -23688,9 +24260,11 @@ Nobody Waved Good-bye
 Nobody's Baby
 Nobody's Bride
 Nobody's Child
+Nobody's Child
 Nobody's Children
 Nobody's Darling
 Nobody's Darling
+Nobody's Fool
 Nobody's Fool
 Nobody's Fool
 Nobody's Kid
@@ -23705,6 +24279,7 @@ Nocturne
 Noisy Neighbors
 Noisy Neighbors
 Nomad
+Nomads
 Nomads of the North
 Non-Stop New York
 Non-Stop Trouble with My Double
@@ -23759,6 +24334,7 @@ Northern Lights
 Northern Lights
 Northern Norway
 Northern Pursuit
+Northstar
 Northville Cemetery Massacre
 Northwest Hounded Police
 Northwest Outpost
@@ -23794,6 +24370,7 @@ Not Necessarily the News
 Not Now, Comrade
 Not of This Earth
 Not Quite Decent
+Not Quite Paradise
 Not Reconciled
 Not Scared to Die
 Not So Bad as It Seemed
@@ -23822,6 +24399,8 @@ Nothing But the Truth
 Nothing But the Truth
 Nothing But Trouble
 Nothing But Trouble
+Nothing in Common
+Nothing in Common
 Nothing Lasts Forever
 Nothing Left to Do but Cry
 Nothing Personal
@@ -23835,6 +24414,7 @@ Notorious But Nice
 Notorious Gallagher; or, His Great Triumph
 Notorious Nobodies
 November Night
+Novemberkatzen
 Now and Forever
 Now and Forever
 Now and Forever
@@ -23898,7 +24478,9 @@ Nurse-Mates
 Nursing a Viper
 Nut Guilty
 Nutcase
+Nutcracker
 Nutcracker Fantasy
+Nutcracker: Money, Madness & Murder
 Nuts and Volts
 Nuts in May
 Nutty But Nice
@@ -23963,6 +24545,7 @@ Ocean
 Ocean Breakers
 Ocean's Eleven
 Oceanquest
+Oceans of Fire
 Oceans of Trouble
 Ochii orasului meu
 Octaman
@@ -24008,6 +24591,7 @@ Of Mice and Men
 Of Mice and Men
 Of One Blood
 Of Pups and Puzzles
+Of Pure Blood
 Of Rice and Hen
 Of Special Merit
 Of Stars and Men
@@ -24015,9 +24599,11 @@ Of Thee I Sting
 Of Time, Tombs and Treasures
 Of Unknown Origin
 Of Whales, the Moon, and Men
+Off Beat
 Off His Base
 Off Limits
 Off the Highway
+Off the Mark
 Off the Minnesota Strip
 Off the Rack
 Off the Record
@@ -24099,6 +24685,7 @@ Oh, You Ragtime!
 Oh, You Tony!
 Oh, You Women!
 Oh... Rosalinda!!
+Ohara
 OHMS
 Oil
 Oil and Water
@@ -24275,6 +24862,7 @@ On the Corner
 On the Desert's Edge
 On the Double
 On the Eagle Trail
+On the Edge
 On the Fiddle
 On the Fire
 On the Firing Line with the Germans
@@ -24316,8 +24904,10 @@ On the Threshold
 On the Threshold of Space
 On the Town
 On the Trail of Blood
+On the Trail of Elvis the Cat
 On the Waterfront
 On the Waves of Happiness
+On the Wing
 On the Wrong Track
 On the Wrong Track
 On the Wrong Trek
@@ -24334,6 +24924,7 @@ On Trial
 On Trial
 On Trial
 On Trial
+On Valentine's Day
 On Wings of Eagles
 On with the Show
 On with the Show!
@@ -24348,12 +24939,14 @@ Once a Crook
 Once a Doctor
 Once a Gentleman
 Once a Great Lady
+Once a Hero
 Once a Lady
 Once a Mason
 Once a Plumber
 Once a Sinner
 Once a Sinner
 Once a Thief
+Once Again
 Once an Eagle
 Once and Forever
 Once Before I Die
@@ -24407,6 +25000,7 @@ One Cab's Family
 One Chance in a Million
 One Clear Call
 One Cooks, the Other Doesn't
+One Crazy Summer
 One Crowded Night
 One Damned Day at Dawn... Django Meets Sartana!
 One Dangerous Night
@@ -24497,6 +25091,7 @@ One More American
 One More Chance
 One More Chance
 One More River
+One More Saturday Night
 One More Spring
 One More Time
 One More Time
@@ -24557,6 +25152,7 @@ One Stormy Knight
 One Sunday Afternoon
 One Sunday Afternoon
 One Terrible Day
+One Terrific Guy
 One Thousand Dollars
 One Thrilling Night
 One Too Many
@@ -24673,6 +25269,7 @@ Operation: Rabbit
 Operator 13
 Opernball
 Opportunity
+Opposing Force
 Oranges and Lemons
 Orca
 Orchestra Rehearsal
@@ -24687,6 +25284,7 @@ Orderly or Disorderly
 Orders Are Orders
 Orders to Kill
 Ordet
+Ordinary Heroes
 Ordinary People
 Ordinary Ways
 Oregon Passage
@@ -24722,6 +25320,7 @@ Osprey's Domain
 OSS 117 Murder for Sale
 Ossi's Diary
 Ossie and Ruby!
+Otello
 Othello
 Othello
 Othello
@@ -24809,6 +25408,7 @@ Out from the Shadow
 Out of a Clear Sky
 Out of Africa
 Out of Bondage
+Out of Bounds
 Out of Control
 Out of It
 Out of Luck
@@ -24848,6 +25448,7 @@ Out of the Tiger's Mouth
 Out of the West
 Out of the Wreck
 Out of This World
+Out of This World
 Out on a Limb
 Out to Win
 Out West
@@ -24862,6 +25463,7 @@ Outcast Lady
 Outcast of Black Mesa
 Outcast of the Islands
 Outcast Souls
+Outcasts
 Outcasts of the City
 Outcasts of the Trail
 Outdoor Indore
@@ -24910,6 +25512,7 @@ Outpost in Morocco
 Outpost of the Mounties
 Outrage
 Outrage
+Outrage!
 Outrageous!
 Outside Chance
 Outside of Paradise
@@ -24957,6 +25560,7 @@ Over Thereabouts
 Over-Exposed
 Over-Under Sideways-Down
 Overboard
+Overkill
 Overland Bound
 Overland Mail
 Overland Mail
@@ -24971,10 +25575,12 @@ Overland Trail
 Overland Trails
 Overland with Kit Carson
 Overlord
+Overnight
 Overnight Sensation
 Overture to Glory
 Overture to the Merry Wives of Windsor
 Overture: Tannhäuser
+Oviri
 Owen Marshall, Counselor at Law
 Owls in the Marsh
 Oxford Blues
@@ -24988,6 +25594,7 @@ P.D.Q.
 P.J.
 P.K. and the Kid
 P.O. Box 1001
+P.O.W. the Escape
 Pa Says
 Pac-Man
 Pacific Banana
@@ -25238,6 +25845,8 @@ Parrotville Old Folks
 Part Time Pal
 Part Time Wife
 Parted Curtains
+Parting Glances
+Partisans of Vilna
 Partners
 Partners
 Partners
@@ -25257,6 +25866,7 @@ Partners of the Tide
 Partners of the Trail
 Partners of the Trail
 Partridge Family 2200 AD
+Party Camp
 Party Fever
 Party Girl
 Party Girl
@@ -25286,8 +25896,10 @@ Passing Through
 Passion
 Passion
 Passion
+Passion
 Passion According to Matthew
 Passion Fever
+Passion Flower
 Passion Flower
 Passion Flower
 Passion for Life
@@ -25446,6 +26058,7 @@ Peggy Leads the Way
 Peggy Lynn, Burglar
 Peggy of the Secret Service
 Peggy Puts It Over
+Peggy Sue Got Married
 Peggy, Behave!
 Peggy, the Will O' the Wisp
 Peking Express
@@ -25517,6 +26130,7 @@ Perfect Gentlemen
 Perfect Strangers
 Perfect Strangers
 Perfect Strangers
+Perfect Timing
 Perfect Understanding
 Perfectly Fiendish Flanagan; or, the Hart of the Dreadful West
 Perfectly Mismated
@@ -25546,12 +26160,15 @@ Period of Adjustment
 Periwinkle
 Perjury
 Permanent Vacation
+Permission
 Permissive
 Pero the Lump's Gang
 Perpetual Motion
 Perri
 Perry Mason
 Perry Mason Returns
+Perry Mason: The Case of the Notorious Nun
+Perry Mason: The Case of the Shooting Star
 Pershing's Crusaders
 Person to Bunny
 Person to Person
@@ -25632,6 +26249,7 @@ Phantom Justice
 Phantom Killer
 Phantom Lady
 Phantom of Chinatown
+Phantom of Death
 Phantom of the Desert
 Phantom of the Jungle
 Phantom of the Opera
@@ -25855,6 +26473,7 @@ Pirate Haunts
 Pirate Party on Catalina Isle
 Pirate Treasure
 Pirates
+Pirates
 Pirates of Monterey
 Pirates of the High Seas
 Pirates of the Pines
@@ -25879,6 +26498,7 @@ Pitfalls of Passion
 Pittsburgh
 Pizzicato Pussycat
 Places in the Heart
+Places Not Our Own
 Placide au sérail
 Placide aux enfers
 Placide aviateur
@@ -25911,6 +26531,7 @@ Plastigrams
 Platinum Blonde
 Platinum High School
 Platinum Paradise
+Platoon
 Play Ball
 Play Ball
 Play Ball
@@ -25922,6 +26543,7 @@ Play It Again, Charlie Brown
 Play It Again, Sam
 Play It As It Lays
 Play It Cool
+Play Me Again Vanessa
 Play Misty for Me
 Play Safe
 Play Safe
@@ -25932,6 +26554,7 @@ Playboy After Dark
 Playboy Number One
 Playboy of Paris
 Playboy's Penthouse
+Playboy: Playmate Playoffs
 Players
 Playful Pan
 Playful Pluto
@@ -25940,7 +26563,10 @@ Playhouse 90
 Playing a Hard Game Up North
 Playing Around
 Playing at Love
+Playing Away
+Playing Beatie Bow
 Playing Dead
+Playing for Keeps
 Playing for Time
 Playing It Wild
 Playing the Field
@@ -25996,6 +26622,7 @@ Plop Goes the Weasel
 Plucked
 Plucking the Daisy
 Plumbing Is a 'Pipe'
+Plumbum, or Dangerous Game
 Plunder
 Plunder of the Sun
 Plunder Road
@@ -26050,6 +26677,7 @@ Police
 Police
 Police Academy
 Police Academy 2: Their First Assignment
+Police Academy 3: Back in Training
 Police Bullets
 Police Car 17
 Police Cordon
@@ -26133,6 +26761,7 @@ Pop's Pal
 Popcorn
 Pope John Paul II
 Popeye
+Popeye Doyle
 Popeye Meets Rip Van Winkle
 Popeye Meets William Tell
 Popeye Presents Eugene, the Jeep
@@ -26164,6 +26793,7 @@ Popular Science
 Popular Science
 Popular Science No. J-1-4
 Popular Science, Featuring Moon Rocket
+Population: 1
 Porcile
 Porcupines
 Porgy and Bess
@@ -26254,6 +26884,7 @@ Portrait of Lust
 Portrait of the Artist as a Young Bunny
 Portrait of Valeska Gert
 Portraits of an Exhibition
+Portraits of Canada
 Ports of Call
 Portugal
 Posse
@@ -26284,6 +26915,7 @@ Powder River
 Powder River Rustlers
 Powder Town
 Powdersmoke Range
+Power
 Power
 Power
 Power and the Land
@@ -26326,6 +26958,7 @@ Pre-Hysterical Hare
 Preacherman
 Precautions Against Fanatics
 Precious Blood
+Precious Images
 Prefabricated Pink
 Preflight Inspection of the B-17E
 Prehistoric Pink
@@ -26357,11 +26990,13 @@ Pretty Baby
 Pretty Baby
 Pretty Boy Floyd
 Pretty Clothes
+Pretty in Pink
 Pretty Ladies
 Pretty Maids All in a Row
 Pretty Mrs. Smith
 Pretty Peaches
 Pretty Poison
+Pretty Smart
 Pretty Smooth
 Pretty Women Walking Through the City
 Pretzel Farming
@@ -26401,6 +27036,7 @@ Prince Edward Island in Motion; Home of the Silver Black Fox Industry
 Prince Ehtejab
 Prince Jack
 Prince of Arcadia
+Prince of Bel Air
 Prince of Diamonds
 Prince of Foxes
 Prince of Pirates
@@ -26463,6 +27099,7 @@ Private Buckaroo
 Private Detective
 Private Detective 62
 Private Duty Nurses
+Private Eye
 Private Eyes
 Private Hell 36
 Private Izzy Murphy
@@ -26521,6 +27158,8 @@ Profiles in Courage
 Profound Desires of the Gods
 Prohibition
 Project A
+Project A 2
+Project A-Ko
 Project Hope
 Project Moon Base
 Project U.F.O.
@@ -26529,6 +27168,7 @@ Project X
 Project: Kill
 Prologue
 Prom Night
+Promise
 Promise at Dawn
 Promise Her Anything
 Promise Him Anything
@@ -26617,6 +27257,7 @@ Punchy Cowpunchers
 Punishment Island
 Punishment Park
 Punishment Room
+Punk
 Punk in London
 Punky Brewster
 Punky Brewster
@@ -26649,6 +27290,7 @@ Pursued
 Pursuit
 Pursuit
 Pursuit
+Pursuit of Happiness
 Pursuit to Algiers
 Push-Button Kitty
 Pushing Up Daisies
@@ -26773,6 +27415,8 @@ Quick, Let's Get Married
 Quicker'n a Wink
 Quicksand
 Quicksands
+Quicksilver
+Quiet Cool
 Quiet Days in Clichy
 Quiet Flows the Don
 Quiet Please
@@ -26782,6 +27426,7 @@ Quiet Wedding
 Quiet Weekend
 Quiet! Pleeze
 Quilas, the Bad of the Picture
+Quilombo
 Quincannon, Frontier Scout
 Quincy Adams Sawyer
 Quincy Adams Sawyer
@@ -26850,6 +27495,7 @@ Racketeers in Exile
 Racketeers of the Range
 Rackety Rax
 Racquet
+Rad
 Radar Men from the Moon
 Radar Patrol vs. Spy King
 Radar Secret Service
@@ -26865,6 +27511,7 @@ Radio Rhythm
 Radio Salutes
 Radio Stars on Parade
 Radio-Mania
+Radioactive Dreams
 Rafferty
 Rafferty and the Gold Dust Twins
 Rafferty at the Hotel de Rest
@@ -26893,6 +27540,7 @@ Raging Bull
 Ragpicker's Angel
 Rags
 Rags and the Girl
+Rags to Riches
 Rags to Riches
 Rags to Riches
 Ragtime
@@ -27002,6 +27650,7 @@ Rangers of Fortune
 Rangle River
 Rango
 Ransom
+Ransom
 Ransom for Alice!
 Ransom!
 Ranson's Folly
@@ -27025,6 +27674,7 @@ Rat Fink
 Rat Pfink and Boo Boo
 Rat-Trap
 Ratan
+Ratboy
 Rated at $10, 000, 000
 Rationing
 Raton Pass
@@ -27034,6 +27684,7 @@ Rattlesnakes and Gunpowder
 Rattling Romeo
 Ravagers
 Raven's End
+Raw Deal
 Raw Deal
 Raw Deal
 Raw Edge
@@ -27090,6 +27741,7 @@ Rebel
 Rebel City
 Rebel in Paradise
 Rebel in Town
+Rebel Love
 Rebel Rabbit
 Rebel Without a Cause
 Rebellion
@@ -27127,6 +27779,7 @@ Reconstruction
 Record City
 Record of a Tenement Gentleman
 Recreation
+Recruits
 Red Alert
 Red Ball Express
 Red Barry
@@ -27148,7 +27801,9 @@ Red Foam
 Red Fork Range
 Red Garters
 Red Gold
+Red Grooms: Sunflower in a Hothouse
 Red Hair
+Red Headed Stranger
 Red Heads
 Red Heat
 Red Hot Dollars
@@ -27242,6 +27897,7 @@ Reflections of Murder
 Reform Girl
 Reform School
 Reform School Girl
+Reform School Girls
 Reformatory
 Refrain
 Refuge
@@ -27280,6 +27936,7 @@ Remington Steele
 Reminiscences of a Journey to Lithuania
 Remodeling Her Husband
 Remorseless Love
+Remote Control
 Remote Control
 Renaldo and Clara
 Rend mig i revolutionen
@@ -27338,6 +27995,8 @@ Resistance
 Resistance and Ohm's Law
 Resisting Enemy Interrogation
 Respectable by Proxy
+Rest in Pieces
+Resting Place
 Restless Knights
 Restless Natives
 Restless Souls
@@ -27390,6 +28049,7 @@ Return to Earth
 Return to Eden
 Return to Life
 Return to Macon County
+Return to Mayberry
 Return to Oz
 Return to Paradise
 Return to Peyton Place
@@ -27415,10 +28075,12 @@ Revelation
 Revelation
 Revenge
 Revenge
+Revenge
 Revenge at Monte Carlo
 Revenge for a Rape
 Revenge Is My Destiny
 Revenge Is Sweet
+Revenge of the Babes II
 Revenge of the Cheerleaders
 Revenge of the Colossal Beasts
 Revenge of the Creature
@@ -27503,6 +28165,7 @@ Rick's Redemption
 Rickety Gin
 Rickshaw Boy
 Ricochet Romance
+Ricochets
 Riddance
 Riddle Gawne
 Riddles of the Sphinx
@@ -27707,6 +28370,7 @@ Risky Business
 Risky Business
 Risky Business
 Risky Business
+Rita, Sue and Bob Too
 Ritual in Transfigured Time
 Ritual of Evil
 Rituals
@@ -27724,6 +28388,7 @@ River of Gold
 River of Mystery
 River of No Return
 River of Unrest
+River's Edge
 River's End
 River's End
 River-Ghost - Hudson River Diary: Book IV
@@ -27856,6 +28521,7 @@ Rock-a-Bye Baby
 Rock-a-Bye Bear
 Rockabilly Baby
 Rockabye
+Rockabye
 Rockefeller
 Rockers
 Rocket Attack U.S.A.
@@ -27881,6 +28547,7 @@ Rocky Mountain
 Rocky Mountain Mystery
 Rocky Mountain Rangers
 Rocky Rhodes
+Rocky Road
 Rod Brown of the Rocket Rangers
 Rodan
 Rodent to Stardom
@@ -28005,6 +28672,7 @@ Room for One More
 Room for Two
 Room Runners
 Room Service
+Roomies
 Roommates
 Roommates
 Rooney
@@ -28023,7 +28691,9 @@ Roped
 Roping a Bride
 Roping a Sweetheart
 Roping Her Romeo
+Rosa
 Rosa de Francia
+Rosa Luxemburg
 Rosalie
 Rose Bowl
 Rose Marie
@@ -28110,12 +28780,14 @@ Roving Thomas on a Fishing Trip
 Roving Thomas on an Aeroplane
 Roving Thomas Sees New York
 Rowan & Martin's Laugh-In
+Roxie
 Roxie Hart
 Roy Colt & Winchester Jack
 Royal Blood
 Royal Cat Nap
 Royal Children
 Royal Flash
+Royal Warriors
 Royal Wedding
 Rubber Heels
 Rubber Racketeers
@@ -28180,6 +28852,7 @@ Runaway Robots! Romie-O and Julie-8
 Runaway Romany
 Runaway Sunday
 Runaway Train
+Runaway with the Rich and Famous
 Runaway!
 Runners
 Running
@@ -28189,6 +28862,7 @@ Running Hollywood
 Running Hot
 Running Mates
 Running Out
+Running Scared
 Running Scared
 Running Target
 Running Wild
@@ -28236,10 +28910,12 @@ Ruth Etting, the Sweetheart of Columbia Records, Glorifying the Popular Song
 Ruth of the Range
 Ruth of the Rockies
 Ruthless
+Ruthless People
 Ruy Blas
 Ryan's Daughter
 Ryan's Four
 Ryan's Hope
+Ryder P.I.
 S'matter Pete?
 S*P*Y*S
 S-73
@@ -28255,6 +28931,7 @@ Saadia
 Saaransh
 Sabaka
 Sabata
+Sable
 Sabotage
 Sabotage
 Sabotage Squad
@@ -28269,6 +28946,7 @@ Sacred and Profane Love
 Sacred Ground
 Sacred Mystery
 Sacred Silence
+Sacred Site
 Sacrifice
 Sacrifice!
 Sacrificed Youth
@@ -28398,6 +29076,7 @@ Salute
 Salute for Three
 Salute to France
 Salute to the Marines
+Salvador
 Salvage
 Salvage 1
 Salvation Jane
@@ -28407,6 +29086,7 @@ Salvation Nell
 Salvation Nell
 Salvatore Giuliano
 Salò, or the 120 Days of Sodom
+Sam
 Sam
 Sam Benedict
 Sam Davis, the Hero of Tennessee
@@ -28444,6 +29124,7 @@ Samoa, Queen of the Jungle
 Samson
 Samson
 Samson
+Samson & Sally
 Samson and Delilah
 Samson and Delilah
 Samurai
@@ -28478,6 +29159,7 @@ Sanctuary
 Sanctuary of Fear
 Sand
 Sand
+Sand and Blood
 Sandcastles
 Sanders of the River
 Sandflow
@@ -28643,6 +29325,7 @@ Saved from the Harem
 Saved from the Titanic
 Saved from the Vigilantes
 Saved in Mid-Air
+Saving Grace
 Saving Mabel's Dad
 Saving the Family Name
 Sawdust
@@ -28661,12 +29344,14 @@ Say It with Flowers
 Say It with Sables
 Say It with Songs
 Say One for Me
+Say Yes
 Say! Young Fellow
 Sayonara
 Sazen Tange and the Pot Worth a Million Ryo
 Scalp Trouble
 Scalpel
 Scalplock
+Scalps
 Scalps
 Scandal
 Scandal
@@ -28692,6 +29377,7 @@ Scaramouche
 Scare Their Pants Off!
 Scarecrow
 Scarecrow and Mrs. King
+Scared Stiff
 Scared Stiff
 Scared Stiff
 Scared Straight!
@@ -28837,6 +29523,7 @@ Screen Snapshots: Laguna U.S.A.
 Screen Snapshots: Mickey Rooney - Then and Now
 Screen Snapshots: My Pal, Ringeye
 Screen Souvenirs
+Screen Test
 Screen Tests
 Screwball Football
 Screwball Squirrel
@@ -28918,6 +29605,7 @@ Second Hand Rose
 Second Hand Wife
 Second Honeymoon
 Second Honeymoon
+Second Serve
 Second Sight
 Second Sight: A Love Story
 Second Thoughts
@@ -28960,6 +29648,7 @@ Secret of the Bulb
 Secret of the Chateau
 Secret of the Incas
 Secret of the Red Orchid
+Secret of the Sahara
 Secret of the Wastelands
 Secret of Treasure Mountain
 Secret Orders
@@ -28980,6 +29669,7 @@ Secret Strings
 Secret Valley
 Secret Venture
 Secret Weapons
+Secrets
 Secrets
 Secrets
 Secrets
@@ -29058,6 +29748,7 @@ Seeing's Believing
 Seeking Asylum
 Seems Like Old Times
 Seepage
+Seize the Day
 Seize the Time
 Seizure
 Self Control
@@ -29094,6 +29785,7 @@ Sentimental Tommy
 Separate Tables
 Separate Tables
 Separate Trails
+Separate Vacations
 Separate Ways
 Separation
 Sepia Cinderella
@@ -29200,6 +29892,7 @@ Sex and the Married Woman
 Sex and the Single Girl
 Sex and the Single Parent
 Sex and the Single Vampire
+Sex Appeal
 Sex Fifth Avenue
 Sex Hygiene
 Sex in Chains
@@ -29253,6 +29946,7 @@ Shadow of the Thin Man
 Shadow on the Land
 Shadow on the Wall
 Shadow Over Elveron
+Shadow Play
 Shadow Ranch
 Shadow Valley
 Shadowed
@@ -29267,6 +29961,7 @@ Shadows
 Shadows
 Shadows and Sunshine
 Shadows from the Past
+Shadows in Paradise
 Shadows in the Night
 Shadows of Chinatown
 Shadows of Conscience
@@ -29287,8 +29982,10 @@ Shadows of Tombstone
 Shadows on the Range
 Shadows on the Sage
 Shadows on the Stairs
+Shadows on the Wall
 Shadows Over Chinatown
 Shadows Over Shanghai
+Shadows Run Black
 Shadows Unseen
 Shady Lady
 Shaft
@@ -29329,6 +30026,7 @@ Shanghai Lady
 Shanghai Madness
 Shanghai Moon
 Shanghai Rose
+Shanghai Surprise
 Shanghaied
 Shanghaied
 Shanghaied
@@ -29356,6 +30054,7 @@ Shark
 Shark Kill
 Shark Monroe
 Shark River
+Shark's Paradise
 Sharks' Treasure
 Sharky's Machine
 Sharon in the Rough
@@ -29372,6 +30071,7 @@ Shattered Dreams
 Shattered Dreams
 Shattered Idols
 Shattered Nerves
+Shattered Spirits
 Shattered Vows
 Shazam!
 Shazzan
@@ -29451,12 +30151,14 @@ She's Dangerous
 She's Dressed to Kill
 She's for Me
 She's Got Everything
+She's Gotta Have It
 She's in the Army
 She's in the Army Now
 She's My Baby
 She's My Weakness
 She's No Lady
 She's Oil Mine
+She's the Sheriff
 She's Working Her Way Through College
 She-Devils on Wheels
 She-Wolf of London
@@ -29472,6 +30174,7 @@ Sheer Rapture
 Shehu Umar
 Sheila Levine Is Dead and Living in New York
 Shell 43
+Shell Game
 Shell Game
 Sheltered Daughters
 Shenandoah
@@ -29511,6 +30214,7 @@ Sherlock Holmes VI
 Sherlock Hound
 Sherlock Jr.
 Sherman Said It
+Sherman's March
 Shield for Murder
 Shields and Yarnell
 Shifting Sands
@@ -29609,6 +30313,7 @@ Shopworn
 Shore Acres
 Shore Acres
 Shore Leave
+Short Circuit
 Short Cut to Hell
 Short Eyes
 Short Grass
@@ -29683,6 +30388,7 @@ Siberian Lady Macbeth
 Sic 'Em, Towser
 Sick Abed
 Sicque! Sicque! Sicque!
+Sid and Nancy
 Sid Caesar Invites You
 Sid's Long Count
 Side by Side
@@ -29721,6 +30427,7 @@ Sign of the Lion
 Sign of the Pagan
 Sign of the Wolf
 Signal Over the City
+Signal Seven
 Signpost to Murder
 Signs of Life
 Silas Marner
@@ -29754,6 +30461,7 @@ Silent Valley
 Silent Witness
 Silent Years
 Silents Please
+Silk
 Silk Hat Kid
 Silk Hosiery
 Silk Husbands and Calico Wives
@@ -29818,6 +30526,7 @@ Simply Terrific
 Sin
 Sin Cargo
 Sin in the Suburbs
+Sin of Innocence
 Sin Takes a Holiday
 Sin Town
 Sin Town
@@ -29952,6 +30661,7 @@ Sit Tight
 Sittin' on a Backyard Fence
 Sitting Bull
 Sitting Ducks
+Sitting on the Golden Porch
 Sitting on the Moon
 Sitting Pretty
 Sitting Pretty
@@ -30044,6 +30754,7 @@ Skull and Crown
 Skullduggery
 Skullduggery
 Sky Bandits
+Sky Bandits
 Sky Blue Pink
 Sky Bride
 Sky Commando
@@ -30059,6 +30770,7 @@ Sky Murder
 Sky Parade
 Sky Patrol
 Sky Pies
+Sky Pirates
 Sky Princess
 Sky Raiders
 Sky Riders
@@ -30097,6 +30809,7 @@ Slattery's Hurricane
 Slattery's People
 Slaughter
 Slaughter Day
+Slaughter High
 Slaughter on 10th Avenue
 Slaughter on the Khyber Pass
 Slaughter Trail
@@ -30127,6 +30840,7 @@ Sleeping Dogs
 Sleeping Fires
 Sleeping Fist
 Sleepless Hollow
+Sleepwalk
 Sleepy Head
 Sleepy Lagoon
 Sleepy Time
@@ -30171,6 +30885,7 @@ Slippy McGee
 Slither
 Sloane
 Slogan
+Slow Burn
 Slow Dancing in the Big City
 Slow Local Trains
 Slow Moves
@@ -30186,6 +30901,8 @@ Small Town Girl
 Small Town Girl
 Small Town of Anara
 Small Wonder
+Smarkus and Company
+Smart Alec
 Smart Alecks
 Smart as a Fox
 Smart Blonde
@@ -30300,6 +31017,7 @@ Sniffles Takes a Trip
 Sniper's Ridge
 Snobs
 Snobs!
+Snookles
 Snooper Service
 Snoopy Come Home
 Snorks
@@ -30461,6 +31179,7 @@ Soft Shoes
 Soggy Bottom, U.S.A.
 Soiled
 Sol Madrid
+Solarbabies
 Solaris
 Sold
 Sold at Auction
@@ -30558,6 +31277,7 @@ Something for the Birds
 Something for the Boys
 Something for the Girls
 Something in Between
+Something in Common
 Something in the City
 Something in the Wind
 Something Money Can't Buy
@@ -30571,6 +31291,7 @@ Something to Sing About
 Something to Think About
 Something Weird
 Something Wicked This Way Comes
+Something Wild
 Something Wild
 Something's Happened to Dexter
 Something's Happening
@@ -30693,6 +31414,7 @@ Sorcerers' Village
 Sorceress
 Sorority Girl
 Sorority House
+Sorority House Massacre
 Sorrell and Son
 Sorrell and Son
 Sorrowful Jones
@@ -30701,6 +31423,7 @@ Sorry, Wrong Number
 SOS Coast Guard
 SOS Coast Guard
 Soul Hustler
+Soul Man
 Soul Mates
 Soul of the Beast
 Soul of the Slums
@@ -30782,6 +31505,7 @@ Space Ship Sappy
 Space Thing
 Space: 1999
 Spaceborne
+SpaceCamp
 Spaced Out Bunny
 Spacehunter: Adventures in the Forbidden Zone
 Spaceship to the Unknown
@@ -30890,10 +31614,12 @@ Spider-Man Strikes Back
 Spiders and Snakes
 Spies
 Spies
+Spies
 Spies Like Us
 Spies of the Air
 Spies Strike Silently
 Spike Shannon's Last Fight
+Spiker
 Spills and Chills
 Spinout
 Spirit of the Alamo
@@ -31029,6 +31755,7 @@ St. Elmo's Fire
 St. Elsewhere
 St. Helens
 St. Ives
+St. John in Exile
 St. Lawrence: Stairway to the Sea
 St. Louis Blues
 St. Louis Blues
@@ -31057,6 +31784,7 @@ Stage to Thunder Rock
 Stage to Tucson
 Stagecoach
 Stagecoach
+Stagecoach
 Stagecoach Buckaroo
 Stagecoach Days
 Stagecoach Express
@@ -31069,6 +31797,7 @@ Stagecoach to Monterey
 Stagecoach War
 Stagecoach West
 Stagefright
+StageFright
 Staircase
 Stairs of Sand
 Stairway for a Star
@@ -31082,7 +31811,9 @@ Stalker
 Stalking and Shooting Caribou in Newfoundland
 Stallion Road
 Stamboul Quest
+Stammheim - The Baader-Meinhof Gang on Trial
 Stamp Day for Superman
+Stamp of a Killer
 Stampede
 Stampede City
 Stampede in the Night
@@ -31091,6 +31822,7 @@ Stand Alone
 Stand and Deliver
 Stand by All Networks
 Stand by for Action
+Stand by Me
 Stand by Your Man
 Stand Up and Be Counted
 Stand Up and Cheer!
@@ -31107,6 +31839,7 @@ Stanley
 Stanley and Livingstone
 Star 80
 Star Blazers
+Star Crystal
 Star Dust
 Star Dust Trail
 Star for a Night
@@ -31132,8 +31865,10 @@ Star Spangled Salesman
 Star Stage
 Star Time
 Star Trek III: The Search for Spock
+Star Trek IV: The Voyage Home
 Star Trek: The Animated Series
 Star Trek: The Motion Picture
+Star Trek: The Next Generation
 Star Virgin
 Star Wars: Episode V - The Empire Strikes Back
 Star Wars: Episode VI - Return of the Jedi
@@ -31151,6 +31886,7 @@ Stark Love
 Stark Mad
 Stark Raving Mad
 Stark System
+Stark: Mirror Image
 Starlet!
 Starlift
 Starlight Over Texas
@@ -31222,6 +31958,7 @@ Steel Town
 Steeletown
 Steelheart
 Steelyard Blues
+Steep & Deep
 Steeplechase Park
 Stefanie
 Stella
@@ -31335,6 +32072,7 @@ Stop Fooling Around... Soldier!
 Stop Look and Listen
 Stop Making Sense
 Stop Press Girl
+Stop Substance Abuse
 Stop Susan Williams
 Stop That Cab
 Stop That Man!
@@ -31413,6 +32151,7 @@ Strait-Jacket
 Stranded
 Stranded
 Stranded
+Stranded
 Stranded in Paris
 Stranded in Paris
 Strange Affair
@@ -31445,6 +32184,7 @@ Strange Lady in Town
 Strange Lovers
 Strange New World
 Strange People
+Strange Place for an Encounter
 Strange Rampage
 Strange Report
 Strange Shadows in an Empty Room
@@ -31485,6 +32225,7 @@ Straw Dogs
 Strawberries Need Rain
 Strawberry Roan
 Strawberry Roan
+Strawman
 Straws in the Wind
 Stray Dog
 Stray Dogs
@@ -31519,6 +32260,7 @@ Street Without End
 Street-Fighter
 Streets of Fire
 Streets of Ghost Town
+Streets of Gold
 Streets of Justice
 Streets of Laredo
 Streets of New York
@@ -31812,6 +32554,7 @@ Super
 Super Circus
 Super Colt 38
 Super Cue Men
+Super Dave
 Super Electronic Bioman
 Super Fly
 Super Fly T.N.T.
@@ -31821,6 +32564,7 @@ Super Ghost
 Super Password
 Super President
 Super Seal
+Super Sloppy Double Dare
 Super Stooges vs the Wonder Women
 Super Woman
 Super-Hooper-Dyne Lizzies
@@ -31984,6 +32728,7 @@ Sweet Bird of Youth
 Sweet Cakes
 Sweet Charity
 Sweet Cookie
+Sweet Country
 Sweet Daddies
 Sweet Dreamers
 Sweet Dreams
@@ -31997,6 +32742,7 @@ Sweet Kill
 Sweet Kitty Bellairs
 Sweet Kitty Bellairs
 Sweet Lavender
+Sweet Liberty
 Sweet Love, Bitter
 Sweet Madness
 Sweet Mama
@@ -32016,6 +32762,7 @@ Sweet Smell of Success
 Sweet Sugar
 Sweet Surrender
 Sweet Surrender
+Sweet Surrender
 Sweet Sweetback's Baadasssss Song
 Sweet Throat
 Sweet Trash
@@ -32026,6 +32773,7 @@ Sweetheart of Sigma Chi
 Sweetheart of the Campus
 Sweetheart of the Fleet
 Sweetheart of the Navy
+Sweethearts
 Sweethearts
 Sweethearts and Wives
 Sweethearts of the U.S.A.
@@ -32095,6 +32843,7 @@ Sword of the Valiant
 Sword of Venus
 Swords and Hearts
 Swordsman and Enchantress
+Sworn Brothers
 Sworn Enemy
 SX-70
 Sybil
@@ -32118,6 +32867,7 @@ Synthetic Sin
 Synthetic Wife
 System, the Secret of Success
 Szysznyk
+T and T
 T Is for Tumbleweed
 T-Bone for Two
 T-Men
@@ -32137,6 +32887,7 @@ Taffy and the Jungle Hunter
 Taggart
 Taggart
 Tahiti Nights
+Tai-Pan
 Tail Gunner Joe
 Tail Spin
 Tailhouse Rock
@@ -32161,6 +32912,7 @@ Take a Letter, Darling
 Take Aim at the Police Van
 Take Care of My Little Girl
 Take Down
+Take Five
 Take Her, She's Mine
 Take in the Sun
 Take It All
@@ -32258,6 +33010,7 @@ Tammy and the Doctor
 Tammy and the Millionaire
 Tammy Tell Me True
 Tampico
+Tampopo
 Tanganyika
 Tangier
 Tangier Incident
@@ -32422,6 +33175,7 @@ Teen-Age Crime Wave
 Teenage Cave Man
 Teenage Dessert
 Teenage Doll
+Teenage Dream
 Teenage Emanuelle
 Teenage Father
 Teenage Gang Debs
@@ -32495,6 +33249,7 @@ Ten Killers from Afar
 Ten Laps to Go
 Ten Little Indians
 Ten Little Indians
+Ten Little Indians
 Ten Modern Commandments
 Ten Nights in a Bar Room
 Ten Nights in a Bar-Room
@@ -32547,7 +33302,9 @@ Teppanyaki
 Teresa
 Teresa the Thief
 Terminal
+Terminal Entry
 Terminal Island
+Terminus
 Termites of 1938
 Terms of Endearment
 Terra e...
@@ -32564,6 +33321,7 @@ Terror at London Bridge
 Terror at Midnight
 Terror at Orgy Castle
 Terror at Red Wolf Inn
+Terror at Tenkiller
 Terror Beneath the Sea
 Terror by Night
 Terror Circus
@@ -32582,6 +33340,7 @@ Terror of Mechagodzilla
 Terror of the Bloodhunters
 Terror of the Plains
 Terror on a Train
+Terror on Alcatraz
 Terror on the 40th Floor
 Terror on the Beach
 Terror on the Midway
@@ -32594,6 +33353,7 @@ Terror Trail
 Terror Train
 Terror-Creatures from the Grave
 Terrors on Horseback
+TerrorVision
 Terry and the Pirates
 Terry of the 'Times'
 Tess
@@ -32725,6 +33485,7 @@ That Ragtime Band
 That Rascal
 That Riviera Touch
 That Royle Girl
+That Secret Sunday
 That Sinking Feeling
 That Something
 That Splendid November
@@ -32750,6 +33511,7 @@ That's Him
 That's Hollywood
 That's Incredible!
 That's Life
+That's Life!
 That's Me
 That's My Baby
 That's My Baby
@@ -32786,6 +33548,7 @@ The 13th Commandment
 The 13th Juror
 The 13th Letter
 The 13th Man
+The 17th Bride
 The 18 Bronzemen
 The 20 Questions Murder Mystery
 The 20th Century-Fox Hour
@@ -32822,6 +33585,7 @@ The Abandoned Well
 The Abandonment
 The Abbott and Costello Show
 The ABC of Love and Sex: Australia Style
+The Abduction of Kari Swenson
 The Abduction of Saint Anne
 The Abductors
 The Abductors
@@ -32879,6 +33643,7 @@ The Adulteress
 The Adventure of an Heiress
 The Adventure of Faustus Bidgood
 The Adventure of Sherlock Holmes' Smarter Brother
+The Adventure of the Action Hunters
 The Adventure of the Good Soldier Schweik
 The Adventure of the Italian Model
 The Adventure of the Retired Army Colonel
@@ -32902,6 +33667,7 @@ The Adventures of Buffalo Bill
 The Adventures of Bullwhip Griffin
 The Adventures of Buratino
 The Adventures of Champion
+The Adventures of Dick Black, the Black Dick
 The Adventures of Dollie
 The Adventures of Don Coyote
 The Adventures of Dr. Fu Manchu
@@ -32924,6 +33690,7 @@ The Adventures of Kathlyn
 The Adventures of Kit Carson
 The Adventures of Kitty Cobb
 The Adventures of Kosuke Kindaichi
+The Adventures of Ladde One and Evil Jay
 The Adventures of Lieutenant Petrosino
 The Adventures of Long John Silver
 The Adventures of Lucky Pierre
@@ -33003,6 +33770,7 @@ The Air Patrol
 The Airmail Mystery
 The Alamo
 The Alamo: Shrine of Texas Liberty
+The Alamo: Thirteen Days to Glory
 The Alan Burke Show
 The Alan Dale Show
 The Alan Young Show
@@ -33035,6 +33803,7 @@ The Alley Cat
 The Alley Cats
 The Alley Tramp
 The Alligator People
+The Allnighter
 The Almighty Dollar
 The Almost Good Man
 The Alpha Caper
@@ -33232,6 +34001,7 @@ The Arnelo Affair
 The Arrangement
 The Arrival of a Train
 The Arrival of Perpetua
+The Arrogant
 The Arrow Show
 The Arrowmaker's Daughter
 The Arrows of Robin Hood
@@ -33454,6 +34224,7 @@ The Barbara Stanwyck Show
 The Barbarian
 The Barbarian
 The Barbarian and the Geisha
+The Barbarians
 The Barber of Seville
 The Barber of Seville
 The Barber Shop
@@ -33640,6 +34411,7 @@ The Beautiful, the Bloody, and the Bare
 The Beauty and the Dragon
 The Beauty Bunglers
 The Beauty Market
+The Beauty of Vice
 The Beauty Parade
 The Beauty Prize
 The Beauty Shop
@@ -33653,8 +34425,10 @@ The Bedevilled
 The Bedford Incident
 The Bedroom Diplomat
 The Bedroom Window
+The Bedroom Window
 The Bee & the Fox
 The Bee-Deviled Bruin
+The Beekeeper
 The Bees' Buzz
 The Beggar Maid
 The Beggar of Cawnpore
@@ -33665,6 +34439,7 @@ The Beginning and the End
 The Beginning or the End
 The Beguiled
 The Being
+The Believers
 The Bell Boy
 The Bell Hop
 The Bell Hops
@@ -33688,6 +34463,7 @@ The Bells
 The Bells Have Gone to Rome
 The Bells of St. Mary's
 The Bells of St. Mary's
+The Belly of an Architect
 The Beloved
 The Beloved Adventurer
 The Beloved Blackmailer
@@ -33759,6 +34535,7 @@ The Better Way
 The Better Way
 The Better Wife
 The Better Woman
+The Betty Ford Story
 The Betty Hutton Show
 The Betty White Show
 The Betty White Show
@@ -33808,6 +34585,7 @@ The Big Day
 The Big Diamond Robbery
 The Big Dig
 The Big Doll House
+The Big Easy
 The Big Family
 The Big Fight
 The Big Fisherman
@@ -33902,6 +34680,7 @@ The Big Switch
 The Big T.N.T. Show
 The Big Timer
 The Big Tip Off
+The Big Town
 The Big Town Round-Up
 The Big Trail
 The Big Trees
@@ -33952,6 +34731,7 @@ The Bishop Misbehaves
 The Bishop Murder Case
 The Bishop of the Ozarks
 The Bishop's Wife
+The Bit Part
 The Bitch
 The Bitter Half
 The Bitter Tea of General Yen
@@ -33969,6 +34749,7 @@ The Black Book
 The Black Box
 The Black Bunch
 The Black Camel
+The Black Cannon Incident
 The Black Castle
 The Black Cat
 The Black Cat
@@ -33995,6 +34776,7 @@ The Black Knight
 The Black Lash
 The Black Marble
 The Black Mask
+The Black Monk
 The Black Orchid
 The Black Panther
 The Black Panther
@@ -34049,6 +34831,7 @@ The Blessed Ones
 The Blind Adventure
 The Blind Fiddler
 The Blind Goddess
+The Blind Owl
 The Blind Princess and the Poet
 The Blind Trail
 The Blinding Trail
@@ -34061,6 +34844,7 @@ The Blob
 The Block Signal
 The Blocked Trail
 The Blockhouse
+The Blonde at the Bar
 The Blonde Bandit
 The Blonde from Singapore
 The Blonde Saint
@@ -34162,6 +34946,7 @@ The Boer War
 The Bofors Gun
 The Bohemian Girl
 The Boiling Point
+The Bold and the Beautiful
 The Bold and the Brave
 The Bold Caballero
 The Bold Frontiersman
@@ -34337,6 +35122,7 @@ The Brave Don't Cry
 The Brave Engineer
 The Brave Hunter
 The Brave Little Bat
+The Brave Little Toaster
 The Brave One
 The Brave Ones
 The Bravest Way
@@ -34362,6 +35148,7 @@ The Brementown Musicians
 The Bribe
 The Bribe
 The Bridal Party in Hardanger
+The Bride
 The Bride
 The Bride
 The Bride
@@ -34451,6 +35238,7 @@ The Broncho Buster
 The Broncho Twister
 The Brontë Sisters
 The Brontës of Haworth
+The Bronx Zoo
 The Bronze Bell
 The Bronze Bride
 The Bronze Buckaroo
@@ -34685,6 +35473,7 @@ The Cardboard Lover
 The Cardinal
 The Cardinal
 The Cardinal's Conspiracy
+The Care Bears Adventure in Wonderland
 The Care Bears Movie
 The Career of Katherine Bush
 The Careless Age
@@ -34705,6 +35494,7 @@ The Cars That Ate Paris
 The Carson City Kid
 The Carter Case
 The Cartier Affair
+The Cartographer's Girlfriend
 The Cartoon Factory
 The Case Against Brooklyn
 The Case Against Mrs. Ames
@@ -34784,6 +35574,7 @@ The Caveman
 The Celebrated Scandal
 The Celebrity Game
 The Cellar
+The Cello Teacher
 The Centaurs
 The Centerfold Girls
 The Ceremony
@@ -34835,6 +35626,7 @@ The Charmer
 The Charmer
 The Charming Deceiver
 The Charming Mrs. Chase
+The Charmings
 The Charterhouse of Parma
 The Chase
 The Chase
@@ -34930,6 +35722,7 @@ The Chinese Nightingale
 The Chinese Parrot
 The Chinese Puzzle
 The Chinese Ring
+The Chipmunk Adventure
 The Chisholms
 The Chivalrous Life
 The Chocolate Soldier
@@ -35061,6 +35854,7 @@ The Cloister's Touch
 The Clone Master
 The Clones
 The Clonus Horror
+The Close Encounters of Vampire
 The Close of the American Revolution
 The Closed Road
 The Closing Net
@@ -35304,6 +36098,7 @@ The Country Boy
 The Country Circus
 The Country Cousin
 The Country Cousin
+The Country Doctor
 The Country Doctor
 The Country Doctor
 The Country Doctor
@@ -35567,6 +36362,7 @@ The Cycle
 The Cycle of Fate
 The Cycle Rider
 The Cycle Savages
+The Cyclist
 The Cyclone
 The Cyclone Cowboy
 The Cyclone Kid
@@ -35648,6 +36444,7 @@ The Dangerous Moment
 The Dangling Noose
 The Danny Kaye Show
 The Danny Thomas Hour
+The Dante Quartet
 The Dare-Devil
 The Daredevil
 The Daredevil
@@ -35750,9 +36547,11 @@ The Day the Women Got Even
 The Day They Robbed the Bank of England
 The Day Time Ended
 The Daydreamer
+The Days and Nights of Molly Dodd
 The Dazzling Miss Davison
 The Deacon Outwitted
 The Deacon's Troubles
+The Dead
 The Dead and the Deadly
 The Dead Are Alive!
 The Dead Don't Die
@@ -35779,6 +36578,7 @@ The Deadly Tower
 The Deadly Trackers
 The Deadly Trap
 The Deadly Triangle
+The Deadman
 The Deadwood Coach
 The Dean Martin Comedy World
 The Dean Martin Summer Show
@@ -35845,6 +36645,7 @@ The Delinquent
 The Delinquents
 The Delinquents
 The Delivery Boy
+The Delos Adventure
 The Delphi Bureau
 The Delta Factor
 The Delta Force
@@ -36037,6 +36838,7 @@ The Devil-Doll
 The Devil-Ship Pirates
 The Devil-Stone
 The Devils
+The Devils of Monza
 The Devlin Connection
 The Devlin Connection III
 The Devonsville Terror
@@ -36146,6 +36948,8 @@ The Dollar Mark
 The Dollar-a-Year Man
 The Dollmaker
 The Dolly Sisters
+The Dolphin
+The Dom DeLuise Show
 The Dom DeLuise Show
 The Domino Principle
 The Don Is Dead
@@ -36291,6 +37095,7 @@ The Durango Kid
 The Durant Affair
 The Dust of Egypt
 The Dutiful Dub
+The Duxorcist
 The Dwelling Place of Light
 The E-Flat Man
 The Eager Beaver
@@ -36393,12 +37198,14 @@ The Embarrassment of Riches
 The Embezzler
 The Emerald Brooch
 The Emerald Forest
+The Emissaries of Khalom
 The Emotional Miss Vaughn
 The Emperor
 The Emperor and the Golem
 The Emperor Jones
 The Emperor Waltz
 The Emperor's Candlesticks
+The Emperor's Naked Army Marches On
 The Emperor's New Clothes
 The Empire of Diamonds
 The Empress
@@ -36411,6 +37218,7 @@ The Enchanted Box
 The Enchanted Cottage
 The Enchanted Cottage
 The Enchanted Drawing
+The Enchanted Forest
 The Enchanted Forest
 The Enchanted Hill
 The Enchanted Island
@@ -36683,6 +37491,7 @@ The Face on the Bar-Room Floor
 The Face on the Barroom Floor
 The Facts of Life
 The Facts of Life
+The Facts of Life Down Under
 The Faded Lilies
 The Failing of Raymond
 The Failure
@@ -36763,6 +37572,7 @@ The Family Secret
 The Family Secret
 The Family Skeleton
 The Family Stain
+The Family Strikes Back
 The Family Tree
 The Family Upstairs
 The Family Vice
@@ -36849,6 +37659,7 @@ The Fate of Lee Khan
 The Fates and Flora Fourflush
 The Father
 The Father
+The Father Clements Story
 The Favorite Son
 The Faye Emerson Show
 The FBI Story
@@ -36874,6 +37685,7 @@ The Female
 The Female Animal
 The Female Bunch
 The Female Cop
+The Female Executioner
 The Female of the Species
 The Feminine Touch
 The Feminist and the Fuzz
@@ -36908,6 +37720,7 @@ The Fight for Life
 The Fight for Millions
 The Fight for Right
 The Fight Never Ends
+The Fighter
 The Fighter
 The Fighter
 The Fighter
@@ -37050,6 +37863,7 @@ The First Deadly Sin
 The First Degree
 The First Hundred Years
 The First Hundred Years
+The First Killing Frost
 The First Kiss
 The First Law
 The First Legion
@@ -37173,6 +37987,7 @@ The Flower of the North
 The Flower of the Ranch
 The Flowers and the Angry Waves
 The Flowers of St. Francis
+The Fly
 The Fly
 The Fly
 The Fly Cop
@@ -37315,6 +38130,7 @@ The Fourth Companion
 The Fourth Estate
 The Fourth Horseman
 The Fourth Musketeer
+The Fourth Protocol
 The Fourth Victim
 The Fourth Wise Man
 The Fourth Wish
@@ -37355,6 +38171,7 @@ The Freshman
 The Friend of the Family
 The Friends of Eddie Coyle
 The Frightened City
+The Fringe Dwellers
 The Fringe of Society
 The Frisco Kid
 The Frisky Mrs. Johnson
@@ -37383,6 +38200,7 @@ The Fugitive
 The Fugitive
 The Fugitive Kind
 The Fugitive Sheriff
+The Fugitives
 The Fulla Bluff Man
 The Fuller Brush Girl
 The Fuller Brush Man
@@ -37467,6 +38285,7 @@ The Gangsters of New York
 The Garage
 The Garage
 The Garage
+The Garbage Pail Kids Movie
 The Garden
 The Garden Murder Case
 The Garden of Allah
@@ -37487,6 +38306,7 @@ The Garry Moore Show
 The Garry Moore Show
 The Garter Girl
 The Gas House Kids in Hollywood
+The Gate
 The Gate Crasher
 The Gates of Doom
 The Gates of Eden
@@ -37564,6 +38384,7 @@ The George Burns and Gracie Allen Show
 The George Burns Show
 The George Gobel Show
 The George Jessel Show
+The George McKenna Story
 The George Raft Story
 The George Sanders Mystery Theater
 The Georgia Peaches
@@ -37653,6 +38474,7 @@ The Gilded Lily
 The Gilded Spider
 The Gin Game
 The Gingham Girl
+The Girl
 The Girl and Her Trust
 The Girl and the Crisis
 The Girl and the Fugitive
@@ -37742,6 +38564,7 @@ The Girl in the Kremlin
 The Girl in the Limousine
 The Girl in the News
 The Girl in the Next Room
+The Girl in the Picture
 The Girl in the Pullman
 The Girl in the Rain
 The Girl in the Red Velvet Swing
@@ -37819,6 +38642,7 @@ The Girls of Huntington House
 The Girls of Pleasure Island
 The Girls on the Beach
 The Gladiator
+The Gladiator
 The Gladiators
 The Glass Alibi
 The Glass Bottom Boat
@@ -37827,6 +38651,7 @@ The Glass Cell
 The Glass House
 The Glass Key
 The Glass Key
+The Glass Menagerie
 The Glass Menagerie
 The Glass Menagerie
 The Glass Slipper
@@ -37903,6 +38728,7 @@ The Golden Cage
 The Golden Cage
 The Golden Calf
 The Golden Chance
+The Golden Child
 The Golden Claw
 The Golden Cocoon
 The Golden Eels
@@ -37963,6 +38789,7 @@ The Good Die Young
 The Good Earth
 The Good Egg
 The Good Fairy
+The Good Father
 The Good Fellows
 The Good for Nothing
 The Good Guys
@@ -37981,6 +38808,7 @@ The Good-Bad Wife
 The Good-Bye Kiss
 The Good-for-Nothing
 The Goodbye Girl
+The Goodbye People
 The Goofy Gophers
 The Goonies
 The Goose and the Gander
@@ -38149,6 +38977,8 @@ The Great Moment
 The Great Moment
 The Great Monkey Rip-Off
 The Great Morgan
+The Great Mouse Detective
+The Great Movie Robbery
 The Great Mr. Nobody
 The Great Muppet Caper
 The Great Niagara
@@ -38360,6 +39190,7 @@ The Half-Breed
 The Half-Naked Truth
 The Half-Way Girl
 The Halfbreed
+The Hall of the Crying Deer
 The Hall-Room Girls
 The Hallelujah Trail
 The Halliday Brand
@@ -38627,6 +39458,7 @@ The High Flyer
 The High Hand
 The High Hand
 The High Powered Rifle
+The High Price of Passion
 The High Sign
 The High Solitudes
 The High Wall
@@ -38656,10 +39488,12 @@ The Hired Man
 The Hireling
 The History of the World's Greatest War
 The History of White People in America
+The History of White People in America: Volume II
 The Hit
 The Hit Parade
 The Hitch Hiker
 The Hitch-Hiker
+The Hitcher
 The Hitchhiker
 The Hitchhikers
 The Hitler Gang
@@ -38868,6 +39702,7 @@ The House on Garibaldi Street
 The House on Skull Mountain
 The House on Sorority Row
 The House on Telegraph Hill
+The House on the River
 The House That Dinky Built
 The House That Dripped Blood
 The House That Jack Built
@@ -38910,6 +39745,7 @@ The Human Tornado
 The Humanoid
 The Humming Bird
 The Humpty Dumpty Circus
+The Humpty Dumpty Man
 The Hun Within
 The Hunch
 The Hunchback
@@ -38989,6 +39825,7 @@ The Illustrated Man
 The Illustrious Prince
 The Ilona Massey Show
 The Image
+The Imagemaker
 The Immature Grain
 The Immigrant
 The Immigrant
@@ -39262,6 +40099,7 @@ The Jerry Lewis Show
 The Jerry Reed When You're Hot You're Hot Hour
 The Jerusalem File
 The Jesse Owens Story
+The Jester
 The Jesus Film
 The Jesus Trip
 The Jet Cage
@@ -39313,6 +40151,7 @@ The Joneses Have Amateur Theatricals
 The Jordan Chance
 The Journalist
 The Journey
+The Journey
 The Journey of Natty Gann
 The Journey's End
 The Joy Girl
@@ -39362,6 +40201,7 @@ The Kansan
 The Kansas City Massacre
 The Kansas Terrors
 The Karate Kid
+The Karate Kid Part II
 The Karate Killers
 The Karnival Kid
 The Kate Smith Evening Hour
@@ -39467,6 +40307,7 @@ The Killing of a Chinese Bookie
 The Killing of Angel Street
 The Killing of Randy Webster
 The Killing of Sister George
+The Kindred
 The King
 The King and Four Queens
 The King and I
@@ -39539,6 +40380,7 @@ The Lad and the Lion
 The Ladder Jinx
 The Ladder of Lies
 The Ladies
+The Ladies Club
 The Ladies Man
 The Ladies' Paradise
 The Ladies' War
@@ -39671,6 +40513,8 @@ The Last Dance
 The Last Day
 The Last Day of Summer
 The Last Day of the War
+The Last Days of Frank and Jesse James
+The Last Days of Patton
 The Last Days of Pompeii
 The Last Days of Pompeii
 The Last Days of Pompeii
@@ -39683,6 +40527,7 @@ The Last Drop of Water
 The Last Edition
 The Last Egyptian
 The Last Embrace
+The Last Emperor
 The Last Empress
 The Last Escape
 The Last Express
@@ -39690,6 +40535,7 @@ The Last Fight
 The Last Flight
 The Last Flight of Noah's Ark
 The Last Fort
+The Last Frontier
 The Last Frontier
 The Last Frontier
 The Last Frontier
@@ -39821,6 +40667,7 @@ The Last Will and Testament of Tom Smith
 The Last Winter
 The Last Winter
 The Last Woman
+The Last Women of the Philippines
 The Last Word
 The Late George Apley
 The Late Great Planet Earth
@@ -39844,6 +40691,7 @@ The Lavender Bath Lady
 The Lavender Hill Mob
 The Law
 The Law
+The Law and Harry McGraw
 The Law and Jake Wade
 The Law and Mr. Jones
 The Law and the Lady
@@ -40281,6 +41129,7 @@ The Lone Rider Fights Back
 The Lone Rider in Cheyenne
 The Lone Rider in Frontier Fury
 The Lone Rider in Ghost Town
+The Lone Runner
 The Lone Star
 The Lone Star Ranger
 The Lone Star Ranger
@@ -40317,6 +41166,7 @@ The Lonely Road
 The Lonely Trail
 The Lonely Villa
 The Loner
+The Loner
 The Loners
 The Lonesome Chap
 The Lonesome Heart
@@ -40336,6 +41186,7 @@ The Long Darkness
 The Long Day's Dying
 The Long Days of Summer
 The Long Duel
+The Long Farewell
 The Long Good Friday
 The Long Goodbye
 The Long Gray Line
@@ -40367,6 +41218,7 @@ The Longest Night
 The Longest Night
 The Longest Yard
 The Longhorn
+The Longshot
 The Look of America
 The Looking Glass War
 The Looney, Looney, Looney Bugs Bunny Movie
@@ -40701,6 +41553,7 @@ The Mainspring
 The Majesty of the Law
 The Major and the Minor
 The Major Lied 'Til Dawn
+The Majorettes
 The Make-Believe Wife
 The Making of 'Butch Cassidy and the Sundance Kid'
 The Making of 'the Wizard of Oz'
@@ -40978,6 +41831,7 @@ The Manchurian Candidate
 The Mandarin Mystery
 The Mango Tree
 The Manhattan Cowboy
+The Manhattan Project
 The Manhunter
 The Manhunter
 The Maniac Cook
@@ -41121,6 +41975,7 @@ The Master Strikes Back
 The Master Sweeper
 The Master Touch
 The Master's Model
+The Masters of Disaster
 The Masters of Time
 The Match Game
 The Match King
@@ -41211,6 +42066,7 @@ The Men Who Made the Movies: Raoul Walsh
 The Men Who Made the Movies: Vincente Minnelli
 The Men Who Made the Movies: William A. Wellman
 The Men Who Tread on the Tiger's Tail
+The Men's Club
 The Menace
 The Menace
 The Menace of the Mute
@@ -41435,6 +42291,7 @@ The Missing Link
 The Missing Links
 The Missing Million
 The Missing Mouse
+The Mission
 The Missionary
 The Mississippi
 The Mississippi Gambler
@@ -41474,6 +42331,7 @@ The Money Maniac
 The Money Master
 The Money Mill
 The Money Order
+The Money Pit
 The Money Trap
 The Monitors
 The Monk
@@ -41535,14 +42393,17 @@ The Morals of Marcus
 The Morals of Marcus
 The More Excellent Way
 The More the Merrier
+The More Things Change...
 The Morey Amsterdam Show
 The Mormon
+The Morning After
 The Morning After
 The Mortal Sin
 The Mortal Storm
 The Mortgaged Wife
 The Mosquito
 The Mosquito
+The Mosquito Coast
 The Most Beautiful
 The Most Dangerous Game
 The Most Deadly Game
@@ -41722,6 +42583,7 @@ The Naggers' Day of Rest
 The Nail Gun Massacre
 The Naked and the Dead
 The Naked Ape
+The Naked Cage
 The Naked Camera
 The Naked City
 The Naked Dawn
@@ -41746,6 +42608,7 @@ The Naked Woman and the Gun
 The Naked Zoo
 The Name of the Game
 The Name of the Game Is Kill!
+The Name of the Rose
 The Nancy Walker Show
 The Nanny
 The Narcotics Story
@@ -41800,6 +42663,7 @@ The NeverEnding Story
 The New 3 Stooges
 The New Adam and Eve
 The New Adventures of Batman
+The New Adventures of Beans Baxter
 The New Adventures of Charlie Chan
 The New Adventures of China Smith
 The New Adventures of Gilligan
@@ -42120,12 +42984,14 @@ The Old Swimmin' Hole
 The Old Swimmin' Hole
 The Old Testament
 The Old Texas Trail
+The Old Well
 The Old West
 The Old Wives' Tale
 The Old Wyoming Trail
 The Olden Days Coat
 The Oldest Law
 The Oldest Living Graduate
+The Oldest Rookie
 The Olsen Gang Goes to War
 The Olympic Champ
 The Olympic Hero
@@ -42240,6 +43106,7 @@ The Outcasts of Poker Flat
 The Outer Edge
 The Outer Gate
 The Outfit
+The Outing
 The Outlanders
 The Outlaw
 The Outlaw
@@ -42352,6 +43219,7 @@ The Parallax View
 The Parasite
 The Parasite
 The Parent Trap
+The Parent Trap II
 The Paris Hat
 The Parish Priest
 The Parisian Tigress
@@ -42409,6 +43277,7 @@ The Patricia Neal Story
 The Patriot
 The Patriot
 The Patriot
+The Patriot
 The Patriot and the Spy
 The Patsy
 The Patsy
@@ -42456,6 +43325,7 @@ The Penalties of Reputation
 The Penalty
 The Penalty
 The Penalty
+The Penalty Phase
 The Pendleton, Oregon, Round-Up
 The Pendulum, the Pit and Hope
 The Penguin Parade
@@ -42493,6 +43363,7 @@ The Perfidy of Mary
 The Performers
 The Perfume of the Lady in Black
 The Peril of the Cliffs
+The Perils of P.K.
 The Perils of Pauline
 The Perils of Pauline
 The Perils of Pauline
@@ -42530,6 +43401,7 @@ The Phantom City
 The Phantom Cowboy
 The Phantom Cracksman
 The Phantom Creeps
+The Phantom Empire
 The Phantom Empire
 The Phantom Express
 The Phantom Express
@@ -42762,6 +43634,7 @@ The Poor Rich
 The Poor Rich Man
 The Poor Sick Men
 The Poor Simp
+The Popcorn Kid
 The Pope of Greenwich Village
 The Poppy Girl's Husband
 The Poppy Is Also a Flower
@@ -43286,6 +44159,7 @@ The Real Thing at Last
 The Real Thing in Cowboys
 The Realization of a Negro's Ambition
 The Really Big Family
+The Realm of Fortune
 The Realm of Sport
 The Reapers
 The Reaping
@@ -43457,6 +44331,7 @@ The Return of Jesse James
 The Return of Jimmy Valentine
 The Return of Marcus Welby, M.D.
 The Return of Mary
+The Return of Mickey Spillane's Mike Hammer
 The Return of Mod Squad
 The Return of Monte Cristo
 The Return of Mr. Moto
@@ -43491,6 +44366,7 @@ The Reveler
 The Revenge of Frankenstein
 The Revenge of Mr. Thomas Atkins
 The Revenge of Tarzan
+The Revenge of the Living Dead Girls
 The Revenge of the Teenage Vixens from Outer Space
 The Revengeful Spirit of Eros
 The Revenue Man and the Girl
@@ -43543,6 +44419,7 @@ The Right and the Wrong
 The Right and the Wrong of It
 The Right Approach
 The Right Girl?
+The Right of the People
 The Right of the Strongest
 The Right of Way
 The Right of Way
@@ -43680,6 +44557,7 @@ The Romance of Rosy Ridge
 The Romance of Rowena
 The Romance of Tarzan
 The Romance on 'Bar O'
+The Romancing Star
 The Romanian Musketeer
 The Romantic Age
 The Romantic Englishwoman
@@ -43699,6 +44577,7 @@ The Rosary
 The Rosary
 The Rose
 The Rose Bowl Story
+The Rose King
 The Rose of Blood
 The Rose of Kentucky
 The Rose of Kildare
@@ -43790,6 +44669,7 @@ The Rustler's Roundup
 The Sable Lorcha
 The Sacketts
 The Sacred Flame
+The Sacrifice
 The Sacrifice
 The Sacrifice of Kathleen
 The Sad Horse
@@ -43938,6 +44818,7 @@ The Scarlet Pumpernickel
 The Scarlet Rider
 The Scarlet Road
 The Scarlet Runner
+The Scarlet Scorpion
 The Scarlet Shadow
 The Scarlet Sin
 The Scarlet Streak
@@ -44047,6 +44928,7 @@ The Second Mr. Bush
 The Second Mrs. Roebuck
 The Second Mrs. Tanqueray
 The Second Time Around
+The Second Victory
 The Second Wife
 The Second Woman
 The Secret
@@ -44103,6 +44985,7 @@ The Secret of the Mummy
 The Secret of the Pueblo
 The Secret of the Purple Reef
 The Secret of the Sacred Forest
+The Secret of the Snow Queen
 The Secret of the Storm Country
 The Secret of the Submarine
 The Secret of the Swamp
@@ -44126,6 +45009,7 @@ The Secret Studio
 The Secret War of Harry Frigg
 The Secret War of Jackie's Girls
 The Secret Ways
+The Secret Wife
 The Secret Wire
 The Secret Witness
 The Secretary of Frivolous Affairs
@@ -44166,6 +45050,7 @@ The Sergeant Was a Lady
 The Sergeant's Boy
 The Serpent
 The Serpent's Egg
+The Serpent's Way
 The Servant
 The Servant in the House
 The Servant Question
@@ -44189,6 +45074,7 @@ The Seven-Ups
 The Seventh Bandit
 The Seventh Companion
 The Seventh Cross
+The Seventh Curse
 The Seventh Day
 The Seventh Day
 The Seventh Day, the Eighth Night
@@ -44564,6 +45450,7 @@ The Slacker's Heart
 The Slams
 The Slanderers
 The Slap
+The Slap Maxwell Story
 The Slap-Hoppy Mouse
 The Slave
 The Slave
@@ -44604,6 +45491,7 @@ The Smart Set
 The Smart Set-Up
 The Smart Sex
 The Smile of a Child
+The Smile of the Lamb
 The Smiling Ghost
 The Smiling Lieutenant
 The Smiling Terror
@@ -44806,6 +45694,7 @@ The Spell of the Poppy
 The Spell of the Yukon
 The Spellbinder
 The Spellbinder
+The Spencer Tracy Legacy: A Tribute by Katharine Hepburn
 The Spender
 The Spenders
 The Spendthrift
@@ -44966,6 +45855,7 @@ The Start of Something Big
 The State of Things
 The Stationmaster's Wife
 The Statue
+The Statue of Liberty
 The Statues are Laughing
 The Steadfast Heart
 The Steadfast Tin Soldier
@@ -45081,6 +45971,7 @@ The Story of Woo Viet
 The Story on Page One
 The Story Teller
 The Story Without a Name
+The Storyteller
 The Storyteller
 The Stowaway
 The Straight Road
@@ -45255,6 +46146,7 @@ The Super Sex
 The Super Snooper
 The Super Snooper
 The Supergrass
+The Supernaturals
 The Supreme Kid
 The Supreme Sacrifice
 The Supreme Temptation
@@ -45262,6 +46154,7 @@ The Supreme Test
 The Supreme Test
 The Sure Thing
 The Surf Girl
+The Surfer
 The Surgeon's Temptation
 The Surrogate
 The Survivor
@@ -45285,6 +46178,7 @@ The Sweeney
 The Sweet and Sour Cops
 The Sweet and Sour Cops Part II
 The Sweet Body of Deborah
+The Sweet Charm of Sin
 The Sweet Ride
 The Sweetheart of Sigma Chi
 The Swell-Head
@@ -45400,6 +46294,7 @@ The Tear That Burned
 The Tears of an Onion
 The Teaser
 The Teckman Mystery
+The Ted Kennedy Jr. Story
 The Ted Knight Show
 The Teeth of the Tiger
 The Telegraph Trail
@@ -45461,6 +46356,7 @@ The Terror of the Tongs
 The Terror of Tiny Town
 The Terror of Twin Mountains
 The Terror with Cross-Eyes
+The Terrorizers
 The Terrornauts
 The Test
 The Test
@@ -45479,6 +46375,7 @@ The Texan Meets Calamity Jane
 The Texans
 The Texas Bad Man
 The Texas Chain Saw Massacre
+The Texas Chainsaw Massacre 2
 The Texas Kid
 The Texas Marshal
 The Texas Rambler
@@ -45687,6 +46584,7 @@ The Tomboy
 The Tomboy
 The Tomboy
 The Tomboy on Bar Z
+The Tommy Chong Roast
 The Tomorrow People
 The Tong Man
 The Tong Sandwich
@@ -45711,6 +46609,7 @@ The Tornado
 The Tornado
 The Torrent
 The Torrent
+The Tortellis
 The Tortoise and the Hare
 The Torture Chamber of Dr. Sadism
 The Tortured Heart
@@ -45752,6 +46651,7 @@ The Toy Shop
 The Toy Tiger
 The Toy Wife
 The Toyland Paper Chase
+The Tracey Ullman Show
 The Trackers
 The Tragedy of Ambition
 The Tragedy of Bear Mountain
@@ -46212,6 +47112,7 @@ The Velvet Touch
 The Velvet Underground and Nico
 The Velvet Vampire
 The Venetian Affair
+The Venetian Woman
 The Vengeance of Doctor Mabuse
 The Vengeance of Durand
 The Vengeance of Durand; or, the Two Portraits
@@ -46283,6 +47184,7 @@ The Villain
 The Villain
 The Villain Still Pursued Her
 The Villains
+The Vindicator
 The Vintage
 The Violation of Claudia
 The Violation of Sarah McDavid
@@ -46603,6 +47505,7 @@ The Whispering Shadow
 The Whispering Skull
 The Whistle
 The Whistle at Eaton Falls
+The Whistle Blower
 The Whistler
 The White Angel
 The White Angel
@@ -46664,6 +47567,7 @@ The Whole Town's Talking
 The Whole Truth
 The Whole Truth
 The Whole World Is Watching
+The Whoopee Boys
 The Whoopee Party
 The Wicked City
 The Wicked Darling
@@ -46749,6 +47653,7 @@ The Will
 The Will o' the Wisp
 The Will of the People
 The Willow Tree
+The Wilton North Report
 The Win(k)some Widow
 The Winchester Woman
 The Wind
@@ -46952,6 +47857,7 @@ The Women
 The Women in His Life
 The Women Men Marry
 The Women of Pitcairn Island
+The Women's Club
 The Women's Room
 The Wonder Man
 The Wonderful Adventure
@@ -46961,6 +47867,7 @@ The Wonderful John Acton
 The Wonderful Land of Oz
 The Wonderful Lies of Nina Petrovna
 The Wonderful Thing
+The Wonderful Wizard of Oz
 The Wonderful Wizard of Oz
 The Wonderful Wooing
 The Wonderful World of the Brothers Grimm
@@ -47021,8 +47928,10 @@ The World, the Flesh and the Devil
 The Worldly Madonna
 The Worm Turns
 The Worst of Friends
+The Worst Witch
 The Worst Woman in Paris?
 The Wounded Man
+The Wraith
 The Wrath of God
 The Wrath of the Gods
 The Wreck
@@ -47133,6 +48042,7 @@ The Young Land
 The Young Lions
 The Young Loner
 The Young Lovers
+The Young Magician
 The Young Man Who 'Figgered'
 The Young Marrieds
 The Young Master
@@ -47166,6 +48076,7 @@ The Yum Yum Girls
 The Zany Adventures of Robin Hood
 The Zebra Force
 The Zeppelin's Last Raid
+The Zero Boys
 The Zero Hour
 The Zero Hour
 The Zero Hour
@@ -47223,6 +48134,7 @@ There He Goes
 There Is No 13
 There It Is
 There Lived an Old Man and an Old Woman
+There Must Be a Pony
 There They Go-Go-Go!
 There Was a Crooked Man
 There Was a Crooked Man...
@@ -47304,6 +48216,7 @@ They Shoot Horses, Don't They?
 They Stooge to Conga
 They Wanted to Marry
 They Went That-A-Way & That-A-Way
+They Were Eleven
 They Were Expendable
 They Were Not Divided
 They Were Sisters
@@ -47347,6 +48260,7 @@ Think Fast, Mr. Moto
 Think First
 Think It Over
 Think It Over
+Thinkin' Big
 Third Class Male
 Third Eye Butterfly
 Third Finger, Left Hand
@@ -47369,6 +48283,7 @@ Thirty Days
 Thirty Days at Hard Labor
 Thirty Leagues Under the Sea
 Thirty Seconds Over Tokyo
+Thirtysomething
 This Above All
 This Ancient Law
 This Can't Happen Here
@@ -47459,6 +48374,7 @@ This'll Make You Whistle
 Thomas & Friends
 Thomas the Impostor
 Thomasine & Bushrod
+Thompson's Last Run
 Thompson's Night Out
 Thor, Lord of the Jungles
 Thorns and Orange Blossoms
@@ -47518,12 +48434,14 @@ Thou Shalt Not Pass
 Thou Shalt Not Steal
 Thoughtless Women
 Thousands Cheer
+Thrashin'
 Threads
 Threads of Destiny
 Threads of Fate
 Three
 Three
 Three Ages
+Three Amigos!
 Three Arabian Nuts
 Three Bad Men and a Girl
 Three Bad Sisters
@@ -47546,6 +48464,7 @@ Three Cornered Moon
 Three Crowns of the Sailor
 Three Daring Daughters
 Three Dark Horses
+Three Daughters
 Three Daughters
 Three Days of the Condor
 Three Days to Live
@@ -47809,6 +48728,7 @@ Thus Another Day
 THX 1138
 Thy Name Is Woman
 Thy Neighbor's Wife
+Thérèse
 Thérèse Raquin
 Thérèse Raquin
 Tic Tac Dough
@@ -47895,6 +48815,7 @@ Time Limit
 Time Lock
 Time Lock No. 776
 Time Locks and Diamonds
+Time of Hope
 Time of the Heathen
 Time on My Hands
 Time Out for Lessons
@@ -48017,6 +48938,7 @@ To See Such Fun
 To Serve Them All My Days
 To Sir, with Love
 To Skin a Spy
+To Sleep So as to Dream
 To Spring
 To Tell the Truth
 To Tell the Truth
@@ -48133,6 +49055,7 @@ Tommy Gets His Sister Married
 Tommy the Toreador
 Tommy Tucker's Tooth
 Tomorrow
+Tomorrow
 Tomorrow and Tomorrow
 Tomorrow at Seven
 Tomorrow at Ten
@@ -48248,14 +49171,17 @@ Top Banana
 Top Cat
 Top Flat
 Top Gun
+Top Gun
 Top Hand
 Top Hat
 Top Hat and Spuds Nose
 Top Man
+Top Model
 Top o' the Morning
 Top o' the Morning
 Top of the Form
 Top of the Hill
+Top of the Pops
 Top of the Town
 Top of the World
 Top Secret
@@ -48308,6 +49234,7 @@ Torchy's Millions
 Torchy's Night Cap
 Torchy's Two Toots
 Torment
+Torment
 Tormented
 Torn Between Two Lovers
 Torn Curtain
@@ -48336,6 +49263,7 @@ Toto Double or Nothing
 Toton
 Totò sceicco
 Totò, Peppino e le fanatiche
+Touch and Go
 Touch of Evil
 Touchdown Mickey
 Touchdown!
@@ -48351,12 +49279,14 @@ Tough Cookies
 Tough Cop
 Tough Enough
 Tough Guy
+Tough Guys
 Tough Kid
 Toughest Man in Arizona
 Toughlove
 Toula, or the Genie of the Water
 Toulouse La Trick
 Tour De Farce
+Tour of Duty
 Touring
 Tourist
 Tourist Trap
@@ -48504,6 +49434,7 @@ Trapped by Television
 Trapped by the Camera
 Trapped by the Mormons
 Trapped in a Forest Fire
+Trapped in Silence
 Trapped in the Great Metropolis
 Trapped in the Sky
 Trapper John, M.D.
@@ -48521,6 +49452,7 @@ Traveling Husbands
 Traveling Saleslady
 Traveling Salesman
 Traveller's Joy
+Travels of Mr. Kleks
 Travels with My Aunt
 Travis Logan, D.A.
 Travis McGee
@@ -48561,6 +49493,7 @@ Trent's Last Case
 Tres Amores
 Trial
 Trial and Error
+Trial by Jury
 Trial by Terror
 Trial by Trigger
 Trial Marriage
@@ -48577,6 +49510,7 @@ Tribute to the Teachers
 Tricia's Wedding
 Trick Baby
 Trick for Trick
+Trick or Treat
 Trick or Treat
 Trick or Treats
 Trick or Tweet
@@ -48636,6 +49570,7 @@ Trixie from Broadway
 Trocadero
 Trocadero Lemon Blue
 Trog
+Troll
 Trolley Troubles
 Trollkins
 Trombone Trouble
@@ -48698,6 +49633,7 @@ True Grit: A Further Adventure
 True Heart Susie
 True Heaven
 True Love and Fake Money
+True Stories
 True to Life
 True to the Army
 True to the Navy
@@ -48705,6 +49641,7 @@ Truman at Potsdam
 Trumpet Island
 Trust Me!
 Trust Your Wife
+Truth or Dare?
 Truth Stranger Than Fiction
 Truthful Tulliver
 Truxton King
@@ -48765,6 +49702,7 @@ Turns and Twists
 Turtle Diary
 Tusk
 Tutti dentro
+Tutti Frutti
 Tuxedo Junction
 TV Reader's Digest
 TV Recital Hall
@@ -48844,6 +49782,7 @@ Twins of Suffering Creek
 Twirl
 Twist and Shout
 Twist Around the Clock
+Twisted
 Twisted Nerve
 Twisted Trails
 Twisted Triggers
@@ -48966,6 +49905,7 @@ Two Scent's Worth
 Two Scrambled
 Two Seconds
 Two Señoritas from Chicago
+Two Shores
 Two Sinners
 Two Sisters
 Two Sisters
@@ -49039,6 +49979,7 @@ UFO
 UFOria
 Ugly Duckling
 Ugly, Dirty and Bad
+Ultimax Force
 Ultra Flesh
 Ultra Q
 Ultraman
@@ -49126,6 +50067,7 @@ Under Royal Patronage
 Under Secret Orders
 Under Secret Orders
 Under Sentence
+Under Siege
 Under Southern Skies
 Under Southern Stars
 Under Strange Flags
@@ -49141,11 +50083,13 @@ Under the Big Top
 Under the Black Eagle
 Under the Black Robe
 Under the Bridges
+Under the Cherry Moon
 Under the Crescent
 Under the Daisies; or, As a Tale That Is Told
 Under the Gaslight
 Under the Greenwood Tree
 Under the Gun
+Under the Influence
 Under the Lash
 Under the Neighbours' Roof
 Under the Pampas Moon
@@ -49219,6 +50163,7 @@ Unfaithfully Yours
 Unfaithfully Yours
 Unfinished Business
 Unfinished Business
+Unfinished Business
 Unfinished Painting
 Unfinished Piece for the Player Piano
 Unfriendly Fruit
@@ -49259,6 +50204,7 @@ Unmarried Wives
 Unmasked
 Unmasked
 Unmasked
+Unnatural Causes
 Unnatural Family
 Unnatural History
 Unprotected
@@ -49374,7 +50320,9 @@ Urubu
 Urusei yatsura
 Urusei Yatsura 2: Beautiful Dreamer
 Urusei Yatsura 3: Remember My Love
+Urusei Yatsura 4: Lum the Forever
 Urusei Yatsura: Only You
+Urusei Yatsura: Ryoko's September Tea Party
 Us Two
 Use Your Imagination
 Used Cars
@@ -49438,6 +50386,7 @@ Valley of the Zombies
 Valley of Vengeance
 Valley of Wanted Men
 Value for Money
+Vamp
 Vamp Till Ready
 Vamping
 Vamping the Vamp
@@ -49459,6 +50408,8 @@ Vanessa
 Vanessa, Her Love Story
 Vanina
 Vanished
+Vanishing Act
+Vanishing America
 Vanishing Men
 Vanishing Millions
 Vanishing Point
@@ -49487,6 +50438,7 @@ Variety Time
 Variola Vera
 Varsity
 Varsity Show
+Vasectomy: A Delicate Matter
 Vaudeo Varieties
 Vaudeville
 Vaudeville
@@ -49494,6 +50446,7 @@ Vega$
 Veiled Aristocrats
 Velvet
 Velvet Fingers
+Vendetta
 Vendetta
 Vendetta of a Samurai
 Venetian Lies
@@ -49538,6 +50491,7 @@ Versatile Varieties
 Vertigo
 Veruschka - Poetry of a Woman
 Very Close Encounters of the Fourth Kind
+Very Close Quarters
 Very Confidential
 Very Happy Alexander
 Very Nice, Very Nice
@@ -49589,6 +50543,7 @@ Video Vixens!
 Videodrome
 Vidhaata
 Viennese Nights
+Vietnam War Story
 View from the People Wall
 Vigil
 Vigil in the Night
@@ -49632,6 +50587,7 @@ Violent Saturday
 Violent Summer
 Violent Women
 Violet
+Violets Are Blue...
 Virgin Cowboy
 Virgin Lips
 Virgin Witch
@@ -49652,12 +50608,14 @@ Virtuous Sinners
 Virtuous Wives
 Virus: The End
 Vision Quest
+Visionaries: Knights of the Magical Light
 Visions...
 Visit to a Chief's Son
 Visit to a Small Planet
 Visit with the Armed Forces
 Visiting Hours
 Visitors from the Arkana Galaxy
+Vital Signs
 Vitamin Hay
 Vitamin Pink
 Viva Baja
@@ -49724,6 +50682,7 @@ Vulcano
 Vultures
 Vultures of Society
 Vultures of the Sea
+Väter und Söhne - Eine deutsche Tragödie
 W
 W pustyni i w puszczy
 W.C. Fields and Me
@@ -49784,6 +50743,7 @@ Wake Up and Dream
 Wake Up and Live
 Wake Up the Gypsy in Me
 Wake Up, Mes Bons Amis!
+Waking Up Crazy
 Waking Up the Town
 Waldo's Last Stand
 Walk a Crooked Mile
@@ -49957,6 +50917,7 @@ Watch Your Step
 Watch Your Step
 Watch Your Wife
 Watched!
+Watching
 Water
 Water Babies
 Water Birds
@@ -50127,6 +51088,7 @@ Weekend Lovers
 Weekend of a Champion
 Weekend of Terror
 Weekend Pass
+Weekend Warriors
 Weekend with the Babysitter
 Weekend, Italian Style
 Weighed But Found Wanting
@@ -50139,9 +51101,11 @@ Welcome Home
 Welcome Home
 Welcome Home Brother Charles
 Welcome Home Soldier Boys
+Welcome Home, Bobby
 Welcome Home, Johnny Bristol
 Welcome Stranger
 Welcome Stranger
+Welcome to 18
 Welcome to Arrow Beach
 Welcome to Blood City
 Welcome to Hard Times
@@ -50158,6 +51122,7 @@ Wells Fargo Gunmaster
 Wendy and Me
 Wenn Mädchen zum Manöver blasen
 Went the Day Well?
+Werewolf
 Werewolf in a Girls' Dormitory
 Werewolf of London
 Werewolf Woman
@@ -50420,6 +51385,7 @@ What's Your Sign?
 What, No Men?
 What-No Beer?
 What?
+Whatever It Takes
 Whatever She Wants
 Wheat and Tares: A Story of Two Boys Who Tackle Life on Diverging Lines
 Wheel of Chance
@@ -50543,6 +51509,7 @@ When Summer Comes
 When Taekwondo Strikes
 When the Angelus Was Ringing
 When the Boat Comes In
+When the Bough Breaks
 When the Boys Meet the Girls
 When the Cat Came Back
 When the Cat Comes
@@ -50608,6 +51575,7 @@ When's Your Birthday?
 Where Am I?
 Where Angels Go Trouble Follows!
 Where Are My Children?
+Where Are the Children?
 Where Are Your Children?
 Where Charity Begins
 Where Chimneys Are Seen
@@ -50648,6 +51616,7 @@ Where the North Begins
 Where the North Begins
 Where the Pavement Ends
 Where the Red Fern Grows
+Where the River Runs Black
 Where the Screen Tree Grows
 Where the Sidewalk Ends
 Where the Spies Are
@@ -50736,6 +51705,7 @@ Whistling in Dixie
 Whistling in the Dark
 Whistling in the Dark
 Whistling Jim
+White and Lazy
 White and Unmarried
 White Banners
 White Beast
@@ -50787,6 +51757,7 @@ White Shoulders
 White Shoulders
 White Sister
 White Skin Black Thighs
+White Slave
 White Slippers
 White Star
 White Sun of the Desert
@@ -50820,6 +51791,7 @@ Who in the World
 Who Is Harry Kellerman and Why Is He Saying Those Terrible Things About Me?
 Who Is Hope Schuyler?
 Who Is in the Box?
+Who Is Julia?
 Who Is Killing the Great Chefs of Europe?
 Who Is Number One?
 Who Is She?
@@ -50893,6 +51865,7 @@ Whom the Gods Destroy
 Whom the Gods Destroy
 Whom the Gods Would Destroy
 Whoopee!
+Whoops Apocalypse
 Whoops, I'm an Indian!
 Whose Husband?
 Whose Life Is It Anyway?
@@ -50940,6 +51913,7 @@ Why Women Love
 Why Women Remarry
 Why Worry?
 Why Would I Lie?
+Why, Why, Tell Me Why!
 Why?
 Wichita
 Wichita Town
@@ -51081,6 +52055,7 @@ Wildcat Bus
 Wildcat Jordan
 Wildcat Saunders
 Wildcat Trooper
+Wildcats
 Wilderness Mail
 Wildfire
 Wildfire
@@ -51110,6 +52085,7 @@ Willie's Disguise
 Willie's Great Scheme
 Willy
 Willy Wonka & the Chocolate Factory
+Willy/Milly
 Wilma
 Wilmington 10 -- U.S.A. 10, 000
 Wilson
@@ -51119,7 +52095,9 @@ Wilson and the Tariffs
 Wilson's Row Boat
 Wimmin Hadn't Oughta Drive
 Wimmin Is a Myskery
+Wimps
 Win That Girl
+Win, Lose or Draw
 Win, Lose or Draw
 Win, Place or Steal
 Winchester '73
@@ -51132,6 +52110,7 @@ Window Cleaners
 Window on Main Street
 Window on the World
 Windows
+Windrider
 Winds of Chance
 Winds of the Pampas
 Winds of the Wasteland
@@ -51176,6 +52155,7 @@ Winners & Sinners
 Winners of the West
 Winners of the West
 Winners of the Wilderness
+Winners Take All
 Winnetou
 Winnetou and the Crossbreed
 Winnetou: The Last Shot
@@ -51216,13 +52196,17 @@ Winterset
 Wintertime
 Wir schalten um auf Hollywood
 Wire Service
+Wired to Kill
 Wiretapper
+Wisdom
 Wise Blood
 Wise Girl
 Wise Girls
+Wise Guys
 Wise Husbands
 Wise Quackers
 Wise Quacks
+Wiseguy
 Wished on Mabel
 Wit's End
 Witch from Nepal
@@ -51231,6 +52215,7 @@ Witchcraft
 Witchcraft
 Witches' Brew
 Witchfinder General
+Witchfire
 With a Feminine Touch
 With a Life at Stake
 With a Song in My Heart
@@ -51291,7 +52276,9 @@ Without Warning!
 Witness
 Witness for the Prosecution
 Witness in the Dark
+Witness in the War Zone
 Witness Out of Hell
+Witness to Apartheid
 Witness to Murder
 Witness to War: Dr. Charlie Clements
 Wits and Fits
@@ -51412,6 +52399,7 @@ Women in Hiding
 Women in Love
 Women in New York
 Women in Prison
+Women in Prison
 Women in the Night
 Women in the Other Room
 Women in the Wind
@@ -51432,6 +52420,7 @@ Women of Ryazan
 Women of San Quentin
 Women of the Night
 Women of the Prehistoric Planet
+Women of Valor
 Women They Talk About
 Women Who Dare
 Women Who Give
@@ -51478,6 +52467,7 @@ Working Class
 Working for Peanuts
 Working Girls
 Working Girls
+Working Girls
 Working Out with Police Dog
 Working Stiffs
 World for Ransom
@@ -51520,6 +52510,7 @@ Wrong Is Right
 Wrong Move
 Wrong Way Butch
 Wrongs Righted
+Wu ye li ren
 WUSA
 Wuthering Heights
 Wuthering Heights
@@ -51666,6 +52657,7 @@ You Can't Ration Love
 You Can't Run Away from It
 You Can't Shoe a Horse Fly
 You Can't Take It with You
+You Can't Take It with You
 You Can't Win
 You Don't Know What You're Doin'!
 You Don't Say
@@ -51709,6 +52701,7 @@ You Were Never Lovelier
 You Will Remember
 You Write the Songs
 You'd Be Surprised
+You'll Die at Midnight
 You'll Find Out
 You'll Like My Mother
 You'll Never Get Rich
@@ -51778,6 +52771,7 @@ Young Dr. Kildare
 Young Dr. Kildare
 Young Dr. Malone
 Young Dragon
+Young Dragons: Kung Fu Kids
 Young Dynamite
 Young Eagles
 Young Eagles
@@ -51795,6 +52789,7 @@ Young Lady Chatterley
 Young Lady Chatterley II
 Young Love
 Young Love, First Love
+Young Love: Lemon Popsicle 7
 Young Lucrezia
 Young Lust
 Young Man of Manhattan
@@ -51808,6 +52803,7 @@ Young Mr. Jazz
 Young Mr. Lincoln
 Young Mrs. Winthrop
 Young Nowheres
+Young Nurses in Love
 Young People
 Young People, Remember
 Young Pioneers
@@ -51825,6 +52821,7 @@ Young Wives' Tale
 Young Wolves
 Young Woodley
 Young, Wild and Wonderful
+Youngblood
 Youngblood Hawke
 Younger Brother
 Your All-American College Show
@@ -51935,6 +52932,7 @@ Zaza
 Zazie dans le Métro
 Zeb vs. Paprika
 Zebra in the Kitchen
+Zeisters
 Zelig
 Zenobia
 Zeppelin
@@ -51959,10 +52957,12 @@ Zollenstein
 Zombie
 Zombie Holocaust
 Zombie Island Massacre
+Zombie Nightmare
 Zombies of Mora Tau
 Zombies of the Stratosphere
 Zombies on Broadway
 Zone Fighter
+Zone Troopers
 Zongar
 Zoo in Budapest
 Zoobilee Zoo
