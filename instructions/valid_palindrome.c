@@ -28,3 +28,8 @@ bool isPalindrome(char* s) {
 
     return true; // all characters matched
 }
+
+
+// I learned how to use the isalnum() function from <ctype.h>.
+// It checks whether a character is a letter or a number.
+// This was helpful for filtering out spaces, punctuation, and symbols when checking for palindromes.

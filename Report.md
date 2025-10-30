@@ -187,6 +187,8 @@ Recursion is when a function calls itself to solve a smaller part of a problem. 
 
 2. Select one coding question (this module or previous) from the [coding practice repository](https://github.com/CS5008-khoury/Resources/blob/main/LeetCodePractice.md) and include a c file with that code with your submission. Make sure to add comments on what you learned, and if you compared your solution with others. 
 
+[valid_palindrome.c](https://github.com/CS5008Fall2025/homework-speed-comparison-zembug/tree/main/instructions/valid_palindrome.c)
+
 ## References
 
 Add your references here. A good reference includes an inline citation, such as [1] , and then down in your references section, you include the full details of the reference. Computer Science research often uses [IEEE] or [ACM Reference format].
