@@ -178,14 +178,14 @@ For both these questions, are you are free to use what you did as the last secti
 
 1. Select one technical interview question (this module or previous) from the [technical interview list](https://github.com/CS5008-khoury/Resources/blob/main/TechInterviewQuestions.md) below and answer it in a few sentences. You can use any resource you like to answer the question.
 
-```markdown
-Recursion
-What is recursion? How does a recursive algorithm exit?
 
-Describe a scenario when you would want to use recursion and a scenario where you wouldn't.
+   Recursion
+   What is recursion? How does a recursive algorithm exit?
 
-Recursion is when a function calls itself to solve a smaller part of a problem. Each time it calls itself, it works on a simpler version until it reaches a base case. Without a base case, the function would keep calling itself forever and crash. You might want to use recursion when solving problems that naturally break into smaller pieces, like calculating factorials or searching through a tree. But you wouldn’t use recursion for tasks that need lots of memory or very deep loops, like sorting huge arrays, because it can be slower and use too much stack space.
-```
+   Describe a scenario when you would want to use recursion and a scenario where you wouldn't.
+
+   Recursion is when a function calls itself to solve a smaller part of a problem. Each time it calls itself, it works on a simpler version until it reaches a base case. Without a base case, the function would keep calling itself forever and crash. You might want to use recursion when solving problems that naturally break into smaller pieces, like calculating factorials or searching through a tree. But you wouldn’t use recursion for tasks that need lots of memory or very deep loops, like sorting huge arrays, because it can be slower and use too much stack space.
+
 
 2. Select one coding question (this module or previous) from the [coding practice repository](https://github.com/CS5008-khoury/Resources/blob/main/LeetCodePractice.md) and include a c file with that code with your submission. Make sure to add comments on what you learned, and if you compared your solution with others. 
 
