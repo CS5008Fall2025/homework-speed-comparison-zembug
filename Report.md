@@ -126,17 +126,31 @@ For example:
 
 2. What data structure is the fast at adding elements (sorted)? Why do you think that is?
 
+   The fastest data structure for adding elements while keeping them sorted is a Binary Search Tree. Since a BST is designed to keep things in order as you insert, it doesn’t need to scan through every item like a linked list or shift elements around like a vector. Instead, it uses comparisons to quickly find the right spot for each new item. This makes adding much faster, especially when the tree is balanced.
+
 3. What data structure is the fastest at removing elements (sorted)? Why do you think that is?
+
+   The fastest data structure for removing elements while keeping them sorted is the Binary Search Tree. A BST can quickly find and remove items using comparisons, without needing to scan through everything or move other elements around. As long as the tree stays balanced, this process is very fast, even with large amounts of data. 
 
 4. What data structure is the fastest at searching? Why do you think that is?
 
+   The fastest data structure for searching is the Binary Search Tree. In the results, the BST had the lowest search times compared to sorted vectors and linked lists. This is because a BST uses comparisons to quickly narrow down where to look, instead of checking every item one by one. As long as the tree is balanced, it can find items very quickly, even when the dataset is large.
+
 5. What data structure is the fastest for adding elements to the front? Why do you think that is?
+
+   The fastest data structure for adding elements to the front is the Linked List. It is much faster because it creates a new node and points it to the current head of the list. There’s no need to move or shift any existing elements. In contrast, a vector stores elements in a fixed order in memory, so adding to the front means shifting every item one position to make space, which takes much more time as the list grows.
 
 6. What data structure is the fastest for adding elements to the back? Why do you think that is?
 
+   The fastest data structure for adding elements to the back is the Linked List. This is because it can quickly create a new node and attach it to the end by updating just one pointer, especially if it keeps track of the tail. Unlike a vector, which may need to shift memory or resize its storage as it grows, a linked list doesn’t need to move anything. That makes it much faster for back insertions, especially with large datasets.
+
 7. What data structure is the fastest for removing elements from the front? Why do you think that is?
 
+   The fastest data structure for removing elements from the front is the Linked List. Similar to adding elements, it doesn’t require shifting or resizing. Removal simply updates the head pointer to the next node. In contrast, a vector must shift every other element one position to the left, which becomes much slower as the list grows.
+
 8. What data structure is the fastest for removing elements from the back? Why do you think that is?
+
+   The fastest data structure for removing elements from the back is the Linked List. Similar to adding elements, it doesn’t need to shift or resize anything, it just updates a pointer to remove the last node, especially if it keeps track of the tail. A vector may need adjust its size, which takes more time as the list grows.
 
 ### Deeper Thinking
 
